@@ -38,6 +38,7 @@ CABIN_TYPES = {"Interior", "Ocean View", "Balcony", "Suite"}
 SHIP_SIZES = {"Small/Boutique", "Mid-Size", "Large/Mega-Ship"}
 AMENITIES = {"Specialty Dining", "Entertainment", "Spa & Wellness", "Kids Club", "Adults Only",
              "Casino", "Outdoor Activities", "All Inclusive"}
+OPTIONAL_FIELDS = {"imageCredit"}  # optional in the app's Cruise type — safe to add without a schema bump
 TEMPLATE_FIELDS = {
     "shipName", "cruiseLine", "durationNights", "portsOfCall", "cabinCategories", "amenityCategories",
     "amenityHighlights", "rating", "reviewCount", "imageURLs", "shipSize", "inclusions", "exclusions",
@@ -90,10 +91,13 @@ def epoch(d: date) -> int:
     return int(datetime.combine(d, time(12), tzinfo=timezone.utc).timestamp())
 
 
-def make_cruise(t: dict, dep: date) -> dict:
+def make_cruise(t: dict, dep: date, preliminary: bool) -> dict:
     cid = uuid.uuid5(ID_NAMESPACE, f"{t['shipName']}|{dep.isoformat()}")
     sub = lambda kind, i: str(uuid.uuid5(cid, f"{kind}{i}")).upper()
     cruise = {k: t[k] for k in TEMPLATE_FIELDS}
+    cruise.update({k: t[k] for k in OPTIONAL_FIELDS if t.get(k)})
+    # Dates from a "PRELIMINARY" Port schedule — the app badges these until the final schedule replaces them.
+    cruise["isPreliminary"] = preliminary
     cruise["id"] = str(cid).upper()
     cruise["departureDate"] = epoch(dep)
     cruise["returnDate"] = epoch(dep + timedelta(days=t["durationNights"]))
@@ -124,9 +128,9 @@ def build(schedules: list[dict], templates: dict[str, dict]):
                     skipped.append(line)
                     continue
                 notes.append(line)
-                t = {**t, **{k: v for k, v in override.items() if k in TEMPLATE_FIELDS}}
+                t = {**t, **{k: v for k, v in override.items() if k in TEMPLATE_FIELDS | OPTIONAL_FIELDS}}
             dep = date.fromisoformat(call["date"])
-            cruises.append(make_cruise(t, dep))
+            cruises.append(make_cruise(t, dep, s["preliminary"]))
             by_ship[t["shipName"]].append((dep, t["durationNights"]))
 
     # Anomalies: a ship can't depart again before its previous voyage returns.

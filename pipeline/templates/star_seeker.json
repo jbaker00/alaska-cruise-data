@@ -70,11 +70,7 @@
   "hasCasino": false,
   "hasKidsClub": false,
   "hasSpa": true,
-  "imageURLs": [
-    "https://picsum.photos/seed/windstar-star-seeker/800/450",
-    "https://picsum.photos/seed/windstar-star-seeker-2/800/450",
-    "https://picsum.photos/seed/windstar-star-seeker-3/800/450"
-  ],
+  "imageURLs": [],
   "inclusions": [
     "All meals in Amphora restaurant and casual venues",
     "Most beverages (select wines and beers with dinner)",
@@ -135,8 +131,8 @@
     }
   ],
   "rating": 4.7,
-  "reviewCount": 876,
-  "reviewSnippet": "\"Windstar's Star Seeker is unlike any Alaska experience we'd ever had. The yacht atmosphere, the naturalist on board, the open bridge — Alaska feels completely different from an intimate ship of this caliber. Extraordinary.\" — Verified Guest",
+  "reviewCount": 0,
+  "reviewSnippet": "Windstar's small expedition-style ship carries a few hundred guests — closer to the scenery, with a more intimate, yacht-like feel than the big ships.",
   "shipSize": "Small/Boutique",
   "overrides": []
 }

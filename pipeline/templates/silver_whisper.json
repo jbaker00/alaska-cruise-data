@@ -98,7 +98,7 @@
     "Rare call at Klawock"
   ],
   "rating": 4.7,
-  "reviewCount": 410,
+  "reviewCount": 0,
   "imageURLs": [
     "https://commons.wikimedia.org/wiki/Special:FilePath/Silver_whisper_2016_in_Zeebrugge.jpg?width=800"
   ],
@@ -134,6 +134,7 @@
   "hasSpa": true,
   "hasCasino": true,
   "isAllInclusive": true,
-  "reviewSnippet": "A one-of-a-kind 2027 departure: an intimate, all-inclusive Silversea voyage from Seattle that reaches small ports like Klawock before ending in Vancouver. — Editor's note",
-  "overrides": []
+  "reviewSnippet": "A one-of-a-kind 2027 departure: an intimate, all-inclusive Silversea voyage from Seattle that reaches small ports like Klawock before ending in Vancouver.",
+  "overrides": [],
+  "imageCredit": "Photo: Unknown author / Wikimedia Commons (CC0)"
 }

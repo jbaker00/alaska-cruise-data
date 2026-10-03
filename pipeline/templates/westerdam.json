@@ -102,7 +102,7 @@
     "Crow's Nest observation lounge"
   ],
   "rating": 4.4,
-  "reviewCount": 1980,
+  "reviewCount": 0,
   "imageURLs": [
     "https://commons.wikimedia.org/wiki/Special:FilePath/MS_Westerdam_Skagway.jpg?width=800"
   ],
@@ -142,7 +142,7 @@
   "hasSpa": true,
   "hasCasino": true,
   "isAllInclusive": false,
-  "reviewSnippet": "Classic Holland America Alaska: a mid-size ship, ranger-led Glacier Bay, and live music every night. — Editor's note",
+  "reviewSnippet": "Classic Holland America: a mid-size ship, live music every night, and enrichment talks. In 2027 its only Seattle departure is a rare 34-night crossing to Australia via Hawaii and the South Pacific.",
   "overrides": [
     {
       "dates": [
@@ -305,5 +305,6 @@
         "Outdoor Activities"
       ]
     }
-  ]
+  ],
+  "imageCredit": "Photo: PhilipRJ 89 / Wikimedia Commons (CC BY-SA 4.0)"
 }

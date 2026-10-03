@@ -104,7 +104,7 @@
     "Cagney's Steakhouse"
   ],
   "rating": 4.3,
-  "reviewCount": 2210,
+  "reviewCount": 0,
   "imageURLs": [
     "https://commons.wikimedia.org/wiki/Special:FilePath/Norwegian_Jade_Piraeus.jpg?width=800"
   ],
@@ -144,7 +144,7 @@
   "hasSpa": true,
   "hasCasino": true,
   "isAllInclusive": false,
-  "reviewSnippet": "Norwegian Jade's brief Seattle stop at the very end of the 2027 season offers Glacier Bay at shoulder-season prices, plus a rare one-way crossing to Japan for repositioning fans. — Editor's note",
+  "reviewSnippet": "Norwegian Jade's brief Seattle stop at the very end of the 2027 season offers Glacier Bay at shoulder-season prices, plus a rare one-way crossing to Japan for repositioning fans.",
   "overrides": [
     {
       "dates": [
@@ -224,5 +224,6 @@
         }
       ]
     }
-  ]
+  ],
+  "imageCredit": "Photo: Lindemann97 / Wikimedia Commons (CC BY-SA 4.0)"
 }

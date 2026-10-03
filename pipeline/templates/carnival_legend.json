@@ -106,7 +106,7 @@
     "Punchliner Comedy Club"
   ],
   "rating": 4.2,
-  "reviewCount": 3870,
+  "reviewCount": 0,
   "imageURLs": [
     "https://commons.wikimedia.org/wiki/Special:FilePath/Cruise_Ship_Carnival_Legend_docked_in_Roatán%2C_Honduras_-_December_2010.jpg?width=800"
   ],
@@ -148,7 +148,7 @@
   "hasSpa": true,
   "hasCasino": true,
   "isAllInclusive": false,
-  "reviewSnippet": "Carnival's newest Seattle ship for 2027 brings a long day in Skagway and scenic cruising in Tracy Arm Fjord at Carnival's value price point — a strong pick for families and first-time Alaska cruisers. — Editor's note",
+  "reviewSnippet": "Carnival's new Seattle ship for 2027 brings a long day in Skagway and scenic cruising in Tracy Arm Fjord at Carnival's value price point — a strong pick for families and first-time cruisers.",
   "overrides": [
     {
       "dates": [
@@ -249,5 +249,6 @@
       "skip": true,
       "note": "Arrival only — the Hawaii cruise returns this day; no bookable Seattle departure found."
     }
-  ]
+  ],
+  "imageCredit": "Photo: Daniel Foster from Shreveport / Wikimedia Commons (CC BY-SA 2.0)"
 }
