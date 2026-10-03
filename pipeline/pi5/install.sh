@@ -19,7 +19,7 @@ if [[ ! -f "$ENV_FILE" ]]; then
 # Optional: ntfy.sh topic or full URL for phone notifications
 NTFY_TOPIC=
 CONF
-  echo "→ Wrote $ENV_FILE — edit it before the first run"
+  echo "→ Wrote $ENV_FILE (optional: set NTFY_TOPIC for phone alerts)"
 fi
 
 mkdir -p "$UNIT_DIR"
