@@ -1,0 +1,228 @@
+{
+  "shipName": "Norwegian Jade",
+  "aliases": [],
+  "cruiseLine": "Norwegian Cruise Line",
+  "durationNights": 7,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Norwegian Jade visits Seattle for a short end-of-season run before crossing the Pacific to Asia.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A Freestyle sea day — no fixed dining times, so the scenery sets the schedule.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Alaska's capital city: Mendenhall Glacier, whale watching, and the Mount Roberts Tramway.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "A full day of scenic cruising with National Park Service rangers aboard. Watch tidewater glaciers calve into the bay.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Creek Street, totem poles, and floatplane flightseeing over Misty Fjords.",
+      "hoursInPort": 7,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "A relaxing day sailing south — late-season sunsets come early over the Inside Passage.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage"
+    },
+    {
+      "dayNumber": 7,
+      "description": "An evening call in British Columbia's garden city — stroll the Inner Harbour, see the Parliament Buildings lit up, or visit Butchart Gardens.",
+      "hoursInPort": 5,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 8,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "cabinCategories": [
+    {
+      "description": "Freestyle interior stateroom with flexible dining and NCL's casual style. Two lower beds convertible to queen.",
+      "pricePerPerson": 799,
+      "squareFeet": 143,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view stateroom with picture window — late-season Alaska light makes for dramatic views.",
+      "pricePerPerson": 949,
+      "squareFeet": 161,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom — ideal for Glacier Bay scenic cruising day.",
+      "pricePerPerson": 1249,
+      "squareFeet": 205,
+      "type": "Balcony"
+    },
+    {
+      "description": "Owner's or Penthouse suite with butler and concierge service and a spacious private balcony.",
+      "pricePerPerson": 2599,
+      "squareFeet": 572,
+      "type": "Suite"
+    }
+  ],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Casino",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "Freestyle dining — no fixed times",
+    "Mandara Spa with thermal suite",
+    "Splash Academy kids club",
+    "Spinnaker Lounge",
+    "Late-season Alaska fares",
+    "Cagney's Steakhouse"
+  ],
+  "rating": 4.3,
+  "reviewCount": 2210,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Norwegian_Jade_Piraeus.jpg?width=800"
+  ],
+  "shipSize": "Mid-Size",
+  "inclusions": [
+    "Meals in main dining rooms and Garden Café buffet",
+    "Entertainment and activities",
+    "Splash Academy kids program",
+    "Pools and hot tubs",
+    "Port taxes and fees"
+  ],
+  "exclusions": [
+    "Specialty restaurants",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "diningOptions": [
+    "Cagney's Steakhouse",
+    "Le Bistro (French)",
+    "La Cucina (Italian)",
+    "Teppanyaki",
+    "Grand Pacific & Alizar main dining rooms",
+    "Garden Café buffet"
+  ],
+  "entertainmentOptions": [
+    "Stardust Theater productions",
+    "Spinnaker Lounge live music",
+    "Bliss Ultra Lounge",
+    "Comedy shows",
+    "Casino"
+  ],
+  "hasKidsClub": true,
+  "hasAdultsOnly": false,
+  "hasSpa": true,
+  "hasCasino": true,
+  "isAllInclusive": false,
+  "reviewSnippet": "Norwegian Jade's brief Seattle stop at the very end of the 2027 season offers Glacier Bay at shoulder-season prices, plus a rare one-way crossing to Japan for repositioning fans. — Editor's note",
+  "overrides": [
+    {
+      "dates": [
+        "2027-09-14"
+      ],
+      "note": "Unverified: some fare sites show Jade on Vancouver–Whittier runs this week. Confirm before promoting."
+    },
+    {
+      "dates": [
+        "2027-09-28"
+      ],
+      "note": "15-night one-way Seattle → Tokyo (Yokohama) transpacific.",
+      "durationNights": 15,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 (Smith Cove Terminal) for a 15-night one-way crossing to Japan by way of Alaska.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Sailing north through the Inside Passage.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage Scenic"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Creek Street, totem poles, and Misty Fjords flightseeing.",
+          "hoursInPort": 7,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Russian and Tlingit heritage in Alaska's former capital.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Sitka, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Scenic cruising at the face of North America's largest tidewater glacier — more than six miles wide.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Hubbard Glacier"
+        },
+        {
+          "dayNumber": 6,
+          "description": "A brief call at the gateway to Prince William Sound.",
+          "hoursInPort": 6,
+          "isCruisingDay": false,
+          "name": "Whittier, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Several sea days across the North Pacific, crossing the International Date Line.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – North Pacific Crossing"
+        },
+        {
+          "dayNumber": 14,
+          "description": "Hokkaido's historic port — Mount Hakodate views, the morning market, and Goryokaku star fort.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Hakodate, Japan"
+        },
+        {
+          "dayNumber": 16,
+          "description": "Disembarkation in Yokohama — this voyage ends in Japan.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Tokyo (Yokohama), Japan"
+        }
+      ]
+    }
+  ]
+}

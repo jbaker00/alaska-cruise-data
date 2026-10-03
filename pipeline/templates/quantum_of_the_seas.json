@@ -1,0 +1,160 @@
+{
+  "shipName": "Quantum of the Seas",
+  "aliases": [],
+  "cruiseLine": "Royal Caribbean",
+  "durationNights": 7,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Quantum of the Seas returns to Seattle in 2027 with a week of glaciers, gold rush towns, and sky-high views from North Star.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A sea day to try RipCord by iFLY skydiving, the FlowRider surf simulator, or bumper cars in SeaPlex as the coastline slips by.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Russian and Tlingit heritage meet in Alaska's former capital. Visit Sitka National Historical Park's totem trail, St. Michael's Cathedral, and the Alaska Raptor Center.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Sitka, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "Gold Rush history and mountain scenery — the White Pass & Yukon Route Railway climbs nearly 3,000 feet in 20 miles.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Morning scenic cruising up a steep-walled fjord to the face of Dawes Glacier — then on to Juneau for the afternoon.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Endicott Arm & Dawes Glacier"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Afternoon in Alaska's capital: Mendenhall Glacier, whale watching, or the Mount Roberts Tramway.",
+      "hoursInPort": 7,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Ride North Star 300 feet above the sea for a final look at the Inside Passage.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage"
+    },
+    {
+      "dayNumber": 7,
+      "description": "An evening call in British Columbia's garden city — stroll the Inner Harbour, see the Parliament Buildings lit up, or visit Butchart Gardens.",
+      "hoursInPort": 5,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 8,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "cabinCategories": [
+    {
+      "description": "Interior stateroom — many feature Royal Caribbean's 'virtual balcony', a floor-to-ceiling screen streaming the real-time view outside.",
+      "pricePerPerson": 999,
+      "squareFeet": 166,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view stateroom with large window — a cozy vantage point for the Inside Passage.",
+      "pricePerPerson": 1199,
+      "squareFeet": 179,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Ocean view balcony stateroom — Quantum was built with a balcony in most cabins, perfect for fjord days.",
+      "pricePerPerson": 1499,
+      "squareFeet": 198,
+      "type": "Balcony"
+    },
+    {
+      "description": "Grand Suite with separate living area, large balcony, Coastal Kitchen access, and dedicated suite concierge.",
+      "pricePerPerson": 3299,
+      "squareFeet": 375,
+      "type": "Suite"
+    }
+  ],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Adults Only",
+    "Casino",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "North Star observation capsule (300 ft above sea)",
+    "RipCord by iFLY skydiving simulator",
+    "FlowRider surf simulator",
+    "SeaPlex bumper cars & roller skating",
+    "Two70 panoramic lounge",
+    "Adults-only Solarium",
+    "Adventure Ocean kids club"
+  ],
+  "rating": 4.4,
+  "reviewCount": 3120,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Quantum_of_the_Seas_%2852388873912%29.jpg?width=800"
+  ],
+  "shipSize": "Large/Mega-Ship",
+  "inclusions": [
+    "All meals in the four main dining rooms and Windjammer",
+    "North Star, FlowRider, and SeaPlex",
+    "Broadway-style shows in the Royal Theater",
+    "Adventure Ocean kids program",
+    "Port taxes and fees"
+  ],
+  "exclusions": [
+    "Specialty dining (Chops Grille, Wonderland, Izumi)",
+    "RipCord by iFLY",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "diningOptions": [
+    "Chops Grille (steakhouse)",
+    "Wonderland (imaginative cuisine)",
+    "Izumi (sushi & hibachi)",
+    "Giovanni's Italian Kitchen",
+    "American Icon, Silk, Grande & Chic main dining rooms",
+    "Windjammer buffet"
+  ],
+  "entertainmentOptions": [
+    "Royal Theater Broadway-style productions",
+    "Two70 multimedia shows",
+    "SeaPlex activities",
+    "Music Hall live bands",
+    "Comedy club",
+    "Casino Royale"
+  ],
+  "hasKidsClub": true,
+  "hasAdultsOnly": true,
+  "hasSpa": true,
+  "hasCasino": true,
+  "isAllInclusive": false,
+  "reviewSnippet": "Quantum pairs a port-intensive route — Sitka, Skagway, Juneau, and Dawes Glacier — with Royal Caribbean's high-energy onboard thrills. North Star is a standout on scenic days. — Editor's note",
+  "overrides": []
+}

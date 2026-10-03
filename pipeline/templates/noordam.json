@@ -1,0 +1,139 @@
+{
+  "shipName": "Noordam",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Casino"
+  ],
+  "amenityHighlights": [
+    "Lincoln Center Stage live music",
+    "BB King's Blues Club",
+    "Pinnacle Grill steakhouse",
+    "Greenhouse Spa",
+    "Culinary Arts Center",
+    "Explorations Café & Library"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Elegant interior stateroom with Holland America's signature Mariner's Dream bed, premium linens, and thoughtful Dutch design.",
+      "pricePerPerson": 1199,
+      "squareFeet": 182,
+      "type": "Interior"
+    },
+    {
+      "description": "Classic ocean-view stateroom with large window — ideal for scenic Inside Passage days when Alaska glides past.",
+      "pricePerPerson": 1499,
+      "squareFeet": 204,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Verandah stateroom with private outdoor seating — the perfect perch for Glacier Bay's magnificent scenery.",
+      "pricePerPerson": 1849,
+      "squareFeet": 249,
+      "type": "Balcony"
+    },
+    {
+      "description": "Neptune Suite with butler service, exclusive Neptune Lounge, Nespresso machine, and priority in every aspect of the voyage.",
+      "pricePerPerson": 3799,
+      "squareFeet": 511,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Holland America Line",
+  "diningOptions": [
+    "Pinnacle Grill (steakhouse)",
+    "Tamarind (Asian fusion)",
+    "Canaletto (Italian)",
+    "Lido Market buffet",
+    "Main Dining Room",
+    "Room service"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Lincoln Center Stage",
+    "BB King's Blues Club",
+    "World Stage theater",
+    "Mix bar complex",
+    "Casino Royale"
+  ],
+  "exclusions": [
+    "Pinnacle Grill and specialty dining",
+    "Beverages",
+    "Shore excursions",
+    "Spa",
+    "Wi-Fi",
+    "Crew appreciation"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": false,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Holland_America_Line%27s_Noordam.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in main dining and Lido Market",
+    "Entertainment programming",
+    "Fitness center",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Holland America's classic Noordam departs on a 7-night Glacier Bay Alaska voyage.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Explore Alaska's scenic capital — Mendenhall Glacier, Mount Roberts Tramway, and the lively waterfront all await. World-class whale watching just minutes from the dock.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Scenic cruising through Glacier Bay — one of the world's last great wilderness areas. Watch tidewater glaciers calve into the sea while National Park Rangers provide expert narration.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 4,
+      "description": "The jewel of Southeast Alaska. St. Michael's Cathedral, the Sitka National Historical Park, and remarkable sea otter colonies make Sitka unforgettable.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Sitka, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Creek Street, totem pole parks, and outstanding fresh seafood highlight this beloved Alaska port of call.",
+      "hoursInPort": 7,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Cruise the protected waters of the Inside Passage — keep watch for humpback whales, orcas, Dall's porpoise, and bald eagles.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 2214,
+  "reviewSnippet": "\"Noordam is a beautiful ship that perfectly matches the Alaska experience — understated elegance and attentive service. Glacier Bay left us speechless. We'll be back on Holland America.\" — Verified Guest",
+  "shipSize": "Mid-Size",
+  "overrides": []
+}

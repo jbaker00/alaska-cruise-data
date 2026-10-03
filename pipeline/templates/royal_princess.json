@@ -1,0 +1,143 @@
+{
+  "shipName": "Royal Princess",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Casino"
+  ],
+  "amenityHighlights": [
+    "Princess MedallionClass technology",
+    "Crown Grill steakhouse",
+    "Sabatini's Italian Trattoria",
+    "Lotus Spa",
+    "Camp Discovery kids program",
+    "Movies Under the Stars",
+    "The Sanctuary adults retreat"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Princess Cruises interior stateroom with two lower beds convertible to queen, premium amenities, and MedallionClass technology.",
+      "pricePerPerson": 1049,
+      "squareFeet": 161,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view stateroom with large window and Princess's signature comfort. MedallionClass enables seamless service throughout.",
+      "pricePerPerson": 1299,
+      "squareFeet": 197,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom — an ideal Alaska vantage point for Tracy Arm Fjord's dramatic scenery.",
+      "pricePerPerson": 1649,
+      "squareFeet": 222,
+      "type": "Balcony"
+    },
+    {
+      "description": "Mini-Suite with oversized balcony, priority boarding, and premium amenities. The best value in upper-category Princess suites.",
+      "pricePerPerson": 3299,
+      "squareFeet": 323,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Princess Cruises",
+  "diningOptions": [
+    "Crown Grill (steakhouse)",
+    "Sabatini's Italian Trattoria",
+    "International Café",
+    "World Fresh Marketplace buffet",
+    "Main Dining Room (multiple venues)",
+    "Room service"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Broadway-style production shows",
+    "Movies Under the Stars",
+    "Princess Live! entertainment",
+    "The Sanctuary adults-only retreat",
+    "Comedy club",
+    "Casino"
+  ],
+  "exclusions": [
+    "Crown Grill and specialty dining",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi packages",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": true,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Royal_Princess_cruise_ship.jpeg?width=800"
+  ],
+  "inclusions": [
+    "All meals in main dining rooms and World Fresh Marketplace",
+    "Entertainment and shows",
+    "Camp Discovery kids program",
+    "Pool and fitness center",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Royal Princess departs on a 7-night Alaska voyage featuring the dramatic Tracy Arm Fjord.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Alaska's capital — gateway to Mendenhall Glacier, whale watching in Auke Bay, and the famous Red Dog Saloon. Allow time for the Mount Roberts Tramway.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 3,
+      "description": "A perfectly preserved National Historic Landmark. Ride the White Pass & Yukon Route Railway through breathtaking alpine scenery to the Canadian border.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "Scenic cruising through the dramatic Tracy Arm Fjord — a narrow channel carved by glaciers with sheer granite walls rising thousands of feet. The Sawyer Glaciers await at the fjord's end.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Tracy Arm Fjord"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Famous for totem poles, Creek Street's historic cannery boardwalk, and world-class sport fishing. Sample fresh Dungeness crab straight from the docks.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "An enchanting evening arrival in British Columbia's capital. Explore the Inner Harbour, catch a horse-drawn carriage tour, or visit the Royal BC Museum.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 3102,
+  "reviewSnippet": "\"Royal Princess and Tracy Arm Fjord are a perfect pairing. The sheer walls of the fjord are unlike anything in Glacier Bay — more intimate and dramatic. Princess handles Alaska beautifully.\" — Verified Guest",
+  "shipSize": "Large/Mega-Ship",
+  "overrides": []
+}

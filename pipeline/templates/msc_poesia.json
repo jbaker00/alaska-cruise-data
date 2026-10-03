@@ -1,0 +1,140 @@
+{
+  "shipName": "MSC Poesia",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Casino"
+  ],
+  "amenityHighlights": [
+    "MSC Aurea Spa with thalassotherapy pool",
+    "International entertainment and shows",
+    "MSC Yacht Club private enclave",
+    "Kids and teens clubs (Baby Club, Mini Club, Junior Club)",
+    "Multiple specialty restaurants",
+    "Gorgeous European design throughout"
+  ],
+  "cabinCategories": [
+    {
+      "description": "MSC Poesia interior stateroom — European design sensibility with generous proportions and superior finishing.",
+      "pricePerPerson": 849,
+      "squareFeet": 161,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view stateroom with panoramic window and MSC's signature style. A refined Alaska cabin at an accessible price.",
+      "pricePerPerson": 1049,
+      "squareFeet": 190,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom — MSC Poesia's balconies are notably spacious. Ideal for Inside Passage scenic sailing.",
+      "pricePerPerson": 1299,
+      "squareFeet": 226,
+      "type": "Balcony"
+    },
+    {
+      "description": "MSC Yacht Club suite — an exclusive ship-within-a-ship experience with private pool, restaurant, and 24-hour butler service.",
+      "pricePerPerson": 2699,
+      "squareFeet": 377,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "MSC Cruises",
+  "diningOptions": [
+    "Il Giardino (Italian specialty)",
+    "Kaito Sushi (Japanese)",
+    "L'Olivo Restaurant (main dining)",
+    "Il Cerchio d'Oro buffet",
+    "MSC Yacht Club Restaurant (suite guests)"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Broadway-style international shows",
+    "Live music in multiple lounges",
+    "MSC Aurea Spa experiences",
+    "Kids and teens club activities",
+    "Casino"
+  ],
+  "exclusions": [
+    "Specialty restaurants",
+    "Alcoholic beverages (Drinks packages available)",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": true,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/MSC_Cruises_MSC_Poesia_29-03-2023.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in main restaurant and buffet",
+    "Entertainment shows nightly",
+    "Kids club programming",
+    "Pool and fitness access",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). MSC Poesia brings European elegance and international style to the Alaska cruise market for 2026.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Alaska's scenic capital. Visit Mendenhall Glacier, go whale watching, or ride the Mount Roberts Tramway for panoramic views. Local king crab and Alaskan amber are a must.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Klondike Gold Rush history lives on in Skagway's well-preserved downtown. The White Pass & Yukon Route Railway is among North America's most spectacular train experiences.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "A beautiful scenic sea day cruising the Inside Passage. Enjoy MSC Poesia's elegant Italian-designed spaces and international atmosphere while Alaska's wilderness rolls past.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 5,
+      "description": "The Gateway to Alaska. Explore the world's largest collection of standing totem poles and the colorful Creek Street district.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "An elegant evening call in British Columbia's garden capital. The Inner Harbour and Butchart Gardens reflect Victoria's British charm.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 1987,
+  "reviewSnippet": "\"MSC Poesia brings a refreshingly different European perspective to Alaska. The ship is beautiful, the spa is world-class, and the international crowd creates a wonderfully cosmopolitan atmosphere at sea.\" — Verified Guest",
+  "shipSize": "Mid-Size",
+  "overrides": []
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Port of Seattle cruise schedule watcher (Alaska Cruise Finder)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+EnvironmentFile=%h/.config/cruise-watcher.env
+ExecStart=%h/.local/share/cruise-watcher/venv/bin/python @PIPELINE_DIR@/watcher.py

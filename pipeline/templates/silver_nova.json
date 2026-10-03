@@ -1,0 +1,136 @@
+{
+  "shipName": "Silver Nova",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "All Inclusive",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "All-suite ship (728 guests maximum)",
+    "All beverages included — premium spirits, fine wines, Champagne",
+    "All specialty restaurants included — zero surcharges",
+    "Complimentary shore excursion credits in every port",
+    "Butler service in every suite",
+    "Zagara Beauty Spa",
+    "Expert expedition team and naturalist lecturers",
+    "La Terrazza al fresco dining"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Vista Suite — all-suite ship makes this the entry level. Ocean-view suite with butler service, all-inclusive dining and beverages, and complimentary excursion credits.",
+      "pricePerPerson": 4299,
+      "squareFeet": 255,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Veranda Suite — private teak veranda, butler service, premium minibar replenished daily, and Silversea's all-inclusive hospitality. The ideal Alaska suite.",
+      "pricePerPerson": 5499,
+      "squareFeet": 312,
+      "type": "Balcony"
+    },
+    {
+      "description": "Grand Suite with separate bedroom and living room, panoramic views, private butler, premium liquor setup, and the most elevated all-inclusive Alaska experience available at sea.",
+      "pricePerPerson": 9999,
+      "squareFeet": 1292,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Silversea Cruises",
+  "diningOptions": [
+    "La Dame (Relais & Châteaux fine dining)",
+    "S.A.L.T. Kitchen (local ingredients cuisine)",
+    "La Terrazza (Italian al fresco)",
+    "Atlantide (main dining room)",
+    "Silver Note (supper club)",
+    "Hot Rocks (poolside grill) — all included, no reservation fees"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "S.A.L.T. Lab culinary experiences",
+    "Alaska naturalist expedition lectures",
+    "Zagara Beauty Spa program",
+    "Hot Glass Show studio demonstrations",
+    "Evening cabaret and live music",
+    "Observation deck stargazing events"
+  ],
+  "exclusions": [
+    "Optional premium spa treatments beyond complimentary allocation",
+    "Personal shopping and souvenirs"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": false,
+  "hasKidsClub": false,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Silver_nova.jpg?width=800"
+  ],
+  "inclusions": [
+    "ALL meals in ALL restaurants — fine dining and casual, zero surcharges",
+    "ALL beverages — premium wines, spirits, Champagne, cocktails, soft drinks, specialty coffee",
+    "Complimentary shore excursion credits in every port",
+    "Butler service in every suite",
+    "Wi-Fi throughout voyage",
+    "Gratuities included",
+    "All entertainment and enrichment programs"
+  ],
+  "isAllInclusive": true,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 66 (Bell Street Terminal). Silver Nova — Silversea's newest ultra-luxury ship — departs on a 7-night all-inclusive Alaska voyage for 728 discerning guests.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A day of pure luxury cruising through the Inside Passage. All beverages, all restaurants, and all activities are included in your fare. Silversea's Venetian Society hosts an enrichment lecture on Alaska's natural history.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Alaska's scenic capital with complimentary shore excursion options included in your Silversea fare. Helicopter glacier tours and whale watching are among the most popular selections for Silver Nova guests.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "The White Pass & Yukon Route Railway is the highlight of Skagway — and for Silversea guests, select excursion credits make exploring Alaska's iconic Gold Rush town effortlessly enjoyable.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "A full day of scenic cruising through Glacier Bay with Silversea's naturalist expedition team on board to narrate the remarkable glacial landscape. A transcendent Alaska experience.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Silversea's Alaska itineraries consistently include Sitka — a port that rewards cultured travelers with its blend of Tlingit heritage, Russian colonial history, and outstanding sea otter sightings.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Sitka, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day after a magnificent 7-night ultra-luxury Alaska voyage.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 654,
+  "reviewSnippet": "\"Silver Nova is the pinnacle of Alaska cruising. Every meal, every drink, every excursion — all included, and all extraordinary. Seeing Glacier Bay from the observation deck of this intimate ship with a glass of Champagne in hand is a memory for a lifetime.\" — Verified Guest",
+  "shipSize": "Small/Boutique",
+  "overrides": []
+}

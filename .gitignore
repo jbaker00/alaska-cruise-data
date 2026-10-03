@@ -1,0 +1,5 @@
+pipeline/public/
+__pycache__/
+.DS_Store
+*.pdf
+*.env

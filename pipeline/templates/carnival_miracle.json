@@ -1,0 +1,144 @@
+{
+  "shipName": "Carnival Miracle",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Kids Club",
+    "Casino",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "Waterworks aqua park with slides",
+    "Camp Ocean kids program",
+    "WheelHouse Bar entertainment",
+    "Guy's Burger Joint",
+    "Cherry on Top sweet shop",
+    "Comedy shows nightly",
+    "Sea Day Brunch"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Cozy interior cabin with all essentials — Carnival's unbeatable value for Alaska. Twin or queen beds with thoughtful storage.",
+      "pricePerPerson": 699,
+      "squareFeet": 158,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view cabin with large window — catch Alaska's spectacular coastline from your own room at Carnival's best value.",
+      "pricePerPerson": 899,
+      "squareFeet": 185,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony cabin — ideal for watching for humpback whales and eagles from your own outdoor space on sea days.",
+      "pricePerPerson": 1199,
+      "squareFeet": 220,
+      "type": "Balcony"
+    },
+    {
+      "description": "Grand Suite with separate living room, priority boarding, and an enhanced room service menu — Carnival's best at an unmatched price.",
+      "pricePerPerson": 2199,
+      "squareFeet": 430,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Carnival Cruise Line",
+  "diningOptions": [
+    "Fahrenheit 555 Steakhouse",
+    "BlueIguana Cantina",
+    "Guy's Burger Joint",
+    "BlueIguana Tequila Bar",
+    "Lido Marketplace",
+    "Elegant Main Dining Room",
+    "Room service"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Comedy Club",
+    "Hasbro The Game Show",
+    "Lip Sync Battle Carnival",
+    "Waterworks aqua park",
+    "Live music on Lido Deck",
+    "Casino"
+  ],
+  "exclusions": [
+    "Fahrenheit 555 Steakhouse specialty dining",
+    "Alcoholic beverages (Cheers! package available)",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": true,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Carnival_Miracle.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in main dining and Lido deck",
+    "Entertainment shows",
+    "Camp Ocean kids club",
+    "Waterworks slides and pools",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Carnival Miracle delivers legendary fun-ship value on a 7-night Alaska voyage.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A wonderful scenic day cruising the Inside Passage. Alaska's wilderness unfolds outside while Carnival Miracle's full slate of fun activities keeps the energy high.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Alaska's capital city — Mendenhall Glacier and the whale watching of Auke Bay are the standout experiences. The city's waterfront has excellent local seafood.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "Klondike Gold Rush National Historic Park comes alive in Skagway. Ride the legendary White Pass & Yukon Route Railway through mountain passes once traveled by gold seekers.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Creek Street, totem pole parks, and outstanding fresh crab — Carnival Miracle guests get ample time to explore Ketchikan's highlights.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Evening arrival in Victoria BC — the Inner Harbour at night is one of the most scenic sights in the Pacific Northwest.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 4897,
+  "reviewSnippet": "\"Carnival Miracle is everything you need for an Alaska cruise at a price you can actually afford. We saw humpback whales right from the deck — for free! — and had an absolute blast on board.\" — Verified Guest",
+  "shipSize": "Mid-Size",
+  "overrides": []
+}

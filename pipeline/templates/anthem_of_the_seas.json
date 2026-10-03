@@ -1,0 +1,147 @@
+{
+  "shipName": "Anthem of the Seas",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Casino",
+    "Adults Only",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "North Star pod rising 300 ft above sea",
+    "RipCord by iFly skydiving simulator",
+    "Two70 multi-use entertainment space",
+    "SeaPlex indoor sports complex",
+    "Chops Grille steakhouse",
+    "Vitality Spa",
+    "Solarium adults-only pool",
+    "Adventure Ocean kids club"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Royal Caribbean's stylish interior stateroom on Anthem — virtual windows in many interior cabins stream live ocean views.",
+      "pricePerPerson": 1199,
+      "squareFeet": 172,
+      "type": "Interior"
+    },
+    {
+      "description": "Bright oceanview stateroom with large window. Watch Alaska glide past from the comfort of your room.",
+      "pricePerPerson": 1449,
+      "squareFeet": 189,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom — perfect for spotting wildlife and watching the Inside Passage scenery from your own outdoor perch.",
+      "pricePerPerson": 1849,
+      "squareFeet": 217,
+      "type": "Balcony"
+    },
+    {
+      "description": "Royal Suite with panoramic views, baby grand piano, private balcony, and exclusive suite lounge and sundeck access.",
+      "pricePerPerson": 3999,
+      "squareFeet": 787,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Royal Caribbean",
+  "diningOptions": [
+    "Chops Grille (steakhouse)",
+    "Jamie's Italian",
+    "Wonderland (avant-garde)",
+    "Izumi (Japanese)",
+    "Michael's Genuine Pub",
+    "Windjammer Market",
+    "Main Dining Room"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "We Will Rock You (Queen tribute show)",
+    "North Star experience",
+    "RipCord by iFly skydiving simulator",
+    "SeaPlex sports complex",
+    "Two70 performances",
+    "Casino Royale"
+  ],
+  "exclusions": [
+    "Specialty dining restaurants",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": true,
+  "hasCasino": true,
+  "hasKidsClub": true,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Anthem_of_the_Seas_%28cropped%29.jpg?width=800"
+  ],
+  "inclusions": [
+    "Main dining room and Windjammer Market buffet",
+    "Entertainment and activities",
+    "Adventure Ocean kids program",
+    "Fitness center and pools",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Anthem of the Seas — one of Royal Caribbean's most innovative ships — departs on a 7-night Alaska adventure.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A full day of scenic cruising through the breathtaking Inside Passage. Watch for humpback whales, orcas, Steller sea lions, and bald eagles from the Two70 observation lounge.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Alaska's capital — take a whale watching cruise, hike to Mendenhall Glacier, or ride the Mount Roberts Tramway for panoramic views of the Lynn Canal.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "Experience the drama of the Klondike Gold Rush era. The White Pass & Yukon Route Railway is one of North America's most spectacular train journeys.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Totem poles, Creek Street, and world-class salmon fishing define this vibrant Alaska port. A floatplane tour to Misty Fjords is unforgettable.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "An elegant evening in Canada's most European city. Visit the iconic Empress Hotel for traditional high tea or stroll the Inner Harbour's illuminated waterfront.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 4231,
+  "reviewSnippet": "\"Anthem of the Seas has more to do than any other Alaska ship. The North Star pod over Skagway was once-in-a-lifetime. RipCord skydiving simulator, incredible shows — and the Alaska scenery was priceless.\" — Verified Guest",
+  "shipSize": "Large/Mega-Ship",
+  "overrides": []
+}

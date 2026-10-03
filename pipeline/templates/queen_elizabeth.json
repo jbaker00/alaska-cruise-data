@@ -1,0 +1,170 @@
+{
+  "shipName": "Queen Elizabeth",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Casino"
+  ],
+  "amenityHighlights": [
+    "White Star Service tradition since 1840",
+    "Traditional afternoon tea daily",
+    "Grand ballroom dancing",
+    "Royal Court Theatre productions",
+    "Canyon Ranch SpaClub",
+    "Illuminations planetarium",
+    "Extensive library"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Queen Elizabeth interior stateroom — impeccably appointed with Cunard's signature style, White Star Service, and Britannia restaurant dining.",
+      "pricePerPerson": 2299,
+      "squareFeet": 151,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view stateroom with large window — watch Alaska's magnificent scenery from the traditional comfort of a Cunard stateroom.",
+      "pricePerPerson": 2799,
+      "squareFeet": 180,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Balcony stateroom with private outdoor space — an essential feature on Alaska's many scenic cruising days.",
+      "pricePerPerson": 3399,
+      "squareFeet": 248,
+      "type": "Balcony"
+    },
+    {
+      "description": "Grills Suite with exclusive Queens Grill restaurant access, butler service, priority embarkation, and the most elevated service at sea.",
+      "pricePerPerson": 7499,
+      "squareFeet": 538,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Cunard Line",
+  "diningOptions": [
+    "Queens Grill (exclusive to Grills suites)",
+    "Princess Grill (Grills staterooms)",
+    "Britannia Restaurant (main dining)",
+    "Lido Restaurant (casual)",
+    "Golden Lion pub",
+    "Afternoon tea service daily"
+  ],
+  "durationNights": 10,
+  "entertainmentOptions": [
+    "Royal Court Theatre productions",
+    "Ballroom dancing",
+    "Enrichment lectures by world experts",
+    "Traditional afternoon tea",
+    "Illuminations planetarium",
+    "Grand Casino"
+  ],
+  "exclusions": [
+    "Queens Grill and Princess Grill restaurants (Grills-class only)",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": false,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Cunard_Queen_Elizabeth_Geiranger_Norway_20120709_071807.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in Britannia restaurant and Lido buffet",
+    "Formal and informal entertainment",
+    "Traditional afternoon tea",
+    "Fitness center access",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 66 (Bell Street Terminal). Cunard's Queen Elizabeth begins a grand 10-night Alaska voyage with all the ceremony and tradition that only Cunard can deliver.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A leisurely day at sea aboard one of the most storied ocean liners afloat. White-glove afternoon tea, the grand ballroom, and the Queen's Room beckon.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Pacific Coastal Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Alaska's spectacular capital — extended time allows for a helicopter glacier tour AND a whale watching excursion. Mendenhall Glacier is particularly impressive when seen from the air.",
+      "hoursInPort": 10,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "Klondike Gold Rush National Historic Park. The White Pass & Yukon Route Railway's dramatic ascent above tree line to the Canadian border is one of North America's finest journeys.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Scenic cruising through the grandeur of Glacier Bay — National Park Rangers board Queen Elizabeth to narrate the remarkable glacial landscape.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Russian Alaska's legacy lives on in Sitka's onion-domed cathedral and Tlingit totem poles. Extended port time allows thorough exploration of this unique cultural destination.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Sitka, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "A graceful day at sea through the Inside Passage. Afternoon tea in the Queen's Room and evening dancing in the ballroom define Cunard's timeless Alaska experience.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage"
+    },
+    {
+      "dayNumber": 8,
+      "description": "The world's largest collection of standing totem poles and Creek Street's vibrant history highlight this beloved Alaska port.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 9,
+      "description": "A fitting final port of call on a Cunard voyage — refined, British, and utterly charming. High tea at the Fairmont Empress pays homage to Victoria's imperial heritage.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 10,
+      "description": "A final peaceful sea day as Queen Elizabeth makes her way home to Seattle.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Pacific Coastal"
+    },
+    {
+      "dayNumber": 11,
+      "description": "Return to Seattle — disembarkation day after a grand 10-night Alaska voyage.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 1543,
+  "reviewSnippet": "\"No ship makes Alaska feel as grand as Queen Elizabeth. White-glove afternoon tea in the Queen's Room while Glacier Bay passed outside the windows — it was the most civilized, magnificent moment of our lives at sea.\" — Verified Guest",
+  "shipSize": "Mid-Size",
+  "overrides": []
+}

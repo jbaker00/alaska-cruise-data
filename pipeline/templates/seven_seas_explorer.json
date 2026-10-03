@@ -1,0 +1,175 @@
+{
+  "shipName": "Seven Seas Explorer",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Adults Only",
+    "All Inclusive",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "ALL shore excursions included (unlimited, in every port)",
+    "ALL specialty restaurants included with no surcharges",
+    "ALL beverages included (premium spirits, fine wines, champagne)",
+    "ALL gratuities and service charges included",
+    "Butler service in every suite",
+    "Canyon Ranch SpaClub (select treatments included)",
+    "Wi-Fi included",
+    "Zodiac expedition tours at Glacier Bay"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Explorer Suite — all-suite ship means this is the entry level. Every suite features a private veranda, butler service, all-inclusive dining and beverages, and all shore excursions included.",
+      "pricePerPerson": 9499,
+      "squareFeet": 301,
+      "type": "Balcony"
+    },
+    {
+      "description": "Deluxe Veranda Suite with large private veranda, full butler service, Lavazza espresso machine, and Regent's most comprehensive all-inclusive package — truly nothing is extra.",
+      "pricePerPerson": 13999,
+      "squareFeet": 357,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Regent Seven Seas Cruises",
+  "diningOptions": [
+    "Chartreuse (French fine dining)",
+    "Prime 7 (steakhouse)",
+    "Sette Mari (Italian)",
+    "Pacific Rim (Asian)",
+    "Compass Rose (grand main restaurant)",
+    "La Veranda (al fresco)",
+    "Pool Grill (casual) — all included in every fare"
+  ],
+  "durationNights": 12,
+  "entertainmentOptions": [
+    "Broadway-caliber production shows in the Constellation Theater",
+    "Canyon Ranch SpaClub full program",
+    "Enrichment lectures by Smithsonian and National Geographic partners",
+    "Zodiac expedition experiences at glacier sites",
+    "Evening gala events and themed dinners"
+  ],
+  "exclusions": [
+    "Optional premium spa treatments beyond included allocation",
+    "Personal purchases and souvenirs",
+    "Casino (honor system, no cash gaming)"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": false,
+  "hasKidsClub": false,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Seven_Seas_Explorer_Cadiz.jpg?width=800"
+  ],
+  "inclusions": [
+    "ALL meals in ALL restaurants — zero surcharges ever",
+    "ALL beverages — premium spirits, fine wine, Champagne, beer, soft drinks, specialty coffee",
+    "ALL shore excursions in every port — unlimited selection",
+    "Butler service in every suite",
+    "Wi-Fi throughout voyage",
+    "ALL gratuities and service charges",
+    "Canyon Ranch SpaClub (select treatments)",
+    "All entertainment"
+  ],
+  "isAllInclusive": true,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Seven Seas Explorer — named 'The Most Luxurious Ship Ever Built' — departs on a 12-night all-inclusive Alaska voyage. All excursions, dining, beverages, and gratuities are included.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A refined day at sea aboard the most luxurious ship afloat. Butler service, all-suite accommodations, and Regent's all-inclusive hospitality set the tone immediately.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Pacific Coastal Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Extended time in Alaska's capital with all shore excursions included — helicopter glacier tours, whale watching, and city exploration are all at no additional charge for Regent guests.",
+      "hoursInPort": 10,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "The White Pass & Yukon Route Railway is an included excursion for Regent guests — simply reserve your preferred time. Enjoy the dramatic mountain scenery without the stress of excursion booking.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Scenic cruising through Glacier Bay plus optional included zodiac tours to the glacier face — an experience unavailable on larger ships. Regent's expedition team guides the experience.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Extended time in Sitka with all excursions included. A private guide through Sitka National Historical Park, kayaking among sea otters, or a raptor center visit — all included in your fare.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Sitka, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "A leisurely sea day as Seven Seas Explorer glides through the Inside Passage. Evening gala dinner and enrichment lecture round off the day in Regent style.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage"
+    },
+    {
+      "dayNumber": 8,
+      "description": "All excursions included — floatplane tour to Misty Fjords, sportfishing charter, or totem pole exploration. Regent's Ketchikan program offers remarkable flexibility.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 9,
+      "description": "Scenic cruising through the narrow, dramatic Tracy Arm Fjord — sheer granite walls and the twin Sawyer Glaciers create an otherworldly landscape.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Tracy Arm Fjord"
+    },
+    {
+      "dayNumber": 10,
+      "description": "The uncrowded gem of Southeast Alaska. World-class bald eagle viewing at the Chilkat Bald Eagle Preserve and scenic mountain hikes are included in Regent's Haines program.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Haines, AK"
+    },
+    {
+      "dayNumber": 11,
+      "description": "A grand final port call in British Columbia's elegant capital. Regent guests have a full day to explore Victoria's heritage gardens and culture before the voyage concludes.",
+      "hoursInPort": 7,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 12,
+      "description": "Final sea day as Seven Seas Explorer completes her 12-night Alaska voyage. Farewell gala dinner and a chance to relive the voyage's extraordinary highlights.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Pacific Coastal"
+    },
+    {
+      "dayNumber": 13,
+      "description": "Return to Seattle — disembarkation day. Transfers to airport or hotel are included in your all-inclusive Regent fare.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.9,
+  "reviewCount": 987,
+  "reviewSnippet": "\"Once you sail Regent Seven Seas Explorer, there is truly no going back. Every shore excursion, every restaurant, every bottle of wine — included. Alaska is extraordinary; experiencing it from the world's most luxurious ship is life-changing.\" — Verified Guest",
+  "shipSize": "Small/Boutique",
+  "overrides": []
+}

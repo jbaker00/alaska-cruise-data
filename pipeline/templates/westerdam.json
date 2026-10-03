@@ -1,0 +1,309 @@
+{
+  "shipName": "Westerdam",
+  "aliases": [],
+  "cruiseLine": "Holland America Line",
+  "durationNights": 7,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal) aboard Holland America's Vista-class Westerdam.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Scenic cruising north with Explorations Central talks on Alaska's wildlife and glaciers.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Mendenhall Glacier, whale watching, and the Mount Roberts Tramway in Alaska's capital.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "A full day of scenic cruising with National Park Service rangers aboard — Holland America holds some of the park's limited entry permits.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Gold Rush boardwalks and the White Pass & Yukon Route Railway.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Creek Street, totem parks, and Misty Fjords flightseeing.",
+      "hoursInPort": 7,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "An evening call in British Columbia's garden city — stroll the Inner Harbour, see the Parliament Buildings lit up, or visit Butchart Gardens.",
+      "hoursInPort": 5,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 8,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "cabinCategories": [
+    {
+      "description": "Holland America interior stateroom with Mariner's Dream bed and premium bath amenities.",
+      "pricePerPerson": 1099,
+      "squareFeet": 151,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view stateroom with large picture window for Inside Passage scenery.",
+      "pricePerPerson": 1349,
+      "squareFeet": 185,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Verandah stateroom — a private outdoor seat for Glacier Bay.",
+      "pricePerPerson": 1749,
+      "squareFeet": 254,
+      "type": "Balcony"
+    },
+    {
+      "description": "Neptune Suite with separate living area, oversized verandah, and Neptune Lounge concierge access.",
+      "pricePerPerson": 3599,
+      "squareFeet": 506,
+      "type": "Suite"
+    }
+  ],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Casino"
+  ],
+  "amenityHighlights": [
+    "Glacier Bay with NPS rangers aboard",
+    "Pinnacle Grill steakhouse",
+    "Billboard Onboard dueling pianos",
+    "Rolling Stone Rock Room",
+    "Greenhouse Spa & Salon",
+    "Crow's Nest observation lounge"
+  ],
+  "rating": 4.4,
+  "reviewCount": 1980,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/MS_Westerdam_Skagway.jpg?width=800"
+  ],
+  "shipSize": "Mid-Size",
+  "inclusions": [
+    "All meals in main dining room and Lido Market",
+    "Live music venues and evening shows",
+    "Explorations Central enrichment",
+    "Fitness center",
+    "Port taxes and fees"
+  ],
+  "exclusions": [
+    "Pinnacle Grill and specialty dining",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "diningOptions": [
+    "Pinnacle Grill (steakhouse)",
+    "Tamarind (pan-Asian)",
+    "Canaletto (Italian)",
+    "Lido Market",
+    "New York Pizza & Deli",
+    "Main Dining Room"
+  ],
+  "entertainmentOptions": [
+    "Billboard Onboard",
+    "Rolling Stone Rock Room",
+    "B.B. King's Blues Club",
+    "Main Stage shows",
+    "Casino"
+  ],
+  "hasKidsClub": false,
+  "hasAdultsOnly": false,
+  "hasSpa": true,
+  "hasCasino": true,
+  "isAllInclusive": false,
+  "reviewSnippet": "Classic Holland America Alaska: a mid-size ship, ranger-led Glacier Bay, and live music every night. — Editor's note",
+  "overrides": [
+    {
+      "dates": [
+        "2027-09-19"
+      ],
+      "note": "34-night one-way Seattle → Sydney 'Legendary South Pacific Crossing' (a 48-night extension to Auckland is also sold).",
+      "durationNights": 34,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 (Smith Cove Terminal) for a 34-night Legendary Voyage across the Pacific to Australia.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Five sea days to Hawaii with Explorations Central lectures and live music each night.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Crossing"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Waimea Canyon and the Nā Pali Coast on the Garden Isle.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Nawiliwili, Kauai, HI"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Waikiki, Pearl Harbor, and Diamond Head.",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Honolulu, Oahu, HI"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Hawaiʻi Volcanoes National Park and Rainbow Falls.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Hilo, Hawaii Island, HI"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Coffee farms, snorkeling at Kealakekua Bay, and historic Kailua Village.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Kailua-Kona, HI"
+        },
+        {
+          "dayNumber": 14,
+          "description": "A rare call at one of the world's largest coral atolls — just after crossing the International Date Line.",
+          "hoursInPort": 7,
+          "isCruisingDay": false,
+          "name": "Kiritimati (Christmas Island), Kiribati"
+        },
+        {
+          "dayNumber": 16,
+          "description": "An overnight in French Polynesia's capital — black-sand beaches, the Papeete Market, and lagoon tours.",
+          "hoursInPort": 24,
+          "isCruisingDay": false,
+          "name": "Papeete, Tahiti"
+        },
+        {
+          "dayNumber": 18,
+          "description": "Anchoring in Ōpūnohu Bay beneath Moorea's jagged peaks.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Moorea, French Polynesia"
+        },
+        {
+          "dayNumber": 19,
+          "description": "The sacred island and its UNESCO-listed Taputapuātea marae.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Raiatea, French Polynesia"
+        },
+        {
+          "dayNumber": 21,
+          "description": "A ring of lagoon beaches around a volcanic interior.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Rarotonga, Cook Islands"
+        },
+        {
+          "dayNumber": 24,
+          "description": "One of the South Pacific's most sheltered harbors; whale-watching season.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Vava'u, Tonga"
+        },
+        {
+          "dayNumber": 25,
+          "description": "The Royal Palace and Tongan markets on Tongatapu.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Nuku'alofa, Tonga"
+        },
+        {
+          "dayNumber": 28,
+          "description": "Where the Treaty of Waitangi was signed — 144 islands to explore.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Waitangi (Bay of Islands), New Zealand"
+        },
+        {
+          "dayNumber": 29,
+          "description": "The City of Sails — Sky Tower, Waiheke Island wineries.",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Auckland, New Zealand"
+        },
+        {
+          "dayNumber": 31,
+          "description": "New Zealand's harbor capital and Te Papa museum.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Wellington, New Zealand"
+        },
+        {
+          "dayNumber": 35,
+          "description": "Disembarkation in Sydney Harbour — this voyage ends in Australia.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Sydney, Australia"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Interior stateroom for the 34-night South Pacific crossing.",
+          "pricePerPerson": 4814,
+          "squareFeet": 151,
+          "type": "Interior"
+        },
+        {
+          "description": "Ocean view stateroom with large picture window.",
+          "pricePerPerson": 5414,
+          "squareFeet": 185,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Verandah stateroom — a private deck for the South Pacific.",
+          "pricePerPerson": 7374,
+          "squareFeet": 254,
+          "type": "Balcony"
+        },
+        {
+          "description": "Neptune Suite with Neptune Lounge concierge access.",
+          "pricePerPerson": 10414,
+          "squareFeet": 506,
+          "type": "Suite"
+        }
+      ],
+      "amenityCategories": [
+        "Specialty Dining",
+        "Entertainment",
+        "Spa & Wellness",
+        "Casino",
+        "Outdoor Activities"
+      ]
+    }
+  ]
+}

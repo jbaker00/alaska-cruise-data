@@ -1,0 +1,253 @@
+{
+  "shipName": "Carnival Legend",
+  "aliases": [],
+  "cruiseLine": "Carnival Cruise Line",
+  "durationNights": 7,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Carnival Legend makes her Seattle debut in 2027 with a full season of week-long Alaska voyages.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A Fun Day at Sea heading north — Waterworks, Guy's Burger Joint, and Sea Day Brunch while the coastline rolls past.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Scenic cruising deep into a narrow, 30-mile fjord walled by granite cliffs and waterfalls, ending at the twin Sawyer Glaciers. Watch for harbor seals on the ice floes.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Tracy Arm Fjord"
+    },
+    {
+      "dayNumber": 4,
+      "description": "A full day (7 AM–8 PM) in the Gold Rush gateway. Ride the White Pass & Yukon Route Railway, hike to Lower Dewey Lake, or stroll the boardwalks of Broadway.",
+      "hoursInPort": 13,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Alaska's capital, reachable only by sea or air. Mendenhall Glacier, whale watching in Auke Bay, and the Mount Roberts Tramway are all close to the pier.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "A morning in the 'Salmon Capital of the World' — Creek Street, Totem Bight State Park, or a floatplane over Misty Fjords.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "An evening call in British Columbia's garden city — stroll the Inner Harbour, see the Parliament Buildings lit up, or visit Butchart Gardens.",
+      "hoursInPort": 5,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 8,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "cabinCategories": [
+    {
+      "description": "Carnival Legend interior stateroom — one of the lowest-priced ways to see Alaska from Seattle in 2027. Two twins convertible to a king.",
+      "pricePerPerson": 899,
+      "squareFeet": 185,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view stateroom with picture window for glimpses of Tracy Arm's waterfalls and the Inside Passage.",
+      "pricePerPerson": 1149,
+      "squareFeet": 220,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom — fresh Alaska air and a front-row seat for Tracy Arm Fjord scenic cruising.",
+      "pricePerPerson": 1499,
+      "squareFeet": 185,
+      "type": "Balcony"
+    },
+    {
+      "description": "Ocean Suite with separate sitting area, oversized balcony, whirlpool tub, and priority embarkation.",
+      "pricePerPerson": 2899,
+      "squareFeet": 340,
+      "type": "Suite"
+    }
+  ],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Adults Only",
+    "Casino",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "Waterworks aquapark with Twister slide",
+    "Guy's Burger Joint",
+    "BlueIguana Cantina",
+    "Serenity adults-only retreat",
+    "Camp Ocean kids club",
+    "Cloud 9 Spa",
+    "Punchliner Comedy Club"
+  ],
+  "rating": 4.2,
+  "reviewCount": 3870,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Cruise_Ship_Carnival_Legend_docked_in_Roatán%2C_Honduras_-_December_2010.jpg?width=800"
+  ],
+  "shipSize": "Mid-Size",
+  "inclusions": [
+    "All meals in main dining and Lido Marketplace",
+    "Guy's Burger Joint and BlueIguana Cantina",
+    "Nightly shows and comedy",
+    "Camp Ocean kids program",
+    "Waterworks slides and pools",
+    "Port taxes and fees"
+  ],
+  "exclusions": [
+    "Steakhouse and specialty dining",
+    "Alcoholic beverages (CHEERS! package available)",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "diningOptions": [
+    "Golden Fleece Steakhouse",
+    "Guy's Burger Joint",
+    "BlueIguana Cantina (Mexican)",
+    "Lido Marketplace buffet",
+    "Main Dining Room",
+    "Pizzeria del Capitano"
+  ],
+  "entertainmentOptions": [
+    "Playlist Productions shows",
+    "Punchliner Comedy Club",
+    "Hasbro, The Game Show",
+    "Live music in the Alchemy Bar and RedFrog Rum Bar",
+    "Dive-In Movies on the Lido",
+    "Casino"
+  ],
+  "hasKidsClub": true,
+  "hasAdultsOnly": true,
+  "hasSpa": true,
+  "hasCasino": true,
+  "isAllInclusive": false,
+  "reviewSnippet": "Carnival's newest Seattle ship for 2027 brings a long day in Skagway and scenic cruising in Tracy Arm Fjord at Carnival's value price point — a strong pick for families and first-time Alaska cruisers. — Editor's note",
+  "overrides": [
+    {
+      "dates": [
+        "2027-09-21"
+      ],
+      "note": "16-night Hawaii round-trip (season finale).",
+      "durationNights": 16,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 (Smith Cove Terminal) for a 16-night round-trip to Hawaii — no flights needed.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Five Fun Days at Sea crossing the Pacific to Hawaii — Waterworks, Serenity, and Sea Day Brunch.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Crossing"
+        },
+        {
+          "dayNumber": 7,
+          "description": "A long day (9 AM–10 PM) in Honolulu: Waikiki Beach, Pearl Harbor, and Diamond Head.",
+          "hoursInPort": 13,
+          "isCruisingDay": false,
+          "name": "Honolulu, Oahu, HI"
+        },
+        {
+          "dayNumber": 8,
+          "description": "The Garden Isle — Waimea Canyon, the Nā Pali Coast, and Wailua River.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Nawiliwili, Kauai, HI"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Road to Hāna, Haleakalā crater, and Maui's beaches (9 AM–9:30 PM).",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Kahului, Maui, HI"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Gateway to Hawaiʻi Volcanoes National Park and Rainbow Falls.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Hilo, Hawaii Island, HI"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Five sea days sailing back to the Pacific Northwest.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Crossing"
+        },
+        {
+          "dayNumber": 16,
+          "description": "A full-day call in British Columbia's garden city (9 AM–6 PM) — Butchart Gardens and the Inner Harbour.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 17,
+          "description": "Return to Seattle — disembarkation day.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Interior stateroom for the 16-night Hawaii voyage.",
+          "pricePerPerson": 1925,
+          "squareFeet": 185,
+          "type": "Interior"
+        },
+        {
+          "description": "Ocean view stateroom — watch the open Pacific on ten sea days.",
+          "pricePerPerson": 2225,
+          "squareFeet": 220,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Private balcony stateroom — ideal for warm-weather sea days.",
+          "pricePerPerson": 2745,
+          "squareFeet": 185,
+          "type": "Balcony"
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-10-07"
+      ],
+      "skip": true,
+      "note": "Arrival only — the Hawaii cruise returns this day; no bookable Seattle departure found."
+    }
+  ]
+}

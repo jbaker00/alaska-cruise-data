@@ -1,0 +1,140 @@
+{
+  "shipName": "Brilliant Lady",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Adults Only",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "100% adults-only ship (18+)",
+    "20+ restaurants all included in every fare",
+    "Gratuities always included",
+    "The Perch gym and outdoor fitness",
+    "Redemption Spa",
+    "B-Complex entertainment spaces",
+    "Richard's Rooftop adults-only pool",
+    "RockStar Experience (suite guests)"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Sea View cabin — Virgin Voyages' entry-level category features designer interiors and a hammock in every cabin. All dining and gratuities included.",
+      "pricePerPerson": 1599,
+      "squareFeet": 185,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Sea Terrace cabin — private terrace with hammock for Alaska scenery watching. All 20+ restaurants and gratuities included in every fare.",
+      "pricePerPerson": 1999,
+      "squareFeet": 225,
+      "type": "Balcony"
+    },
+    {
+      "description": "Massive Brilliant Suite with enormous private terrace, in-suite bar stocked daily, and RockStar Agent handling every need before and during the voyage.",
+      "pricePerPerson": 4999,
+      "squareFeet": 1380,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Virgin Voyages",
+  "diningOptions": [
+    "The Test Kitchen (avant-garde)",
+    "Gunbae (Korean BBQ)",
+    "Razzle Dazzle (vegetarian-forward)",
+    "Pink Agave (Mexican)",
+    "Wake (seafood)",
+    "The Galley (all-day casual)",
+    "Extra Virgin (Italian)",
+    "Noodle Around (Asian)",
+    "20+ concepts total — all included"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Duel Reality immersive show",
+    "Scarlet Night party event",
+    "Richard's Rooftop pool deck",
+    "B-Complex entertainment hub",
+    "Redemption Spa",
+    "High-intensity outdoor fitness",
+    "DJ sets and club nights"
+  ],
+  "exclusions": [
+    "Alcoholic beverages (bar tab, Drinks on Us package available)",
+    "Shore excursions",
+    "Spa treatments (beyond select complimentary services)",
+    "Wi-Fi (Social package and upgrades available)"
+  ],
+  "hasAdultsOnly": true,
+  "hasCasino": false,
+  "hasKidsClub": false,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Virgin_Voyages_Brilliant_Lady.jpg?width=800"
+  ],
+  "inclusions": [
+    "ALL 20+ restaurants included (no specialty dining surcharges)",
+    "All gratuities included",
+    "Group fitness classes",
+    "Entertainment",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Brilliant Lady — Virgin Voyages' adults-only Alaska ship — delivers a completely reinvented cruise experience. All fares include dining and gratuities.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Alaska's mountain-ringed capital. Mendenhall Glacier, whale watching, and local craft brews — Juneau rewards explorers. Brilliant Lady guests enjoy extra time to venture beyond the waterfront.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Gold Rush history meets dramatic mountain scenery. The White Pass Railway and hiking trails above town offer extraordinary views of the Lynn Canal and beyond.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "A gorgeous sea day aboard Brilliant Lady's strikingly designed spaces. Watch Alaska's wilderness unfold from the stunning outdoor decks while enjoying complimentary dining and beverages.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Creek Street, totem pole parks, and the freshest crab you'll ever eat straight from the Ketchikan docks. A favorite port for Virgin Voyages' adventurous Sailors.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "An evening in Victoria's elegant Inner Harbour — the perfect sendoff for Brilliant Lady's adults-only Alaska adventure.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 2341,
+  "reviewSnippet": "\"Brilliant Lady completely changed how I think about cruising. No nickel-and-diming at restaurants — every single one is included. The adults-only environment made Alaska feel sophisticated and serene. Absolute perfection.\" — Verified Guest",
+  "shipSize": "Large/Mega-Ship",
+  "overrides": []
+}

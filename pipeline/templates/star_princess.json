@@ -1,0 +1,143 @@
+{
+  "shipName": "Star Princess",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Casino"
+  ],
+  "amenityHighlights": [
+    "Brand-new flagship in Princess fleet",
+    "Crown Grill steakhouse",
+    "Sabatini's Italian",
+    "Princess Lotus Spa",
+    "Camp Discovery kids program",
+    "The Sanctuary adults-only retreat",
+    "Movies Under the Stars"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Star Princess interior stateroom — Princess's newest ship features fresh design and the latest MedallionClass technology throughout.",
+      "pricePerPerson": 1099,
+      "squareFeet": 165,
+      "type": "Interior"
+    },
+    {
+      "description": "Bright ocean view stateroom on Princess's newest vessel. Large picture window and premium amenities.",
+      "pricePerPerson": 1349,
+      "squareFeet": 200,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom on Star Princess — the newest and most modern in the Princess fleet. Glacier Bay views are extraordinary.",
+      "pricePerPerson": 1699,
+      "squareFeet": 229,
+      "type": "Balcony"
+    },
+    {
+      "description": "Sky Suite with floor-to-ceiling windows, private balcony, butler service, and exclusive access to the Reserve Collection restaurant and amenities.",
+      "pricePerPerson": 3499,
+      "squareFeet": 401,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Princess Cruises",
+  "diningOptions": [
+    "Crown Grill (steakhouse)",
+    "Sabatini's Italian Trattoria",
+    "International Café",
+    "World Fresh Marketplace buffet",
+    "Main Dining Room",
+    "Room service"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Broadway-style production shows",
+    "Movies Under the Stars",
+    "The Sanctuary adults retreat",
+    "Princess Live! entertainment",
+    "Comedy shows",
+    "Casino"
+  ],
+  "exclusions": [
+    "Crown Grill and specialty venues",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": true,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Star_princess_cruise_ship.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in main dining and World Fresh Marketplace",
+    "Entertainment and shows",
+    "Camp Discovery kids program",
+    "Pool and fitness access",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Star Princess — Princess's newest ship — sets sail on a stunning 7-night Glacier Bay Alaska voyage.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Alaska's beautiful capital. With extra time in port, explore both Mendenhall Glacier and the whale watching grounds of Auke Bay. Don't miss local king crab at Tracy's.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 3,
+      "description": "A full day of scenic cruising through the crown jewel of Alaska's wilderness. Watch tidewater glaciers calve while National Park Rangers narrate the natural history.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 4,
+      "description": "The legendary Gold Rush town at the head of the Lynn Canal. Ride the historic White Pass & Yukon Route Railway for stunning mountain and tundra views.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "World's largest collection of standing totem poles plus the colorful Creek Street waterfront and fresh Dungeness crab — a quintessential Alaska stop.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Arrive in style in British Columbia's garden city. The Inner Harbour at dusk is one of the most beautiful sights in the Pacific Northwest.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 1876,
+  "reviewSnippet": "\"Star Princess is stunning — you can feel how new everything is. Glacier Bay from the top deck was the most beautiful thing I've ever seen at sea. Princess's Alaska program is simply the best.\" — Verified Guest",
+  "shipSize": "Large/Mega-Ship",
+  "overrides": []
+}

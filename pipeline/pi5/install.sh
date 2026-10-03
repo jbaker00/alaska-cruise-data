@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# Install the cruise schedule watcher as a systemd user timer on the Pi.
+# Run from a push-able clone of alaska-cruise-data on the Pi:  ./pipeline/pi5/install.sh
+set -euo pipefail
+
+PIPELINE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+VENV="$HOME/.local/share/cruise-watcher/venv"
+ENV_FILE="$HOME/.config/cruise-watcher.env"
+UNIT_DIR="$HOME/.config/systemd/user"
+
+echo "→ Python venv at $VENV"
+python3 -m venv "$VENV"
+"$VENV/bin/pip" install -q --upgrade pip
+"$VENV/bin/pip" install -q -r "$PIPELINE_DIR/requirements.txt"
+
+if [[ ! -f "$ENV_FILE" ]]; then
+  mkdir -p "$(dirname "$ENV_FILE")"
+  cat > "$ENV_FILE" <<CONF
+# Optional: ntfy.sh topic or full URL for phone notifications
+NTFY_TOPIC=
+CONF
+  echo "→ Wrote $ENV_FILE — edit it before the first run"
+fi
+
+mkdir -p "$UNIT_DIR"
+sed "s#@PIPELINE_DIR@#$PIPELINE_DIR#" "$PIPELINE_DIR/pi5/cruise-watcher.service" > "$UNIT_DIR/cruise-watcher.service"
+cp "$PIPELINE_DIR/pi5/cruise-watcher.timer" "$UNIT_DIR/"
+
+# Keep user timers running without an active login session.
+sudo loginctl enable-linger "$USER" || echo "  (could not enable linger — timer only runs while logged in)"
+systemctl --user daemon-reload
+systemctl --user enable --now cruise-watcher.timer
+
+echo "✓ Installed. Useful commands:"
+echo "    systemctl --user start cruise-watcher      # run now"
+echo "    journalctl --user -u cruise-watcher -n 50  # logs"
+echo "    systemctl --user list-timers cruise-watcher.timer"

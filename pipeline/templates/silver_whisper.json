@@ -1,0 +1,139 @@
+{
+  "shipName": "Silver Whisper",
+  "aliases": [],
+  "cruiseLine": "Silversea Cruises",
+  "durationNights": 7,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 66 (Bell Street Terminal). Silver Whisper's single 2027 Seattle departure is a one-way, all-suite voyage to Vancouver.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "An unhurried sea day with butler service, the Zàgara Spa, and afternoon tea in the Panorama Lounge.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Creek Street, Saxman Native Village, and floatplane flightseeing over Misty Fjords National Monument.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "An afternoon and evening in Alaska's capital — Mendenhall Glacier, whale watching in Auke Bay, or a helicopter landing on the Juneau Icefield.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Explore Russian-era landmarks, the Sitka National Historical Park totem trail, and the Fortress of the Bear.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Sitka, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "A rare small-ship call on Prince of Wales Island — the Klawock Totem Park and a quiet glimpse of rural Alaska that big ships can't reach.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Klawock, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "A final day of scenic cruising south through British Columbia's coastal waters.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage"
+    },
+    {
+      "dayNumber": 8,
+      "description": "Disembarkation in Vancouver — this voyage ends in Canada, not Seattle.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Vancouver, BC"
+    }
+  ],
+  "cabinCategories": [
+    {
+      "description": "Vista Suite with large picture window, walk-in closet, marble bathroom, and butler service — every Silversea accommodation is a suite.",
+      "pricePerPerson": 6099,
+      "squareFeet": 240,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Veranda Suite with private teak veranda, sitting area, and butler service.",
+      "pricePerPerson": 7399,
+      "squareFeet": 345,
+      "type": "Balcony"
+    },
+    {
+      "description": "Silver Suite with separate living and dining areas, expansive veranda, and enhanced butler service.",
+      "pricePerPerson": 12999,
+      "squareFeet": 701,
+      "type": "Suite"
+    }
+  ],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Casino",
+    "Outdoor Activities",
+    "All Inclusive"
+  ],
+  "amenityHighlights": [
+    "All-suite ship with butler service",
+    "Only ~380 guests",
+    "Drinks, gratuities, and Wi-Fi included",
+    "Hot-rock dining at The Grill",
+    "Zàgara Spa",
+    "Rare call at Klawock"
+  ],
+  "rating": 4.7,
+  "reviewCount": 410,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Silver_whisper_2016_in_Zeebrugge.jpg?width=800"
+  ],
+  "shipSize": "Small/Boutique",
+  "inclusions": [
+    "All dining including La Terrazza",
+    "Premium wines, spirits, and in-suite minibar",
+    "Butler service in every suite",
+    "Unlimited Wi-Fi",
+    "Gratuities",
+    "Port taxes and fees"
+  ],
+  "exclusions": [
+    "Shore excursions (some included on select voyages)",
+    "Spa treatments",
+    "Premium wine list selections"
+  ],
+  "diningOptions": [
+    "The Restaurant (main dining)",
+    "La Terrazza (Italian)",
+    "The Grill (hot-rock dining on deck)",
+    "24-hour in-suite dining",
+    "Afternoon tea in the Panorama Lounge"
+  ],
+  "entertainmentOptions": [
+    "Live music in the Panorama Lounge",
+    "Destination lectures",
+    "Production shows in the Show Lounge",
+    "Casino"
+  ],
+  "hasKidsClub": false,
+  "hasAdultsOnly": false,
+  "hasSpa": true,
+  "hasCasino": true,
+  "isAllInclusive": true,
+  "reviewSnippet": "A one-of-a-kind 2027 departure: an intimate, all-inclusive Silversea voyage from Seattle that reaches small ports like Klawock before ending in Vancouver. — Editor's note",
+  "overrides": []
+}

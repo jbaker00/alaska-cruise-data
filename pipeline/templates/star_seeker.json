@@ -1,0 +1,142 @@
+{
+  "shipName": "Star Seeker",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "Intimate 1,000-guest yacht atmosphere",
+    "Open bridge policy — visit the captain's bridge",
+    "Watersports platform and equipment",
+    "Amphora restaurant fine dining",
+    "WindSpa holistic treatments",
+    "Expert naturalist lecturers on every Alaska sailing",
+    "Deck barbecue under the stars"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Windstar interior stateroom with the brand's signature yacht-casual elegance. Queen or twin beds, premium linens, and thoughtful storage aboard this intimate ship.",
+      "pricePerPerson": 1799,
+      "squareFeet": 188,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view stateroom with large porthole or window — watch the Inside Passage unfold from your own personal vantage point aboard this intimate yacht.",
+      "pricePerPerson": 2199,
+      "squareFeet": 200,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private veranda stateroom — the ideal Alaska perch for watching glaciers, wildlife, and the stunning Inside Passage from this intimate 1,000-guest vessel.",
+      "pricePerPerson": 2699,
+      "squareFeet": 231,
+      "type": "Balcony"
+    },
+    {
+      "description": "Owner's Suite with separate living area, premium bar setup, priority access, and Windstar's most spacious accommodation. Personalized service throughout your Alaska voyage.",
+      "pricePerPerson": 4299,
+      "squareFeet": 575,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Windstar Cruises",
+  "diningOptions": [
+    "Amphora (signature fine dining)",
+    "Veranda (casual al fresco)",
+    "Candles (romantic outdoor dining)",
+    "Pool Café (casual)",
+    "Room service"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Expert Alaska naturalist lectures",
+    "Open bridge access with captain",
+    "Watersports platform (kayaks, paddleboards)",
+    "Deck barbecue events",
+    "WindSpa holistic treatments",
+    "Star Gazing evenings"
+  ],
+  "exclusions": [
+    "Premium spirits and cocktails",
+    "Shore excursions",
+    "WindSpa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": false,
+  "hasKidsClub": false,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://picsum.photos/seed/windstar-star-seeker/800/450",
+    "https://picsum.photos/seed/windstar-star-seeker-2/800/450",
+    "https://picsum.photos/seed/windstar-star-seeker-3/800/450"
+  ],
+  "inclusions": [
+    "All meals in Amphora restaurant and casual venues",
+    "Most beverages (select wines and beers with dinner)",
+    "Entertainment and enrichment programming",
+    "Watersports equipment use",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 66 (Bell Street Terminal). Star Seeker — Windstar's newest and largest yacht — departs on an intimate 7-night Alaska voyage for just 1,000 guests.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A serene sea day as Star Seeker glides through the Inside Passage. With fewer than 1,000 guests aboard, the outdoor deck space is remarkable — the perfect place to watch for whales and eagles.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Alaska's stunning capital. Star Seeker's smaller size enables access to areas larger ships can't visit. Take a helicopter glacier tour or whale watch in Auke Bay with Windstar's expert naturalist on board.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "The evocative Gold Rush town at the head of the Lynn Canal. Ride the historic White Pass & Yukon Route Railway through mountain scenery that captivated prospectors and inspires travelers today.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "One of Southeast Alaska's most rewarding ports — a blend of Tlingit heritage and Russian colonial legacy. The sea otter colonies here are among the most accessible in Alaska.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Sitka, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Creek Street, totem poles, and extraordinarily fresh seafood right from the docks. A floatplane tour to Misty Fjords National Monument is a Windstar favorite.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day after an intimate 7-night Alaska voyage.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.7,
+  "reviewCount": 876,
+  "reviewSnippet": "\"Windstar's Star Seeker is unlike any Alaska experience we'd ever had. The yacht atmosphere, the naturalist on board, the open bridge — Alaska feels completely different from an intimate ship of this caliber. Extraordinary.\" — Verified Guest",
+  "shipSize": "Small/Boutique",
+  "overrides": []
+}

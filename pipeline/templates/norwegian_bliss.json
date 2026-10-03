@@ -1,0 +1,146 @@
+{
+  "shipName": "Norwegian Bliss",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Casino",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "Two-level race car track at sea",
+    "Two laser tag arenas",
+    "Aqua Racer multi-story water slides",
+    "Q Texas Smokehouse BBQ",
+    "21+ dining venues",
+    "Mandara Spa",
+    "The Haven private enclave"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Norwegian Bliss interior stateroom with NCL's signature design and flexible Freestyle dining. Two lower beds convertible to queen.",
+      "pricePerPerson": 849,
+      "squareFeet": 143,
+      "type": "Interior"
+    },
+    {
+      "description": "Bright oceanview stateroom with large picture window — watch the Inside Passage scenery from your room.",
+      "pricePerPerson": 1049,
+      "squareFeet": 176,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom. Norwegian Bliss was built specifically for Alaska — the outdoor spaces are exceptional.",
+      "pricePerPerson": 1349,
+      "squareFeet": 205,
+      "type": "Balcony"
+    },
+    {
+      "description": "The Haven suite — a private ship-within-a-ship with its own pool, sundeck, restaurant, and 24-hour concierge service.",
+      "pricePerPerson": 2899,
+      "squareFeet": 484,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Norwegian Cruise Line",
+  "diningOptions": [
+    "Cagney's Steakhouse",
+    "Le Bistro (French)",
+    "Onda by Scarpetta (Italian)",
+    "Q Texas Smokehouse",
+    "Los Lobos (Mexican)",
+    "Main Dining Room",
+    "Garden Café buffet"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Jersey Boys (Broadway show)",
+    "Race car track",
+    "Two laser tag arenas",
+    "Aqua Racer water slides",
+    "Glow Party nightclub",
+    "Comedy club",
+    "Casino"
+  ],
+  "exclusions": [
+    "Specialty dining restaurants",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": true,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Norwegian_Bliss.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in main dining and Garden Café buffet",
+    "Entertainment and activities",
+    "Splash Academy kids club",
+    "Pools and water slides",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 66 (Bell Street Terminal). Norwegian Bliss — NCL's purpose-built Alaska flagship — departs for a 7-night voyage.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Alaska's scenic capital. Take a whale watching cruise in Auke Bay, trek to Mendenhall Glacier, or sample local king crab at Tracy's.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Gold Rush history meets spectacular mountain scenery. The White Pass & Yukon Route Railway offers unforgettable views above the treeline.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "A full day of scenic cruising through Glacier Bay — one of Alaska's crown jewels. Watch tidewater glaciers calve massive ice into the sea.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Rain capital of Alaska and totem pole capital of the world. Explore Creek Street, see the fish ladder, or take a floatplane tour of Misty Fjords.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "An elegant evening arrival in Canada's most charming city. Visit Butchart Gardens or stroll the iconic Inner Harbour.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 4587,
+  "reviewSnippet": "\"Norwegian Bliss is purpose-built for Alaska and it shows. The outdoor decks are perfect for scenery viewing and Glacier Bay was absolutely jaw-dropping. Best family cruise we've taken.\" — Verified Guest",
+  "shipSize": "Large/Mega-Ship",
+  "overrides": []
+}

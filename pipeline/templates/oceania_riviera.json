@@ -1,0 +1,160 @@
+{
+  "shipName": "Oceania Riviera",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness"
+  ],
+  "amenityHighlights": [
+    "The Finest Cuisine at Sea (Oceania's tagline)",
+    "Jacques Pépin-inspired culinary program",
+    "Four specialty restaurants included in every fare",
+    "Culinary Center cooking classes",
+    "Canyon Ranch SpaClub",
+    "Intimate 1,250-guest ship"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Veranda stateroom — Oceania Riviera's entry category features gorgeous teak verandas, Tranquility Beds, and the finest cuisine at sea included in every sailing.",
+      "pricePerPerson": 3499,
+      "squareFeet": 282,
+      "type": "Balcony"
+    },
+    {
+      "description": "Concierge Level Veranda stateroom — enhanced amenities, priority embarkation, upgraded welcome amenities, and access to the Concierge Lounge.",
+      "pricePerPerson": 4299,
+      "squareFeet": 282,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Penthouse Suite with butler service, Bulgari bath amenities, and access to the exclusive Privée private dining room. The finest non-world-cruise Alaska suite available.",
+      "pricePerPerson": 6999,
+      "squareFeet": 420,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Oceania Cruises",
+  "diningOptions": [
+    "Jacques (French fine dining)",
+    "Red Ginger (Asian fusion)",
+    "Toscana (Italian)",
+    "Polo Grill (steakhouse)",
+    "Terrace Café (al fresco)",
+    "Grand Dining Room — all included, no reservation surcharges"
+  ],
+  "durationNights": 10,
+  "entertainmentOptions": [
+    "The Lounge cabaret-style entertainment",
+    "Enrichment lectures and port talks",
+    "Culinary Center hands-on cooking classes",
+    "Canyon Ranch SpaClub",
+    "Horizons observation lounge"
+  ],
+  "exclusions": [
+    "Alcoholic beverages (Simply More packages available)",
+    "Shore excursions (Simply More packages include credit)",
+    "Spa treatments",
+    "Wi-Fi (Simply More includes Wi-Fi)",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": false,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Riviera_%28ship%2C_2012%29%2C_S%C3%A8te_cf01.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in all four specialty restaurants and Grand Dining Room — no surcharges ever",
+    "Entertainment programming",
+    "Fitness center",
+    "Culinary demonstrations",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 66 (Bell Street Terminal). Oceania Riviera — the finest food at sea — begins a 10-night Alaska voyage for the discerning traveler.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A relaxed day at sea on Oceania's intimate 1,250-guest Riviera. The culinary program and warm service are immediately evident from day one.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Pacific Coastal Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Alaska's remarkable capital with extra time to truly explore. A helicopter glacier tour followed by whale watching is entirely feasible with Riviera's generous port schedule.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "The White Pass Railway, the legendary Chilkoot Trail history, and the perfectly preserved Gold Rush downtown make Skagway an essential Alaska experience.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Scenic cruising through Glacier Bay's UNESCO World Heritage wilderness. On a smaller ship like Riviera, the experience feels more intimate and immersive.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Russian Alaska, Tlingit heritage, and extraordinary sea life converge in Sitka. Castle Hill, St. Michael's Cathedral, and the Alaska Raptor Center are highlights.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Sitka, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Creek Street, totem pole parks, and outstanding fresh Dungeness crab — Ketchikan is a culinary and cultural highlight of any Alaska voyage.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 8,
+      "description": "An off-the-beaten-path gem rich in First Nations culture and remarkable wildlife. One of Southeast Alaska's least-visited and most rewarding ports.",
+      "hoursInPort": 7,
+      "isCruisingDay": false,
+      "name": "Prince Rupert, BC"
+    },
+    {
+      "dayNumber": 9,
+      "description": "A final stunning scenic day through the protected waters of the Inside Passage — watch for humpback whales, orcas, and bald eagles.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 10,
+      "description": "A refined finale in British Columbia's elegant capital. Butchart Gardens or afternoon tea at the Empress perfectly caps an Oceania Alaska voyage.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 11,
+      "description": "Return to Seattle — disembarkation day after a memorable 10-night Alaska voyage.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 1234,
+  "reviewSnippet": "\"The food on Oceania Riviera is genuinely the best I've had at sea — or anywhere. Jacques and Red Ginger are world-class. Alaska's scenery plus this culinary program is the most perfect cruise combination imaginable.\" — Verified Guest",
+  "shipSize": "Small/Boutique",
+  "overrides": []
+}

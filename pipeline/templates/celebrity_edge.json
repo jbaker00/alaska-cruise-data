@@ -1,0 +1,143 @@
+{
+  "shipName": "Celebrity Edge",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Adults Only",
+    "Casino"
+  ],
+  "amenityHighlights": [
+    "Edge Staterooms with infinite veranda",
+    "The Retreat exclusive suite experience",
+    "Luminae private restaurant (suite guests)",
+    "Blu restaurant (AquaClass guests)",
+    "Persian Garden spa thermal suite",
+    "Rooftop Garden innovative entertainment",
+    "Solarium adults-only pool and bar"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Celebrity Edge interior stateroom — refined design, premium linens, and spa-inspired bath amenities set Celebrity apart from the crowd.",
+      "pricePerPerson": 1449,
+      "squareFeet": 183,
+      "type": "Interior"
+    },
+    {
+      "description": "Edge Stateroom with infinite veranda — Celebrity's revolutionary design blurs the line between inside and out, transforming your room into a glass-enclosed outdoor space.",
+      "pricePerPerson": 1749,
+      "squareFeet": 242,
+      "type": "Ocean View"
+    },
+    {
+      "description": "AquaClass stateroom with veranda — includes spa-focused amenities, daily access to the Persian Garden, and exclusive seating at Blu restaurant.",
+      "pricePerPerson": 2199,
+      "squareFeet": 239,
+      "type": "Balcony"
+    },
+    {
+      "description": "The Retreat Sky Suite — butler service, dedicated Retreat Host, private Retreat sundeck with pool, and exclusive Luminae restaurant reserved for suite guests.",
+      "pricePerPerson": 5299,
+      "squareFeet": 417,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Celebrity Cruises",
+  "diningOptions": [
+    "Fine Cut Steakhouse",
+    "Eden (avant-garde cuisine)",
+    "Le Petit Chef (holographic dining)",
+    "Blu (AquaClass exclusive)",
+    "Luminae (Suite exclusive)",
+    "Oceanview Café buffet",
+    "Main Dining Room"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Rooftop Garden live performances",
+    "Eden entertainment shows",
+    "Celebrity Central comedy",
+    "Solarium adults-only pool deck",
+    "Eden bar cocktail experiences",
+    "Casino"
+  ],
+  "exclusions": [
+    "Specialty dining (Fine Cut, Eden, Raw on 5)",
+    "Beverages (Classic or Premium packages available)",
+    "Shore excursions",
+    "Spa (Persian Garden extra for non-AquaClass)",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": true,
+  "hasCasino": true,
+  "hasKidsClub": false,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Celebrity_Edge_-_Sept_2018_%28cropped%29.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in main dining room and Oceanview Café",
+    "Entertainment and enrichment programs",
+    "Fitness center access",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Celebrity Edge — Celebrity's revolutionary Edge-class ship — departs on a refined 7-night Alaska voyage.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Alaska's capital offers everything from helicopter glacier tours to local craft breweries. Take the Mount Roberts Tramway for panoramic views or whale watch in Auke Bay.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Surrounded by dramatic mountains, Skagway preserves Gold Rush history in its National Historic District. The White Pass Railway is a must for first-time visitors.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "A full day of breathtaking scenic cruising through Glacier Bay. Celebrity Edge's Edge Staterooms offer an extraordinary front-row seat to Alaska's glacial majesty.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 5,
+      "description": "World's largest collection of standing totem poles, historic Creek Street, and outstanding fresh seafood make Ketchikan an Alaska highlight.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "A sophisticated evening in British Columbia's elegant capital. Butchart Gardens or high tea at the Fairmont Empress round off the Alaska voyage perfectly.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.7,
+  "reviewCount": 2764,
+  "reviewSnippet": "\"Celebrity Edge redefined what an Alaska cruise can be. The infinite veranda stateroom with Glacier Bay outside was the most remarkable thing I've ever experienced at sea. Flawless service from embarkation to disembarkation.\" — Verified Guest",
+  "shipSize": "Mid-Size",
+  "overrides": []
+}

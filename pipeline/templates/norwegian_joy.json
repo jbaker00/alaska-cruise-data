@@ -1,0 +1,160 @@
+{
+  "shipName": "Norwegian Joy",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Casino",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "Go-Kart Race Track at sea",
+    "Aqua Racer water slides",
+    "20+ dining options",
+    "Mandara Spa",
+    "Glow Party nightclub",
+    "Laser tag arenas",
+    "Splash Academy kids club"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Comfortable Freestyle interior stateroom with flexible dining and NCL's signature amenities. Two lower beds convertible to queen.",
+      "pricePerPerson": 849,
+      "squareFeet": 143,
+      "type": "Interior"
+    },
+    {
+      "description": "Ocean view stateroom with large picture window to enjoy the stunning Alaskan coastline. Freestyle dining included.",
+      "pricePerPerson": 1049,
+      "squareFeet": 176,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom — perfect for watching Alaska's incredible scenery and wildlife from your own outdoor space.",
+      "pricePerPerson": 1349,
+      "squareFeet": 205,
+      "type": "Balcony"
+    },
+    {
+      "description": "The Haven Suite — NCL's ship-within-a-ship experience with private pool, dedicated restaurant, and 24-hour butler service.",
+      "pricePerPerson": 2899,
+      "squareFeet": 475,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Norwegian Cruise Line",
+  "diningOptions": [
+    "Cagney's Steakhouse",
+    "Le Bistro (French)",
+    "Food Republic (Asian fusion)",
+    "Los Lobos (Mexican)",
+    "Q Texas Smokehouse BBQ",
+    "Main Dining Room",
+    "Garden Café buffet"
+  ],
+  "durationNights": 9,
+  "entertainmentOptions": [
+    "Howl at the Moon dueling pianos",
+    "Go-Kart Race Track",
+    "Laser tag",
+    "Aqua Racer waterslides",
+    "Glow Party nightclub",
+    "Comedy club",
+    "Casino"
+  ],
+  "exclusions": [
+    "Specialty restaurants (Cagney's, Le Bistro, etc.)",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": true,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/NCL_Norwegian_Joy.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in main dining and Garden Café buffet",
+    "Entertainment and activities",
+    "Splash Academy kids program",
+    "Use of pools and waterslides",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 66 (Bell Street Terminal). Norwegian Joy sets sail on a 9-night Alaskan adventure.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "A beautiful scenic sea day cruising the Inside Passage. Enjoy Norwegian Joy's full lineup of activities while Alaska's wilderness rolls past outside.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Alaska's capital city nestled between mountains and the Gastineau Channel. Visit Mendenhall Glacier, go whale watching in Auke Bay, or explore the vibrant downtown waterfront.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "A living museum of the Klondike Gold Rush era. Ride the historic White Pass & Yukon Route Railway through dramatic mountain scenery.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "A full day of scenic cruising through one of the world's most spectacular wilderness areas. A National Park Ranger boards to narrate as you glide past towering glaciers.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 6,
+      "description": "A gem of Southeast Alaska blending Russian heritage and Tlingit culture. Visit St. Michael's Cathedral, the Sitka National Historical Park, and watch sea otters in the harbor.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Sitka, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "The 'Salmon Capital of the World.' Explore Creek Street's colorful waterfront history and view the world's largest collection of totem poles at Totem Bight State Park.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 8,
+      "description": "An elegant evening arrival in British Columbia's charming capital. Visit the Inner Harbour or stroll through Government Street's boutiques and cafés.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 9,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 3876,
+  "reviewSnippet": "\"Norwegian Joy's 9-night Alaska voyage gives you time to truly explore. The go-kart track kept the kids entertained on sea days while we relaxed at the spa. Glacier Bay and Sitka were both absolutely breathtaking.\" — Verified Guest",
+  "shipSize": "Large/Mega-Ship",
+  "overrides": []
+}

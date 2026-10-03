@@ -1,0 +1,146 @@
+{
+  "shipName": "Norwegian Encore",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Casino",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "Largest race track at sea",
+    "Virtual Reality experience",
+    "Aqua Racer water slides",
+    "Cagney's Steakhouse",
+    "Mandara Spa",
+    "Splash Academy kids club",
+    "The Haven private complex"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Norwegian Encore interior stateroom — smart storage, NCL's Freestyle flexibility, and crisp modern design.",
+      "pricePerPerson": 849,
+      "squareFeet": 143,
+      "type": "Interior"
+    },
+    {
+      "description": "Large-window oceanview stateroom with views of Alaska's incomparable coastline. Freestyle dining and entertainment included.",
+      "pricePerPerson": 1049,
+      "squareFeet": 178,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom — Norwegian Encore's wide balconies are ideal for Alaska's panoramic scenery.",
+      "pricePerPerson": 1349,
+      "squareFeet": 207,
+      "type": "Balcony"
+    },
+    {
+      "description": "Two-bedroom Haven Family Villa — the ultimate in Norwegian luxury with dedicated butler, Haven pool, and private restaurant access.",
+      "pricePerPerson": 2899,
+      "squareFeet": 710,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Norwegian Cruise Line",
+  "diningOptions": [
+    "Cagney's Steakhouse",
+    "Le Bistro (French)",
+    "Onda by Scarpetta (Italian)",
+    "Bayamo (Latin cuisine)",
+    "Q Texas Smokehouse",
+    "Main Dining Room",
+    "Garden Café buffet"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Kinky Boots (Broadway musical)",
+    "Race track at sea",
+    "Virtual reality experiences",
+    "Aqua Racer slides",
+    "Skyline Bar",
+    "Comedy club",
+    "Casino"
+  ],
+  "exclusions": [
+    "Specialty restaurants",
+    "Alcoholic beverages",
+    "Shore excursions",
+    "Spa treatments",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": false,
+  "hasCasino": true,
+  "hasKidsClub": true,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Norwegian_Encore_%281%29.jpg?width=800"
+  ],
+  "inclusions": [
+    "All meals in main dining and Garden Café buffet",
+    "Entertainment and activities",
+    "Splash Academy kids club",
+    "Pools and slides",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 66 (Bell Street Terminal). Norwegian Encore — NCL's newest and largest ship in the Alaska market.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Alaska's capital offers glacier adventures, world-class whale watching, and a lively waterfront. More time means more to explore.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 3,
+      "description": "At the base of the Coast Mountains, Skagway preserves the spirit of the 1898 Gold Rush. The White Pass Railway is a UNESCO contender.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "Spectacular scenic cruising day through Glacier Bay National Park. Watch for humpback whales, sea otters, and calving tidewater glaciers.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Ketchikan's vibrant Creek Street and totem pole parks are highlights. Local seafood here rivals anywhere in the world.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "End your Alaska voyage with an elegant evening call in Victoria — tea at the Empress or a horse-drawn carriage tour of the Inner Harbour.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 3214,
+  "reviewSnippet": "\"Norwegian Encore blew us away — the Broadway show was outstanding and the Alaska scenery from our balcony was absolutely stunning. Glacier Bay alone is worth the trip.\" — Verified Guest",
+  "shipSize": "Large/Mega-Ship",
+  "overrides": []
+}

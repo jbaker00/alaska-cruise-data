@@ -1,0 +1,21 @@
+{
+  "version": 202610032206,
+  "schema": 1,
+  "generatedAt": "2026-10-03T22:06:51+00:00",
+  "cruiseCount": 632,
+  "sha256": "ba431389efde2720129e1d9a2d39bd2cf3cd75575de9214b7cd1825d1389fca5",
+  "seasons": [
+    {
+      "year": 2026,
+      "published": "2026-04-20",
+      "preliminary": false,
+      "source": "2026 Cruise Schedule 4.20.26.pdf"
+    },
+    {
+      "year": 2027,
+      "published": "2026-09-18",
+      "preliminary": true,
+      "source": "2027 Preliminary Cruise Schedule 9.18.26.pdf"
+    }
+  ]
+}

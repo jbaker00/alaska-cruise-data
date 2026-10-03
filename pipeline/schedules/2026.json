@@ -1,0 +1,2318 @@
+{
+  "year": 2026,
+  "published": "2026-04-20",
+  "preliminary": false,
+  "source": "2026 Cruise Schedule 4.20.26.pdf",
+  "calls": [
+    {
+      "date": "2026-04-17",
+      "vessel": "Norwegian Jade",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": true
+    },
+    {
+      "date": "2026-04-19",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-04-25",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-04-25",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-04-26",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-04-27",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-04-28",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-04-29",
+      "vessel": "Volendam",
+      "pier": 66,
+      "cruiseLine": "Holland America Line",
+      "inTransit": true
+    },
+    {
+      "date": "2026-04-30",
+      "vessel": "Ruby Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": true
+    },
+    {
+      "date": "2026-05-02",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-02",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-03",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-03",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-03",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-04",
+      "vessel": "Queen Elizabeth",
+      "pier": 91,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-05",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-06",
+      "vessel": "Star Seeker",
+      "pier": 66,
+      "cruiseLine": "Windstar Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-07",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-07",
+      "vessel": "Discovery Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": true
+    },
+    {
+      "date": "2026-05-08",
+      "vessel": "Coral Princess",
+      "pier": 66,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": true
+    },
+    {
+      "date": "2026-05-08",
+      "vessel": "Serenade of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": true
+    },
+    {
+      "date": "2026-05-08",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-09",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-09",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-09",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-10",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-10",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-10",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-11",
+      "vessel": "Silver Nova",
+      "pier": 66,
+      "cruiseLine": "Silver Sea Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-11",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-11",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-12",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-13",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-14",
+      "vessel": "Asuka II",
+      "pier": 66,
+      "cruiseLine": "NYK Cruise Lines",
+      "inTransit": true
+    },
+    {
+      "date": "2026-05-14",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-14",
+      "vessel": "Queen Elizabeth",
+      "pier": 91,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-15",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-16",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-16",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-16",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-17",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-17",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-17",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-18",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-18",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-19",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-21",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-21",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-21",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-22",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-22",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-22",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-23",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-23",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-23",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-24",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-24",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-24",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-25",
+      "vessel": "Oceania Riviera",
+      "pier": 66,
+      "cruiseLine": "Oceania Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-25",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-25",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-26",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-28",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-28",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-29",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-29",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-30",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-30",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-30",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-31",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-31",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-05-31",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-01",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-01",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-01",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-02",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-02",
+      "vessel": "Queen Elizabeth",
+      "pier": 91,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-04",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-04",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-05",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-05",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-06",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-06",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-06",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-07",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-07",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-07",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-08",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-08",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-09",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-10",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-11",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-11",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-11",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-12",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-12",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-13",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-13",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-13",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-14",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-14",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-15",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-15",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-16",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-18",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-19",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-19",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-19",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-20",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-20",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-20",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-21",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-21",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-22",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-22",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-22",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-23",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-23",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-25",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-26",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-26",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-27",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-27",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-27",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-28",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-28",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-29",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-29",
+      "vessel": "The World",
+      "pier": 66,
+      "cruiseLine": "Residences at Sea",
+      "inTransit": true
+    },
+    {
+      "date": "2026-06-29",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-29",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-06-30",
+      "vessel": "The World",
+      "pier": 66,
+      "cruiseLine": "Residences at Sea",
+      "inTransit": true
+    },
+    {
+      "date": "2026-06-30",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-01",
+      "vessel": "The World",
+      "pier": 66,
+      "cruiseLine": "Residences at Sea",
+      "inTransit": true
+    },
+    {
+      "date": "2026-07-01",
+      "vessel": "Queen Elizabeth",
+      "pier": 91,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-02",
+      "vessel": "Oceania Riviera",
+      "pier": 66,
+      "cruiseLine": "Oceania Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-02",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-02",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-03",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-03",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-04",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-04",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-04",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-05",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-05",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-05",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-06",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-06",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-07",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-08",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-09",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-09",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-09",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-10",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-10",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-11",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-11",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-11",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-12",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-12",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-12",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-13",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-13",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-14",
+      "vessel": "Oceania Riviera",
+      "pier": 66,
+      "cruiseLine": "Oceania Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-14",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-16",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-16",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-17",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-17",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-17",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-18",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-18",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-18",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-19",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-19",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-19",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-20",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-20",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-20",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-21",
+      "vessel": "Oceania Riviera",
+      "pier": 66,
+      "cruiseLine": "Oceania Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-21",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-23",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-23",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-24",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-24",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-25",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-25",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-25",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-26",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-26",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-26",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-27",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-27",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-27",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-28",
+      "vessel": "Oceania Riviera",
+      "pier": 66,
+      "cruiseLine": "Oceania Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-28",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-30",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-30",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-30",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-31",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-07-31",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-01",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-01",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-01",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-02",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-02",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-02",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-03",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-03",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-04",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-05",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-06",
+      "vessel": "Oceania Riviera",
+      "pier": 66,
+      "cruiseLine": "Oceania Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-06",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-06",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-07",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-07",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-08",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-08",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-08",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-09",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-09",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-09",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-10",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-10",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-10",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-11",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-13",
+      "vessel": "Oceania Riviera",
+      "pier": 66,
+      "cruiseLine": "Oceania Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-13",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-13",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-14",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-14",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-14",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-15",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-15",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-15",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-16",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-16",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-16",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-17",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-17",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-18",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-20",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-20",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-20",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-21",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-21",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-22",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-22",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-22",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-23",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-23",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-23",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-24",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-24",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-24",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-25",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-26",
+      "vessel": "Oceania Riviera",
+      "pier": 66,
+      "cruiseLine": "Oceania Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-27",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-27",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-27",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-28",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-28",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-29",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-29",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-29",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-30",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-30",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-31",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-08-31",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-01",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-02",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-03",
+      "vessel": "Brilliant Lady",
+      "pier": 91,
+      "cruiseLine": "Virgin Voyages",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-03",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-04",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-04",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-05",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-05",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-05",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-06",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-06",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-06",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-07",
+      "vessel": "Queen Elizabeth",
+      "pier": 66,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-07",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-07",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-08",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-10",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-11",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-11",
+      "vessel": "Celebrity Edge",
+      "pier": 91,
+      "cruiseLine": "Celebrity Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-11",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-12",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-12",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-12",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-13",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-13",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-14",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-14",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-15",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-17",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-17",
+      "vessel": "Queen Elizabeth",
+      "pier": 91,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-18",
+      "vessel": "Seven Seas Explorer",
+      "pier": 66,
+      "cruiseLine": "Regent Seven Seas",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-18",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-19",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-19",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-19",
+      "vessel": "Royal Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-20",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-20",
+      "vessel": "Star Princess",
+      "pier": 91,
+      "cruiseLine": "Princess Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-21",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-21",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-21",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-23",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-24",
+      "vessel": "Queen Elizabeth",
+      "pier": 91,
+      "cruiseLine": "Cunard Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-25",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-26",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-26",
+      "vessel": "Carnival Miracle",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-26",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-27",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-28",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": true
+    },
+    {
+      "date": "2026-09-28",
+      "vessel": "MSC Poesia",
+      "pier": 91,
+      "cruiseLine": "MSC Cruises",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-30",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-30",
+      "vessel": "Anthem of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-09-30",
+      "vessel": "Seven Seas Explorer",
+      "pier": 91,
+      "cruiseLine": "Regent Seven Seas",
+      "inTransit": false
+    },
+    {
+      "date": "2026-10-02",
+      "vessel": "Norwegian Joy",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": true
+    },
+    {
+      "date": "2026-10-02",
+      "vessel": "Voyager of the Seas",
+      "pier": 91,
+      "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2026-10-03",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-10-03",
+      "vessel": "Eurodam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-10-04",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-10-04",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-10-08",
+      "vessel": "Carnival Spirit",
+      "pier": 91,
+      "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-10-10",
+      "vessel": "Norwegian Bliss",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-10-11",
+      "vessel": "Norwegian Encore",
+      "pier": 66,
+      "cruiseLine": "Norwegian Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2026-10-11",
+      "vessel": "Noordam",
+      "pier": 91,
+      "cruiseLine": "Holland America Line",
+      "inTransit": false
+    }
+  ]
+}

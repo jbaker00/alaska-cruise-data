@@ -1,0 +1,145 @@
+{
+  "shipName": "Voyager of the Seas",
+  "aliases": [],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Entertainment",
+    "Spa & Wellness",
+    "Kids Club",
+    "Casino",
+    "Adults Only",
+    "Outdoor Activities"
+  ],
+  "amenityHighlights": [
+    "Ice skating rink at sea",
+    "Rock climbing wall",
+    "Chops Grille steakhouse",
+    "Vitality Spa & Fitness",
+    "Adventure Ocean kids club",
+    "Solarium adults-only pool",
+    "Flowrider surf simulator"
+  ],
+  "cabinCategories": [
+    {
+      "description": "Royal Caribbean interior stateroom with queen or twin beds and efficient design. Ideal value for an Alaska adventure.",
+      "pricePerPerson": 1149,
+      "squareFeet": 165,
+      "type": "Interior"
+    },
+    {
+      "description": "Classic ocean-view stateroom with large picture window. On Inside Passage scenic days, it's like having your own private viewing gallery.",
+      "pricePerPerson": 1399,
+      "squareFeet": 184,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Private balcony stateroom — watch Inside Passage wildlife and stunning scenery from your own personal deck.",
+      "pricePerPerson": 1749,
+      "squareFeet": 213,
+      "type": "Balcony"
+    },
+    {
+      "description": "Grand Suite with separate living room, whirlpool tub, and exclusive Royal Suite Class lounge and sundeck access.",
+      "pricePerPerson": 3599,
+      "squareFeet": 586,
+      "type": "Suite"
+    }
+  ],
+  "cruiseLine": "Royal Caribbean",
+  "diningOptions": [
+    "Chops Grille (steakhouse)",
+    "Giovanni's Table (Italian)",
+    "Izumi (Japanese)",
+    "Johnny Rockets",
+    "Windjammer Café",
+    "Main Dining Room"
+  ],
+  "durationNights": 7,
+  "entertainmentOptions": [
+    "Ice skating shows",
+    "Rock climbing wall",
+    "Flowrider surf simulator",
+    "Production shows",
+    "Casino Royale",
+    "Live music"
+  ],
+  "exclusions": [
+    "Specialty dining",
+    "Beverages",
+    "Shore excursions",
+    "Spa",
+    "Wi-Fi",
+    "Gratuities"
+  ],
+  "hasAdultsOnly": true,
+  "hasCasino": true,
+  "hasKidsClub": true,
+  "hasSpa": true,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/MS_Voyager_of_the_Seas_in_Port_Chalmers_17_November_2012.jpg?width=800"
+  ],
+  "inclusions": [
+    "Main dining and Windjammer buffet",
+    "Entertainment and activities",
+    "Adventure Ocean kids program",
+    "Fitness center",
+    "Port taxes and fees"
+  ],
+  "isAllInclusive": false,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Embarkation at Pier 91 (Smith Cove Terminal). Voyager of the Seas — a Royal Caribbean classic — sets sail for Alaska.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Scenic cruising through the protected Inside Passage. Watch for whales, sea otters, and bald eagles from the expansive open decks.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage Scenic"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Alaska's capital city. Mendenhall Glacier, whale watching, and the fascinating Alaska State Museum are all within reach.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    },
+    {
+      "dayNumber": 4,
+      "description": "Gold Rush history and mountain grandeur collide in Skagway. The White Pass & Yukon Route Railway ride is North America's most spectacular narrow-gauge journey.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Skagway, AK"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Creek Street, totem pole parks, and outstanding fresh crab — Ketchikan delivers quintessential Alaska in a vibrant package.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 6,
+      "description": "A gorgeous evening in British Columbia's capital. High tea, horse-drawn carriage rides, and the stunning Inner Harbour await.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Victoria, BC"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Return to Seattle — disembarkation day.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "rating": 4.3,
+  "reviewCount": 3784,
+  "reviewSnippet": "\"Voyager of the Seas offers so much activity that sea days fly by. The ice show was surprisingly incredible, and watching whales from the Solarium was a highlight we'll never forget.\" — Verified Guest",
+  "shipSize": "Large/Mega-Ship",
+  "overrides": []
+}
