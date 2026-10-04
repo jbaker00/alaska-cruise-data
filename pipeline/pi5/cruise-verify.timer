@@ -1,8 +1,8 @@
 [Unit]
-Description=Weekly sailing verification (Sunday evening, before the Monday 7 AM marketing report)
+Description=Nightly slice of the sailing verification (~25 dates/night; each sailing re-checked about weekly)
 
 [Timer]
-OnCalendar=Sun *-*-* 21:00
+OnCalendar=*-*-* 02:30
 RandomizedDelaySec=20m
 Persistent=true
 

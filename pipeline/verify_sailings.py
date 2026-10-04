@@ -12,12 +12,15 @@ status: match | mismatch | not_listed | error. build_dataset.py stamps `verified
 matching sailings (shown in the app as "Itinerary checked <date>"). Mismatches need a
 person to research and fix the ship template — this script never changes cruise data.
 
-Polite by design: one request every DELAY seconds, a browser-like UA, at most once a week.
+Polite by design: runs nightly but fetches only the MAX_DATES_PER_RUN stalest dates, one request
+every DELAY seconds — every sailing gets re-checked about weekly at ~25 requests/day. On a 429 the
+run stops early (the next night resumes) instead of retrying into the limit.
 """
 
 from __future__ import annotations
 
 import html
+import os
 import json
 import re
 import sys
@@ -31,7 +34,8 @@ HERE = Path(__file__).resolve().parent
 REPO = HERE.parent
 URL = "https://www.cruisetimetables.com/fromseattlewashington-{d}.html"
 UA = "Mozilla/5.0 (X11; Linux aarch64) SeattleCruiseFinder-verify/1.0"
-DELAY = 8.0        # the site rate-limits (429) at ~3s/request
+DELAY = 25.0       # the site rate-limits (429) aggressively — stay far below it
+MAX_DATES_PER_RUN = int(os.environ.get("VERIFY_MAX_DATES", "25"))  # nightly slice; full cycle ≈ 1 week
 HORIZON_DAYS = 550  # roughly the published schedules (current + next season)
 REFRESH_DAYS = 30   # keep an existing verifiedOn this long to avoid weekly dataset churn
 
@@ -47,15 +51,8 @@ def city(port: str) -> str:
 
 def fetch(d: date) -> str:
     req = urllib.request.Request(URL.format(d=d.strftime("%d%b%Y").lower()), headers={"User-Agent": UA})
-    for attempt in range(4):
-        try:
-            with urllib.request.urlopen(req, timeout=30) as r:
-                return r.read().decode("utf-8", "replace")
-        except urllib.error.HTTPError as e:
-            if e.code != 429 or attempt == 3:
-                raise
-            time.sleep(60 * (attempt + 1))  # back off: 1, 2, 3 minutes
-    raise RuntimeError("unreachable")
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read().decode("utf-8", "replace")
 
 
 def parse(page: str) -> list[dict]:
@@ -91,15 +88,21 @@ def main() -> int:
         if today <= d <= today + timedelta(days=HORIZON_DAYS):
             by_date.setdefault(d, []).append(c)
 
+    def staleness(d: date) -> tuple:
+        olds = [prev.get(c["id"]) or {} for c in by_date[d]]
+        never = any(not o.get("checkedAt") or o.get("status") == "error" for o in olds)
+        oldest = min((o.get("checkedAt") or "") for o in olds)
+        return (not never, oldest, d)  # errors/never-checked first, then oldest check
+
+    todo = set(sorted(by_date, key=staleness)[:MAX_DATES_PER_RUN])
     results: dict[str, dict] = {}
     fetched = 0
+    throttled = False
     for d in sorted(by_date):
-        # Reuse results checked successfully in the last 6 days (lets a rerun resume after errors).
-        old = [prev.get(c["id"]) for c in by_date[d]]
-        if all(o and o.get("status") != "error" and o.get("date") and
-               (datetime.now(timezone.utc) - datetime.fromisoformat(o["checkedAt"])).days < 6 for o in old):
-            for c, o in zip(by_date[d], old):
-                results[c["id"]] = o
+        if d not in todo or throttled:
+            for c in by_date[d]:  # keep last known result until this date's turn comes round
+                if c["id"] in prev and prev[c["id"]].get("date"):
+                    results[c["id"]] = prev[c["id"]]
             continue
         if fetched:
             time.sleep(DELAY)
@@ -108,6 +111,19 @@ def main() -> int:
             listings = parse(fetch(d))
             if not listings:  # throttled/blank page — retry next run rather than report "not listed"
                 raise RuntimeError("no listings parsed (throttled or page changed)")
+        except urllib.error.HTTPError as e:
+            if e.code == 429:  # stop for tonight; tomorrow's run starts with these dates
+                throttled = True
+                for c in by_date[d]:
+                    if c["id"] in prev and prev[c["id"]].get("date"):
+                        results[c["id"]] = prev[c["id"]]
+                continue
+            for c in by_date[d]:
+                results[c["id"]] = {**prev.get(c["id"], {}), "ship": c["shipName"], "date": d.isoformat(),
+                                    "ourNights": c["durationNights"], "ourEnd": c["portsOfCall"][-1]["name"],
+                                    "source": URL.format(d=d.strftime("%d%b%Y").lower()),
+                                    "status": "error", "error": str(e)[:200], "checkedAt": now}
+            continue
         except Exception as e:  # network/site trouble: keep last known result, mark error
             for c in by_date[d]:
                 results[c["id"]] = {**prev.get(c["id"], {}), "ship": c["shipName"], "date": d.isoformat(),
@@ -138,6 +154,7 @@ def main() -> int:
 
     prev_path.write_text(json.dumps({"checkedAt": now, "results": results}, indent=1, sort_keys=True) + "\n")
     write_report(results, today)
+    print(f"fetched {fetched} date pages this run{' (stopped early: rate-limited)' if throttled else ''}")
     return 0
 
 

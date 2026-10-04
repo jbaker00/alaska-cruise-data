@@ -1,6 +1,6 @@
 # Weekly sailing verification — 2026-10-04
 
-Checked 220 upcoming sailings against cruisetimetables.com: **193 match**, **17 mismatch**, 10 not listed, 0 errors.
+Checked 220 upcoming sailings against cruisetimetables.com: **193 match**, **17 mismatch**, 0 not listed, 10 errors.
 
 Mismatches need a person to research (ideally in the cruise line's agent portal) and fix the ship template in `pipeline/templates/`. Nothing here changes the app data automatically.
 
@@ -24,7 +24,7 @@ Mismatches need a person to research (ideally in the cruise line's agent portal)
 - **Oceania Riviera 2027-08-05** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270805) · [source](https://www.cruisetimetables.com/fromseattlewashington-05aug2027.html)
 - **Norwegian Joy 2027-08-06** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235230&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-06aug2027.html)
 
-## Not listed on the source site
+## Fetch errors
 
 - Carnival Spirit 2026-10-08 (16 nights → Mobile, AL) — [source](https://www.cruisetimetables.com/fromseattlewashington-08oct2026.html)
 - Noordam 2027-05-09 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-09may2027.html)
@@ -33,6 +33,6 @@ Mismatches need a person to research (ideally in the cruise line's agent portal)
 - Eurodam 2027-09-11 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html)
 - Norwegian Bliss 2027-09-11 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html)
 - Royal Princess 2027-09-11 (10 nights → Vancouver, BC) — [source](https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html)
-- Eurodam 2027-10-02 (1 nights → Vancouver, BC) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)
 - Eurodam 2027-10-02 (21 nights → Fort Lauderdale, FL) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)
+- Eurodam 2027-10-02 (1 nights → Vancouver, BC) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)
 - Norwegian Bliss 2027-10-02 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)
