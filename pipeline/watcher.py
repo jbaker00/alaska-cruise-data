@@ -132,8 +132,15 @@ def main() -> int:
     seen_path = STATE_DIR / "seen.json"
     seen = json.loads(seen_path.read_text()) if seen_path.exists() else {}
     try:
-        if not DRY_RUN:
+        if not DRY_RUN and not os.environ.get("CRUISE_WATCHER_PULLED"):
+            before = git("rev-parse", "HEAD").strip()
             git("pull", "--ff-only")
+            if git("rev-parse", "HEAD").strip() != before:
+                # This process already imported the old pipeline code — restart so the
+                # freshly pulled builder/parser is what runs.
+                log("repo updated — restarting with new code")
+                os.execve(sys.executable, [sys.executable, *sys.argv],
+                          {**os.environ, "CRUISE_WATCHER_PULLED": "1"})
 
         process_new_pdfs(seen)
         seen_path.write_text(json.dumps(seen, indent=2) + "\n")
