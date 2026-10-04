@@ -1,6 +1,6 @@
-# Cruise dataset v202610040131
+# Cruise dataset v202610040643
 
-632 cruises from 2026 published 2026-04-20, 2027 (preliminary) published 2026-09-18
+630 cruises from 2026 published 2026-04-20, 2027 (preliminary) published 2026-09-18
 
 ## ⚠️ Schedule anomalies (check itinerary/duration)
 
@@ -32,11 +32,51 @@
 
 ## Skipped by override
 
+- Anthem of the Seas 2026-09-30: Arrival only — port-of-call stop on a Vancouver → Honolulu cruise; US law (PVSA) doesn't allow Seattle → Honolulu, so it isn't a Seattle departure.
+- Norwegian Bliss 2026-10-10: Arrival only — last 2026 Alaska cruise returns; the ship leaves empty for its Los Angeles winter season.
+- Norwegian Encore 2026-10-11: Arrival only — last 2026 Alaska cruise (Oct 4) returns; no Seattle departure is sold.
 - Carnival Legend 2027-10-07: Arrival only — the Hawaii cruise returns this day; no bookable Seattle departure found.
+- Norwegian Bliss 2027-10-16: Arrival only — last 2027 Alaska cruise (Oct 9) returns; no Seattle departure is sold.
+- Norwegian Encore 2027-10-17: Arrival only — last 2027 Alaska cruise returns; no Seattle departure is sold.
 
 ## Overridden / flagged departures
 
+- Eurodam 2026-10-03: 21-night one-way Seattle → Fort Lauderdale via the Panama Canal; also sold as a 1-night to Vancouver.
+- Eurodam 2026-10-03 (also sold): 1-night Seattle → Vancouver getaway (first leg of the canal voyage).
+- Carnival Spirit 2026-10-08: 16-night one-way Seattle → Mobile via the Panama Canal (cruisetimetables.com).
+- Noordam 2026-10-11: 34-night one-way Seattle → Sydney via Hawaii & South Pacific (cruisetimetables.com); fares estimated.
+- Carnival Spirit 2027-04-14: 15-night Hawaii round-trip, season opener (cruisetimetables.com).
+- Carnival Legend 2027-04-20: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Eurodam 2027-04-24: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Norwegian Encore 2027-04-25: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Noordam 2027-04-25: 7-night season opener on a coastal route: Ketchikan, Prince Rupert, Nanaimo, Victoria (cruisetimetables.com).
+- MSC Poesia 2027-04-26: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Norwegian Bliss 2027-05-01: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Royal Princess 2027-05-01: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Quantum of the Seas 2027-05-03: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Voyager of the Seas 2027-05-07: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Noordam 2027-05-09: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Star Princess 2027-05-09: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Norwegian Joy 2027-05-19: Verified: 9-night Alaska round-trip (cruisetimetables.com).
+- Brilliant Lady 2027-05-20: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Celebrity Edge 2027-05-21: Verified: standard Alaska round-trip (cruisetimetables.com).
+- Oceania Riviera 2027-05-24: Verified 10-night round-trip; 2027 ports per cruisetimetables.com.
+- Silver Whisper 2027-05-27: Verified: 7-night Seattle → Vancouver (Silversea).
+- Oceania Riviera 2027-09-02: 11-night Alaska one-way Seattle → Vancouver (cruisetimetables.com).
+- Brilliant Lady 2027-09-02: 8-night Alaska one-way Seattle → Vancouver (cruisetimetables.com).
+- Royal Princess 2027-09-11: 10-night Alaska one-way Seattle → Vancouver with Glacier Bay (cruisetimetables.com).
+- Noordam 2027-09-12: 13-night one-way Seattle → Tokyo via Ketchikan (cruisetimetables.com); a 27-night extension is also sold.
+- Noordam 2027-09-12 (also sold): 27-night Seattle → Tokyo with a Japan & South Korea circle.
 - Norwegian Jade 2027-09-14: Unverified: some fare sites show Jade on Vancouver–Whittier runs this week. Confirm before promoting.
 - Westerdam 2027-09-19: 34-night one-way Seattle → Sydney 'Legendary South Pacific Crossing' (a 48-night extension to Auckland is also sold).
 - Carnival Legend 2027-09-21: 16-night Hawaii round-trip (season finale).
+- Celebrity Edge 2027-09-24: 7-night Alaska one-way Seattle → Vancouver (cruisetimetables.com).
+- Carnival Spirit 2027-09-25: 16-night one-way Seattle → Galveston via the Panama Canal (cruisetimetables.com).
+- Star Princess 2027-09-26: 7-night Alaska one-way Seattle → Vancouver (cruisetimetables.com); fares not published — template estimates.
+- Norwegian Joy 2027-09-27: Verified: 9-night Alaska round-trip (cruisetimetables.com).
+- MSC Poesia 2027-09-27: 19-night one-way Seattle → Miami via the Panama Canal (cruisetimetables.com; interior fare only published).
+- Quantum of the Seas 2027-09-27: 14-night one-way Seattle → Yokohama, no Alaska stops (cruisetimetables.com).
 - Norwegian Jade 2027-09-28: 15-night one-way Seattle → Tokyo (Yokohama) transpacific.
+- Voyager of the Seas 2027-10-01: 25-night one-way Seattle → Brisbane via Hawaii & the South Pacific (cruisetimetables.com).
+- Eurodam 2027-10-02: 21-night one-way Seattle → Fort Lauderdale via the Panama Canal (cruisetimetables.com); also sold as a 1-night to Vancouver.
+- Eurodam 2027-10-02 (also sold): 1-night Seattle → Vancouver getaway (first leg of the canal voyage).
