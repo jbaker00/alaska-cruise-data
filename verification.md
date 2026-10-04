@@ -1,0 +1,38 @@
+# Weekly sailing verification — 2026-10-04
+
+Checked 220 upcoming sailings against cruisetimetables.com: **193 match**, **17 mismatch**, 10 not listed, 0 errors.
+
+Mismatches need a person to research (ideally in the cruise line's agent portal) and fix the ship template in `pipeline/templates/`. Nothing here changes the app data automatically.
+
+## ⚠️ Mismatches
+
+- **Norwegian Joy 2027-05-28** — app: 9 nights → Seattle, WA; source: 10 nights → Seattle, Washington (Alaska Round-trip Seattle: Skagway, Juneau, Sitka & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAICYSITJNUKTNVICSEA-NIC-JOY10SEAICYJNUKTNSITVICSEA&amp;packageId=24235220&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-28may2027.html)
+- **Oceania Riviera 2027-06-03** — app: 10 nights → Seattle, WA; source: 11 nights → Seattle, Washington (Dramatic Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270603) · [source](https://www.cruisetimetables.com/fromseattlewashington-03jun2027.html)
+- **Noordam 2027-06-06** — app: 7 nights → Seattle, WA; source: 28 nights → Seattle, Washington (Legendary Alaska Arctic Circle Solstice). [line page](https://www.hollandamerica.com/en/us/find-a-cruise/a7j28a/n735) · [source](https://www.cruisetimetables.com/fromseattlewashington-06jun2027.html)
+- **Oceania Riviera 2027-06-24** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270624) · [source](https://www.cruisetimetables.com/fromseattlewashington-24jun2027.html)
+- **Norwegian Joy 2027-06-25** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Juneau, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAJNUICYKTNVICSEA-NIC-JOY7SEAICYJNUKTNVICSEA&amp;packageId=24235224&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-25jun2027.html)
+- **Oceania Riviera 2027-07-01** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270701) · [source](https://www.cruisetimetables.com/fromseattlewashington-01jul2027.html)
+- **Norwegian Joy 2027-07-02** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235225&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-02jul2027.html)
+- **Oceania Riviera 2027-07-08** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270708) · [source](https://www.cruisetimetables.com/fromseattlewashington-08jul2027.html)
+- **Norwegian Joy 2027-07-09** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Juneau, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAJNUICYKTNVICSEA-NIC-JOY7SEAICYJNUKTNVICSEA&amp;packageId=24235226&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-09jul2027.html)
+- **Oceania Riviera 2027-07-15** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270715) · [source](https://www.cruisetimetables.com/fromseattlewashington-15jul2027.html)
+- **Norwegian Joy 2027-07-16** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235227&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-16jul2027.html)
+- **Oceania Riviera 2027-07-22** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270722) · [source](https://www.cruisetimetables.com/fromseattlewashington-22jul2027.html)
+- **Norwegian Joy 2027-07-23** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235228&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-23jul2027.html)
+- **Oceania Riviera 2027-07-29** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270729) · [source](https://www.cruisetimetables.com/fromseattlewashington-29jul2027.html)
+- **Norwegian Joy 2027-07-30** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235229&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-30jul2027.html)
+- **Oceania Riviera 2027-08-05** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270805) · [source](https://www.cruisetimetables.com/fromseattlewashington-05aug2027.html)
+- **Norwegian Joy 2027-08-06** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235230&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-06aug2027.html)
+
+## Not listed on the source site
+
+- Carnival Spirit 2026-10-08 (16 nights → Mobile, AL) — [source](https://www.cruisetimetables.com/fromseattlewashington-08oct2026.html)
+- Noordam 2027-05-09 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-09may2027.html)
+- Norwegian Encore 2027-05-09 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-09may2027.html)
+- Star Princess 2027-05-09 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-09may2027.html)
+- Eurodam 2027-09-11 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html)
+- Norwegian Bliss 2027-09-11 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html)
+- Royal Princess 2027-09-11 (10 nights → Vancouver, BC) — [source](https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html)
+- Eurodam 2027-10-02 (1 nights → Vancouver, BC) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)
+- Eurodam 2027-10-02 (21 nights → Fort Lauderdale, FL) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)
+- Norwegian Bliss 2027-10-02 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)

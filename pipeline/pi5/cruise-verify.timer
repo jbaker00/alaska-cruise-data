@@ -1,0 +1,10 @@
+[Unit]
+Description=Weekly sailing verification (Sunday evening, before the Monday 7 AM marketing report)
+
+[Timer]
+OnCalendar=Sun *-*-* 21:00
+RandomizedDelaySec=20m
+Persistent=true
+
+[Install]
+WantedBy=timers.target

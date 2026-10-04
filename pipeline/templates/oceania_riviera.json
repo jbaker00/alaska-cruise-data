@@ -360,6 +360,104 @@
           "type": "Suite"
         }
       ]
+    },
+    {
+      "dates": [
+        "2027-06-24",
+        "2027-07-01",
+        "2027-07-08",
+        "2027-07-15",
+        "2027-07-22",
+        "2027-07-29",
+        "2027-08-05"
+      ],
+      "note": "Summer 2027: 7-night 'Visions of Alaska' round-trips (weekly check mismatch, confirmed via cruiseweb / jetsetterguide).",
+      "durationNights": 7,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 66 for a 7-night Visions of Alaska voyage.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising north with Oceania's acclaimed dining.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage Scenic"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Creek Street, totem poles, and Misty Fjords.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Whale watching and the ZipRider at a Tlingit-owned port.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Icy Strait Point, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Russian and Tlingit heritage in Alaska's former capital.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Sitka, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Sailing south through the Inside Passage.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Butchart Gardens and the Inner Harbour.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Return to Seattle — disembarkation day.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Veranda stateroom — Oceania Riviera's entry category features gorgeous teak verandas, Tranquility Beds, and the finest cuisine at sea included in every sailing.",
+          "pricePerPerson": 2176,
+          "squareFeet": 282,
+          "type": "Balcony"
+        },
+        {
+          "description": "Concierge Level Veranda stateroom — enhanced amenities, priority embarkation, upgraded welcome amenities, and access to the Concierge Lounge.",
+          "pricePerPerson": 1968,
+          "squareFeet": 282,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Penthouse Suite with butler service, Bulgari bath amenities, and access to the exclusive Privée private dining room. The finest non-world-cruise Alaska suite available.",
+          "pricePerPerson": 2984,
+          "squareFeet": 420,
+          "type": "Suite"
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-06-03"
+      ],
+      "note": "11-night sailing (weekly check); ports approximated from the 10-night template — confirm.",
+      "durationNights": 11
     }
   ],
   "imageCredit": "Photo: Christian Ferrer / Wikimedia Commons (CC BY-SA 4.0)"

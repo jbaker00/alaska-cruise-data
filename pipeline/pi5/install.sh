@@ -23,15 +23,19 @@ CONF
 fi
 
 mkdir -p "$UNIT_DIR"
-sed "s#@PIPELINE_DIR@#$PIPELINE_DIR#" "$PIPELINE_DIR/pi5/cruise-watcher.service" > "$UNIT_DIR/cruise-watcher.service"
-cp "$PIPELINE_DIR/pi5/cruise-watcher.timer" "$UNIT_DIR/"
+for unit in cruise-watcher cruise-verify; do
+  sed -e "s#@PIPELINE_DIR@#$PIPELINE_DIR#g" -e "s#@REPO_DIR@#$(dirname "$PIPELINE_DIR")#g" \
+    "$PIPELINE_DIR/pi5/$unit.service" > "$UNIT_DIR/$unit.service"
+  cp "$PIPELINE_DIR/pi5/$unit.timer" "$UNIT_DIR/"
+done
 
 # Keep user timers running without an active login session.
 sudo loginctl enable-linger "$USER" || echo "  (could not enable linger — timer only runs while logged in)"
 systemctl --user daemon-reload
-systemctl --user enable --now cruise-watcher.timer
+systemctl --user enable --now cruise-watcher.timer cruise-verify.timer
 
 echo "✓ Installed. Useful commands:"
 echo "    systemctl --user start cruise-watcher      # run now"
 echo "    journalctl --user -u cruise-watcher -n 50  # logs"
-echo "    systemctl --user list-timers cruise-watcher.timer"
+echo "    systemctl --user start cruise-verify       # weekly sailing check, now"
+echo "    systemctl --user list-timers 'cruise-*'"

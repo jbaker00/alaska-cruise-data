@@ -622,6 +622,147 @@
         "2027-05-09"
       ],
       "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-06-06"
+      ],
+      "note": "28-night Legendary Alaska Arctic Circle Solstice round-trip (weekly check; cruiseweb / alaskacruises.com).",
+      "durationNights": 28,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for a 28-night Legendary Voyage to the Arctic Circle for the summer solstice.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising through British Columbia's Inside Passage.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Seymour Narrows & Johnstone Strait"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Sitka, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Sitka, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Icy Strait Point, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Icy Strait Point, AK"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Valdez, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Valdez, AK"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Kodiak, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Kodiak, AK"
+        },
+        {
+          "dayNumber": 12,
+          "description": "Dutch Harbor, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Dutch Harbor, AK"
+        },
+        {
+          "dayNumber": 14,
+          "description": "Gold Rush town on the Bering Sea, near the Arctic Circle at the summer solstice.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Nome, AK"
+        },
+        {
+          "dayNumber": 18,
+          "description": "Anchorage, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Anchorage, AK"
+        },
+        {
+          "dayNumber": 20,
+          "description": "Haines, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Haines, AK"
+        },
+        {
+          "dayNumber": 21,
+          "description": "Juneau, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 22,
+          "description": "A full day of ranger-narrated scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Glacier Bay National Park"
+        },
+        {
+          "dayNumber": 24,
+          "description": "Wrangell, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Wrangell, AK"
+        },
+        {
+          "dayNumber": 25,
+          "description": "Prince Rupert, BC",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Prince Rupert, BC"
+        },
+        {
+          "dayNumber": 29,
+          "description": "Return to Seattle on July 4 — disembarkation day.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Elegant interior stateroom with Holland America's signature Mariner's Dream bed, premium linens, and thoughtful Dutch design.",
+          "pricePerPerson": 5499,
+          "squareFeet": 182,
+          "type": "Interior"
+        },
+        {
+          "description": "Classic ocean-view stateroom with large window — ideal for scenic Inside Passage days when Alaska glides past.",
+          "pricePerPerson": 7239,
+          "squareFeet": 204,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Verandah stateroom with private outdoor seating — the perfect perch for Glacier Bay's magnificent scenery.",
+          "pricePerPerson": 9169,
+          "squareFeet": 249,
+          "type": "Balcony"
+        }
+      ]
     }
   ],
   "imageCredit": "Photo: Dennis den Hamer / Wikimedia Commons (CC BY-SA 4.0)"

@@ -38,7 +38,7 @@ CABIN_TYPES = {"Interior", "Ocean View", "Balcony", "Suite"}
 SHIP_SIZES = {"Small/Boutique", "Mid-Size", "Large/Mega-Ship"}
 AMENITIES = {"Specialty Dining", "Entertainment", "Spa & Wellness", "Kids Club", "Adults Only",
              "Casino", "Outdoor Activities", "All Inclusive"}
-OPTIONAL_FIELDS = {"imageCredit"}  # optional in the app's Cruise type — safe to add without a schema bump
+OPTIONAL_FIELDS = {"imageCredit"}  # + "verifiedOn", stamped from verification.json below  # optional in the app's Cruise type — safe to add without a schema bump
 TEMPLATE_FIELDS = {
     "shipName", "cruiseLine", "durationNights", "portsOfCall", "cabinCategories", "amenityCategories",
     "amenityHighlights", "rating", "reviewCount", "imageURLs", "shipSize", "inclusions", "exclusions",
@@ -176,6 +176,14 @@ def build(schedules: list[dict], templates: dict[str, dict]):
             gap = (d2 - d1).days
             if gap < n1:
                 anomalies.append(f"{ship}: {d1} is {n1} nights but next departure is {d2} ({gap} days later)")
+
+    # verify_sailings.py (weekly) confirmed length + end port against an independent listing.
+    vpath = HERE / "verification.json"
+    verification = json.loads(vpath.read_text()).get("results", {}) if vpath.exists() else {}
+    for c in cruises:
+        v = verification.get(c["id"])
+        if v and v.get("status") == "match" and v.get("verifiedOn"):
+            c["verifiedOn"] = v["verifiedOn"]
 
     cruises.sort(key=lambda c: (c["departureDate"], c["shipName"]))
     return cruises, missing, skipped, notes, anomalies + [f"VERIFY {v}" for v in verify]

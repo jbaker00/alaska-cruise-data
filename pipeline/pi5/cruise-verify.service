@@ -1,0 +1,14 @@
+[Unit]
+Description=Weekly second-opinion check of upcoming Seattle sailings (Alaska Cruise Finder)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+EnvironmentFile=%h/.config/cruise-watcher.env
+WorkingDirectory=@REPO_DIR@
+# Pull first so we verify the latest published data, then let the watcher rebuild
+# (stamps verifiedOn) and publish verification.json / verification.md.
+ExecStart=/usr/bin/git -C @REPO_DIR@ pull --ff-only
+ExecStart=%h/.local/share/cruise-watcher/venv/bin/python @PIPELINE_DIR@/verify_sailings.py
+ExecStart=%h/.local/share/cruise-watcher/venv/bin/python @PIPELINE_DIR@/watcher.py

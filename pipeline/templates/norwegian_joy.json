@@ -163,6 +163,111 @@
         "2027-09-27"
       ],
       "note": "Verified: 9-night Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-06-25",
+        "2027-07-02",
+        "2027-07-09",
+        "2027-07-16",
+        "2027-07-23",
+        "2027-07-30",
+        "2027-08-06",
+        "2027-08-13"
+      ],
+      "note": "Summer 2027: 7-night round-trips (weekly check mismatch, confirmed via cruisesheet / alaskacruises.com). Aug 13 added: 7-day gap to next departure.",
+      "durationNights": 7,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 66 for a 7-night Alaska round-trip with Glacier Bay.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "A Freestyle sea day sailing north.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage Scenic"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Mendenhall Glacier, whale watching, and the Mount Roberts Tramway.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "A full day of ranger-narrated scenic cruising among tidewater glaciers.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Glacier Bay National Park"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Tlingit-owned port — ZipRider, whale watching, and Hoonah village.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Icy Strait Point, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Creek Street, totem poles, and Misty Fjords flightseeing.",
+          "hoursInPort": 7,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "An evening call in British Columbia's capital.",
+          "hoursInPort": 4,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Return to Seattle — disembarkation day.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Comfortable Freestyle interior stateroom with flexible dining and NCL's signature amenities. Two lower beds convertible to queen.",
+          "pricePerPerson": 1499,
+          "squareFeet": 143,
+          "type": "Interior"
+        },
+        {
+          "description": "Ocean view stateroom with large picture window to enjoy the stunning Alaskan coastline. Freestyle dining included.",
+          "pricePerPerson": 1899,
+          "squareFeet": 176,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Private balcony stateroom — perfect for watching Alaska's incredible scenery and wildlife from your own outdoor space.",
+          "pricePerPerson": 2199,
+          "squareFeet": 205,
+          "type": "Balcony"
+        },
+        {
+          "description": "The Haven Suite — NCL's ship-within-a-ship experience with private pool, dedicated restaurant, and 24-hour butler service.",
+          "pricePerPerson": 3299,
+          "squareFeet": 475,
+          "type": "Suite"
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-05-28"
+      ],
+      "note": "10-night sailing (weekly check); ports approximated from the 9-night template — confirm.",
+      "durationNights": 10
     }
   ],
   "imageCredit": "Photo: Fritzmann2002 / Wikimedia Commons (CC BY-SA 4.0)"

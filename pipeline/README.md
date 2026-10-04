@@ -16,6 +16,7 @@ Port of Seattle PDF ──parse_schedule.py──▶ schedules/<year>.json ─�
 | `parse_schedule.py` | PDF → `{year, published, preliminary, calls:[{date, vessel, pier, cruiseLine, inTransit}]}`. Parses by word coordinates (pdfplumber) because the PDF's merged same-day cells scramble plain text extraction. `*` vessels are in-transit calls, not departures. |
 | `build_dataset.py` | Expands every turnaround call × ship template into `Cruise` JSON. Deterministic UUIDs (ship + date), dates at noon UTC as `secondsSince1970`. Writes `report.md` listing ships with no template, overridden/skipped sailings, and duration overlaps. |
 | `watcher.py` | Daily job on the Pi: `git pull`, scrape the Port's cruise pages for schedule PDFs, parse new ones into `schedules/`, rebuild the root JSON, commit + push if anything changed, notify via ntfy. |
+| `verify_sailings.py` | Weekly (Sun 9 PM, `cruise-verify.timer`): compares every upcoming sailing's length + end port with cruisetimetables.com and writes `verification.md` (mismatches first) + `verification.json`. **Flags only — never edits data.** Matches get `verifiedOn`, shown in the app as "Itinerary checked …". The Monday marketing report summarizes it. |
 | `templates/` | One JSON per ship — all `Cruise` fields except `id`/dates, plus `aliases` and per-date `overrides`. **Source of truth for remote data.** |
 | `schedules/` | Parsed schedules (the watcher commits new ones here). |
 | `pi5/` | systemd user timer + `install.sh`. |
@@ -32,6 +33,16 @@ To add it:
 3. `python3 pipeline/build_dataset.py` locally and read `pipeline/public/report.md`.
 4. Commit + push the template only; the Pi pulls on its next run and republishes the root JSON
    (or `ssh pi5 systemctl --user start cruise-watcher` to do it now).
+
+## Where the data comes from (and how much to trust it)
+
+- **Dates, ships, piers** — Port of Seattle PDF (official; "PRELIMINARY" schedules can change).
+- **Itineraries** — ship templates + overrides, researched by hand from secondhand sites
+  (cruisetimetables.com etc.). Season-edge sailings are flagged `VERIFY` in `report.md` until checked.
+- **Fares** — estimates captured at research time; shown in the app as estimates. Live fares need a
+  cruise-line agent portal or a licensed feed (Traveltek / Widgety / Cruise Factory).
+- **Weekly second opinion** — `verify_sailings.py`; fix mismatches in the templates after confirming
+  with the cruise line.
 
 ## Overrides
 

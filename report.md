@@ -1,4 +1,4 @@
-# Cruise dataset v202610040643
+# Cruise dataset v202610040750
 
 630 cruises from 2026 published 2026-04-20, 2027 (preliminary) published 2026-09-18
 
@@ -10,25 +10,10 @@
 - Queen Elizabeth: 2026-07-01 is 10 nights but next departure is 2026-07-09 (8 days later)
 - Queen Elizabeth: 2026-08-20 is 10 nights but next departure is 2026-08-27 (7 days later)
 - Queen Elizabeth: 2026-09-17 is 10 nights but next departure is 2026-09-24 (7 days later)
-- Norwegian Joy: 2027-06-25 is 9 nights but next departure is 2027-07-02 (7 days later)
-- Norwegian Joy: 2027-07-02 is 9 nights but next departure is 2027-07-09 (7 days later)
-- Norwegian Joy: 2027-07-09 is 9 nights but next departure is 2027-07-16 (7 days later)
-- Norwegian Joy: 2027-07-16 is 9 nights but next departure is 2027-07-23 (7 days later)
-- Norwegian Joy: 2027-07-23 is 9 nights but next departure is 2027-07-30 (7 days later)
-- Norwegian Joy: 2027-07-30 is 9 nights but next departure is 2027-08-06 (7 days later)
-- Norwegian Joy: 2027-08-06 is 9 nights but next departure is 2027-08-13 (7 days later)
-- Norwegian Joy: 2027-08-13 is 9 nights but next departure is 2027-08-20 (7 days later)
 - Oceania Riviera: 2026-07-14 is 10 nights but next departure is 2026-07-21 (7 days later)
 - Oceania Riviera: 2026-07-21 is 10 nights but next departure is 2026-07-28 (7 days later)
 - Oceania Riviera: 2026-07-28 is 10 nights but next departure is 2026-08-06 (9 days later)
 - Oceania Riviera: 2026-08-06 is 10 nights but next departure is 2026-08-13 (7 days later)
-- Oceania Riviera: 2027-06-24 is 10 nights but next departure is 2027-07-01 (7 days later)
-- Oceania Riviera: 2027-07-01 is 10 nights but next departure is 2027-07-08 (7 days later)
-- Oceania Riviera: 2027-07-08 is 10 nights but next departure is 2027-07-15 (7 days later)
-- Oceania Riviera: 2027-07-15 is 10 nights but next departure is 2027-07-22 (7 days later)
-- Oceania Riviera: 2027-07-22 is 10 nights but next departure is 2027-07-29 (7 days later)
-- Oceania Riviera: 2027-07-29 is 10 nights but next departure is 2027-08-05 (7 days later)
-- Oceania Riviera: 2027-08-05 is 10 nights but next departure is 2027-08-12 (7 days later)
 
 ## Skipped by override
 
@@ -62,6 +47,24 @@
 - Celebrity Edge 2027-05-21: Verified: standard Alaska round-trip (cruisetimetables.com).
 - Oceania Riviera 2027-05-24: Verified 10-night round-trip; 2027 ports per cruisetimetables.com.
 - Silver Whisper 2027-05-27: Verified: 7-night Seattle → Vancouver (Silversea).
+- Norwegian Joy 2027-05-28: 10-night sailing (weekly check); ports approximated from the 9-night template — confirm.
+- Oceania Riviera 2027-06-03: 11-night sailing (weekly check); ports approximated from the 10-night template — confirm.
+- Noordam 2027-06-06: 28-night Legendary Alaska Arctic Circle Solstice round-trip (weekly check; cruiseweb / alaskacruises.com).
+- Oceania Riviera 2027-06-24: Summer 2027: 7-night 'Visions of Alaska' round-trips (weekly check mismatch, confirmed via cruiseweb / jetsetterguide).
+- Norwegian Joy 2027-06-25: Summer 2027: 7-night round-trips (weekly check mismatch, confirmed via cruisesheet / alaskacruises.com). Aug 13 added: 7-day gap to next departure.
+- Oceania Riviera 2027-07-01: Summer 2027: 7-night 'Visions of Alaska' round-trips (weekly check mismatch, confirmed via cruiseweb / jetsetterguide).
+- Norwegian Joy 2027-07-02: Summer 2027: 7-night round-trips (weekly check mismatch, confirmed via cruisesheet / alaskacruises.com). Aug 13 added: 7-day gap to next departure.
+- Oceania Riviera 2027-07-08: Summer 2027: 7-night 'Visions of Alaska' round-trips (weekly check mismatch, confirmed via cruiseweb / jetsetterguide).
+- Norwegian Joy 2027-07-09: Summer 2027: 7-night round-trips (weekly check mismatch, confirmed via cruisesheet / alaskacruises.com). Aug 13 added: 7-day gap to next departure.
+- Oceania Riviera 2027-07-15: Summer 2027: 7-night 'Visions of Alaska' round-trips (weekly check mismatch, confirmed via cruiseweb / jetsetterguide).
+- Norwegian Joy 2027-07-16: Summer 2027: 7-night round-trips (weekly check mismatch, confirmed via cruisesheet / alaskacruises.com). Aug 13 added: 7-day gap to next departure.
+- Oceania Riviera 2027-07-22: Summer 2027: 7-night 'Visions of Alaska' round-trips (weekly check mismatch, confirmed via cruiseweb / jetsetterguide).
+- Norwegian Joy 2027-07-23: Summer 2027: 7-night round-trips (weekly check mismatch, confirmed via cruisesheet / alaskacruises.com). Aug 13 added: 7-day gap to next departure.
+- Oceania Riviera 2027-07-29: Summer 2027: 7-night 'Visions of Alaska' round-trips (weekly check mismatch, confirmed via cruiseweb / jetsetterguide).
+- Norwegian Joy 2027-07-30: Summer 2027: 7-night round-trips (weekly check mismatch, confirmed via cruisesheet / alaskacruises.com). Aug 13 added: 7-day gap to next departure.
+- Oceania Riviera 2027-08-05: Summer 2027: 7-night 'Visions of Alaska' round-trips (weekly check mismatch, confirmed via cruiseweb / jetsetterguide).
+- Norwegian Joy 2027-08-06: Summer 2027: 7-night round-trips (weekly check mismatch, confirmed via cruisesheet / alaskacruises.com). Aug 13 added: 7-day gap to next departure.
+- Norwegian Joy 2027-08-13: Summer 2027: 7-night round-trips (weekly check mismatch, confirmed via cruisesheet / alaskacruises.com). Aug 13 added: 7-day gap to next departure.
 - Oceania Riviera 2027-09-02: 11-night Alaska one-way Seattle → Vancouver (cruisetimetables.com).
 - Brilliant Lady 2027-09-02: 8-night Alaska one-way Seattle → Vancouver (cruisetimetables.com).
 - Royal Princess 2027-09-11: 10-night Alaska one-way Seattle → Vancouver with Glacier Bay (cruisetimetables.com).
