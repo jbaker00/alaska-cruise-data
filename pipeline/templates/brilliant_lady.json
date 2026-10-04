@@ -136,6 +136,91 @@
   "reviewCount": 0,
   "reviewSnippet": "Virgin Voyages' adults-only (18+) ship with all restaurants, basic drinks, Wi-Fi, and tips included in the fare — a modern, social choice for couples and friends who want Alaska without kids on board.",
   "shipSize": "Large/Mega-Ship",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-05-20"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-09-02"
+      ],
+      "note": "8-night Alaska one-way Seattle → Vancouver (cruisetimetables.com).",
+      "durationNights": 8,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for Brilliant Lady's final Alaska voyage, ending in Vancouver.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Sitka, AK",
+          "hoursInPort": 6,
+          "isCruisingDay": false,
+          "name": "Sitka, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Skagway, AK",
+          "hoursInPort": 13,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Scenic cruising south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Victoria, BC",
+          "hoursInPort": 7,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Disembarkation in Vancouver, Canada.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Sea View cabin — Virgin Voyages' entry-level category features designer interiors and a hammock in every cabin. All dining and gratuities included.",
+          "pricePerPerson": 1272,
+          "squareFeet": 185,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Sea Terrace cabin — private terrace with hammock for Alaska scenery watching. All 20+ restaurants and gratuities included in every fare.",
+          "pricePerPerson": 1999,
+          "squareFeet": 225,
+          "type": "Balcony"
+        },
+        {
+          "description": "Massive Brilliant Suite with enormous private terrace, in-suite bar stocked daily, and RockStar Agent handling every need before and during the voyage.",
+          "pricePerPerson": 4999,
+          "squareFeet": 1380,
+          "type": "Suite"
+        }
+      ]
+    }
+  ],
   "imageCredit": "Photo: Aztec246 / Wikimedia Commons (CC BY-SA 4.0)"
 }

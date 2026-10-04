@@ -91,8 +91,9 @@ def epoch(d: date) -> int:
     return int(datetime.combine(d, time(12), tzinfo=timezone.utc).timestamp())
 
 
-def make_cruise(t: dict, dep: date, preliminary: bool) -> dict:
-    cid = uuid.uuid5(ID_NAMESPACE, f"{t['shipName']}|{dep.isoformat()}")
+def make_cruise(t: dict, dep: date, preliminary: bool, variant: int = 0) -> dict:
+    key = f"{t['shipName']}|{dep.isoformat()}" + (f"|{variant}" if variant else "")
+    cid = uuid.uuid5(ID_NAMESPACE, key)
     sub = lambda kind, i: str(uuid.uuid5(cid, f"{kind}{i}")).upper()
     cruise = {k: t[k] for k in TEMPLATE_FIELDS}
     cruise.update({k: t[k] for k in OPTIONAL_FIELDS if t.get(k)})
@@ -112,6 +113,32 @@ def build(schedules: list[dict], templates: dict[str, dict]):
     skipped: list[str] = []
     notes: list[str] = []
     by_ship: dict[str, list[tuple[date, int]]] = defaultdict(list)
+    # Season-edge and post-in-transit departures are where ships reposition (Hawaii, Panama
+    # Canal, Asia, one-way to Vancouver…) — the template's regular itinerary is usually wrong
+    # there, so each needs an explicit override (even one that just confirms the default).
+    verify: list[str] = []
+    for s in schedules:
+        turns: dict[str, list[str]] = defaultdict(list)
+        transit_days: dict[str, set[str]] = defaultdict(set)
+        for call in s["calls"]:
+            if call["inTransit"]:
+                transit_days[norm(call["vessel"])].add(call["date"])
+            else:
+                turns[norm(call["vessel"])].append(call["date"])
+        for vessel, dates in turns.items():
+            dates.sort()
+            edges = {dates[0]: "first sailing of season", dates[-1]: "last sailing of season"}
+            for d in dates:
+                prev = [t for t in transit_days.get(vessel, ()) if 0 < (date.fromisoformat(d) - date.fromisoformat(t)).days <= 3]
+                if prev:
+                    edges.setdefault(d, f"departs right after an in-transit call on {prev[0]}")
+            t = templates.get(vessel)
+            for d, why in sorted(edges.items()):
+                if d < date.today().isoformat():
+                    continue  # already sailed — hidden in the app
+                covered = t and any(d in o["dates"] for o in t.get("overrides", []))
+                if not covered:
+                    verify.append(f"{t['shipName'] if t else vessel} {d}: {why}")
 
     for s in schedules:
         for call in s["calls"]:
@@ -122,16 +149,24 @@ def build(schedules: list[dict], templates: dict[str, dict]):
                 missing[f"{call['vessel']} ({call['cruiseLine']})"].append(call["date"])
                 continue
             override = next((o for o in t.get("overrides", []) if call["date"] in o["dates"]), None)
+            base = t
             if override:
                 line = f"{t['shipName']} {call['date']}: {override.get('note', '')}"
                 if override.get("skip"):
                     skipped.append(line)
                     continue
                 notes.append(line)
+                base = t
                 t = {**t, **{k: v for k, v in override.items() if k in TEMPLATE_FIELDS | OPTIONAL_FIELDS}}
             dep = date.fromisoformat(call["date"])
             cruises.append(make_cruise(t, dep, s["preliminary"]))
             by_ship[t["shipName"]].append((dep, t["durationNights"]))
+            # The same departure sold as additional products (e.g. a 1-night Seattle → Vancouver
+            # segment of a longer repositioning voyage). Not added to by_ship: they overlap by design.
+            for i, extra in enumerate((override or {}).get("alsoSold", []), start=1):
+                variant = {**base, **{k: v for k, v in extra.items() if k in TEMPLATE_FIELDS | OPTIONAL_FIELDS}}
+                cruises.append(make_cruise(variant, dep, s["preliminary"], variant=i))
+                notes.append(f"{t['shipName']} {call['date']} (also sold): {extra.get('note', '')}")
 
     # Anomalies: a ship can't depart again before its previous voyage returns.
     anomalies = []
@@ -143,7 +178,7 @@ def build(schedules: list[dict], templates: dict[str, dict]):
                 anomalies.append(f"{ship}: {d1} is {n1} nights but next departure is {d2} ({gap} days later)")
 
     cruises.sort(key=lambda c: (c["departureDate"], c["shipName"]))
-    return cruises, missing, skipped, notes, anomalies
+    return cruises, missing, skipped, notes, anomalies + [f"VERIFY {v}" for v in verify]
 
 
 def write_outputs(out: Path, schedules, cruises, missing, skipped, notes, anomalies) -> dict:

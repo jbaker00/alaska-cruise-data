@@ -156,6 +156,14 @@
   "reviewCount": 0,
   "reviewSnippet": "Longer 9-night itineraries leave room for Sitka and Glacier Bay as well as the usual ports, with a go-kart track and water slides for sea days — good for travelers who want more time in Alaska.",
   "shipSize": "Large/Mega-Ship",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-05-19",
+        "2027-09-27"
+      ],
+      "note": "Verified: 9-night Alaska round-trip (cruisetimetables.com)."
+    }
+  ],
   "imageCredit": "Photo: Fritzmann2002 / Wikimedia Commons (CC BY-SA 4.0)"
 }

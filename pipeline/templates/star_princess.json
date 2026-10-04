@@ -139,6 +139,70 @@
   "reviewCount": 0,
   "reviewSnippet": "Princess's newest ship class brings modern spaces and Glacier Bay scenic cruising — a great all-round pick for first-time Alaska cruisers who want a new ship.",
   "shipSize": "Large/Mega-Ship",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-05-09"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-09-26"
+      ],
+      "note": "7-night Alaska one-way Seattle → Vancouver (cruisetimetables.com); fares not published — template estimates.",
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for Star Princess's final 2027 Alaska sailing, ending in Vancouver.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Early-morning scenic cruising in Tracy Arm.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Tracy Arm Fjord"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Juneau, AK",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Skagway, AK",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Two days sailing south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Disembarkation in Vancouver, Canada.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        }
+      ]
+    }
+  ],
   "imageCredit": "Photo: Shiphistory62 / Wikimedia Commons (CC BY-SA 4.0)"
 }

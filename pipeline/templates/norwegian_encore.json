@@ -142,6 +142,27 @@
   "reviewCount": 0,
   "reviewSnippet": "NCL's largest Alaska ship, with a Broadway musical, go-kart track, and laser tag alongside Glacier Bay — great for families and groups who want big-ship energy and flexible dining.",
   "shipSize": "Large/Mega-Ship",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2026-10-11"
+      ],
+      "skip": true,
+      "note": "Arrival only — last 2026 Alaska cruise (Oct 4) returns; no Seattle departure is sold."
+    },
+    {
+      "dates": [
+        "2027-04-25"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-10-17"
+      ],
+      "skip": true,
+      "note": "Arrival only — last 2027 Alaska cruise returns; no Seattle departure is sold."
+    }
+  ],
   "imageCredit": "Photo: Dickelbers / Wikimedia Commons (CC BY-SA 4.0)"
 }

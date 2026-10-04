@@ -156,6 +156,90 @@
   "hasCasino": true,
   "isAllInclusive": false,
   "reviewSnippet": "Quantum pairs a port-intensive route — Sitka, Skagway, Juneau, and Dawes Glacier — with Royal Caribbean's high-energy onboard thrills. North Star is a standout on scenic days.",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-05-03"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-09-27"
+      ],
+      "note": "14-night one-way Seattle → Yokohama, no Alaska stops (cruisetimetables.com).",
+      "durationNights": 14,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for a 14-night transpacific crossing to Japan.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Nine sea days across the North Pacific, crossing the International Date Line.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – North Pacific Crossing"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Mount Hakodate views and the morning market.",
+          "hoursInPort": 15,
+          "isCruisingDay": false,
+          "name": "Hakodate, Japan"
+        },
+        {
+          "dayNumber": 13,
+          "description": "Akita, Japan",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Akita, Japan"
+        },
+        {
+          "dayNumber": 14,
+          "description": "Muroran, Japan",
+          "hoursInPort": 11,
+          "isCruisingDay": false,
+          "name": "Muroran, Japan"
+        },
+        {
+          "dayNumber": 16,
+          "description": "Disembarkation in Yokohama.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Tokyo (Yokohama), Japan"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Interior stateroom — many feature Royal Caribbean's 'virtual balcony', a floor-to-ceiling screen streaming the real-time view outside.",
+          "pricePerPerson": 1281,
+          "squareFeet": 166,
+          "type": "Interior"
+        },
+        {
+          "description": "Ocean view stateroom with large window — a cozy vantage point for the Inside Passage.",
+          "pricePerPerson": 1442,
+          "squareFeet": 179,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Ocean view balcony stateroom — Quantum was built with a balcony in most cabins, perfect for fjord days.",
+          "pricePerPerson": 1661,
+          "squareFeet": 198,
+          "type": "Balcony"
+        },
+        {
+          "description": "Grand Suite with separate living area, large balcony, Coastal Kitchen access, and dedicated suite concierge.",
+          "pricePerPerson": 4538,
+          "squareFeet": 375,
+          "type": "Suite"
+        }
+      ]
+    }
+  ],
   "imageCredit": "Photo: Thank You (23 Millions+) views / Wikimedia Commons (CC BY 2.0)"
 }

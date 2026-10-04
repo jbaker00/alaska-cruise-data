@@ -141,6 +141,111 @@
   "reviewCount": 0,
   "reviewSnippet": "A Royal Caribbean favorite for families: ice skating shows, a rock-climbing wall, and Adventure Ocean kids club keep sea days busy on the way to Alaska.",
   "shipSize": "Large/Mega-Ship",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-05-07"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-10-01"
+      ],
+      "note": "25-night one-way Seattle → Brisbane via Hawaii & the South Pacific (cruisetimetables.com).",
+      "durationNights": 25,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for a 25-night South Pacific crossing to Australia.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Five sea days to Hawaii.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Crossing"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Honolulu, Oahu, HI",
+          "hoursInPort": 13,
+          "isCruisingDay": false,
+          "name": "Honolulu, Oahu, HI"
+        },
+        {
+          "dayNumber": 14,
+          "description": "Moorea, French Polynesia",
+          "hoursInPort": 13,
+          "isCruisingDay": false,
+          "name": "Moorea, French Polynesia"
+        },
+        {
+          "dayNumber": 15,
+          "description": "Papeete, Tahiti",
+          "hoursInPort": 15,
+          "isCruisingDay": false,
+          "name": "Papeete, Tahiti"
+        },
+        {
+          "dayNumber": 16,
+          "description": "Raiatea, French Polynesia",
+          "hoursInPort": 13,
+          "isCruisingDay": false,
+          "name": "Raiatea, French Polynesia"
+        },
+        {
+          "dayNumber": 23,
+          "description": "Mystery Island, Vanuatu",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Mystery Island, Vanuatu"
+        },
+        {
+          "dayNumber": 24,
+          "description": "Port Vila, Vanuatu",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Port Vila, Vanuatu"
+        },
+        {
+          "dayNumber": 27,
+          "description": "Disembarkation in Brisbane.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Brisbane, Australia"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Royal Caribbean interior stateroom with queen or twin beds and efficient design. Ideal value for an Alaska adventure.",
+          "pricePerPerson": 3078,
+          "squareFeet": 165,
+          "type": "Interior"
+        },
+        {
+          "description": "Classic ocean-view stateroom with large picture window. On Inside Passage scenic days, it's like having your own private viewing gallery.",
+          "pricePerPerson": 3247,
+          "squareFeet": 184,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Private balcony stateroom — watch Inside Passage wildlife and stunning scenery from your own personal deck.",
+          "pricePerPerson": 3989,
+          "squareFeet": 213,
+          "type": "Balcony"
+        },
+        {
+          "description": "Grand Suite with separate living room, whirlpool tub, and exclusive Royal Suite Class lounge and sundeck access.",
+          "pricePerPerson": 6177,
+          "squareFeet": 586,
+          "type": "Suite"
+        }
+      ]
+    }
+  ],
   "imageCredit": "Photo: Alistair Paterson from Dunedin, New Zealand / Wikimedia Commons (CC BY 2.0)"
 }

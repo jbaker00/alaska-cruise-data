@@ -139,6 +139,269 @@
   "reviewCount": 0,
   "reviewSnippet": "Consistently among the most affordable Alaska sailings from Seattle, with waterslides and Camp Ocean for kids — well suited to multigenerational family trips on a budget.",
   "shipSize": "Mid-Size",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2026-10-08"
+      ],
+      "note": "16-night one-way Seattle → Mobile via the Panama Canal (cruisetimetables.com).",
+      "durationNights": 16,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for Carnival Spirit's season-ending 16-night voyage through the Panama Canal to Mobile, Alabama.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Four days sailing south along the Pacific coast.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Coast"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Land's End arch, beaches, and whale-watching at the tip of Baja.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Cabo San Lucas, Mexico"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Sea days down the Central American coast.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Central America"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Gateway to rainforest canopy tours, wildlife, and coffee plantations.",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Puntarenas, Costa Rica"
+        },
+        {
+          "dayNumber": 12,
+          "description": "Full transit of the Panama Canal's locks from the Pacific to the Caribbean.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Panama Canal"
+        },
+        {
+          "dayNumber": 13,
+          "description": "UNESCO-listed walled old city and Caribbean colonial architecture.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Cartagena, Colombia"
+        },
+        {
+          "dayNumber": 14,
+          "description": "Sea days across the Caribbean and Gulf of Mexico.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Gulf of Mexico"
+        },
+        {
+          "dayNumber": 17,
+          "description": "Disembarkation in Mobile, Alabama — this voyage ends on the Gulf Coast.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Mobile, AL"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Carnival Spirit interior cabin — the best value Alaska cabin afloat. All the essentials at the most affordable Alaska cruise price from Seattle.",
+          "pricePerPerson": 811,
+          "squareFeet": 158,
+          "type": "Interior"
+        },
+        {
+          "description": "Ocean view cabin with large window — watch Alaska's stunning coastline from your room without breaking the bank.",
+          "pricePerPerson": 1051,
+          "squareFeet": 185,
+          "type": "Ocean View"
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-04-14"
+      ],
+      "note": "15-night Hawaii round-trip, season opener (cruisetimetables.com).",
+      "durationNights": 15,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for a 15-night Hawaii round-trip — no flights needed.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Five Fun Days at Sea crossing the Pacific.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Crossing"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Waikiki, Pearl Harbor, and Diamond Head.",
+          "hoursInPort": 13,
+          "isCruisingDay": false,
+          "name": "Honolulu, Oahu, HI"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Waimea Canyon and the Nā Pali Coast.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Nawiliwili, Kauai, HI"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Haleakalā, the Road to Hāna, and Maui's beaches.",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Kahului, Maui, HI"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Hawaiʻi Volcanoes National Park and Rainbow Falls.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Hilo, Hawaii Island, HI"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Sea days sailing back to the Pacific Northwest.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Crossing"
+        },
+        {
+          "dayNumber": 15,
+          "description": "An evening call in British Columbia's capital.",
+          "hoursInPort": 4,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 16,
+          "description": "Return to Seattle — disembarkation day.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Carnival Spirit interior cabin — the best value Alaska cabin afloat. All the essentials at the most affordable Alaska cruise price from Seattle.",
+          "pricePerPerson": 1453,
+          "squareFeet": 158,
+          "type": "Interior"
+        },
+        {
+          "description": "Ocean view cabin with large window — watch Alaska's stunning coastline from your room without breaking the bank.",
+          "pricePerPerson": 1873,
+          "squareFeet": 185,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Private balcony cabin at an incredible value. Enjoy fresh Alaska air and wildlife sightings from your own outdoor space.",
+          "pricePerPerson": 2373,
+          "squareFeet": 220,
+          "type": "Balcony"
+        },
+        {
+          "description": "Grand Suite with separate living area, whirlpool tub, priority boarding, and Carnival's most spacious accommodation.",
+          "pricePerPerson": 5783,
+          "squareFeet": 430,
+          "type": "Suite"
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-09-25"
+      ],
+      "note": "16-night one-way Seattle → Galveston via the Panama Canal (cruisetimetables.com).",
+      "durationNights": 16,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for a 16-night voyage through the Panama Canal to Galveston, Texas.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Sea days sailing south along the Pacific coast.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Coast"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Land's End arch and beaches at the tip of Baja.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Cabo San Lucas, Mexico"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Rainforest canopy tours, wildlife, and coffee country.",
+          "hoursInPort": 11,
+          "isCruisingDay": false,
+          "name": "Puntarenas, Costa Rica"
+        },
+        {
+          "dayNumber": 12,
+          "description": "Full transit of the Panama Canal.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Panama Canal"
+        },
+        {
+          "dayNumber": 13,
+          "description": "Colorful walled old city on the Caribbean.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Cartagena, Colombia"
+        },
+        {
+          "dayNumber": 17,
+          "description": "Disembarkation in Galveston, Texas.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Galveston, TX"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Carnival Spirit interior cabin — the best value Alaska cabin afloat. All the essentials at the most affordable Alaska cruise price from Seattle.",
+          "pricePerPerson": 1027,
+          "squareFeet": 158,
+          "type": "Interior"
+        },
+        {
+          "description": "Ocean view cabin with large window — watch Alaska's stunning coastline from your room without breaking the bank.",
+          "pricePerPerson": 1387,
+          "squareFeet": 185,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Private balcony cabin at an incredible value. Enjoy fresh Alaska air and wildlife sightings from your own outdoor space.",
+          "pricePerPerson": 1737,
+          "squareFeet": 220,
+          "type": "Balcony"
+        }
+      ]
+    }
+  ],
   "imageCredit": "Photo: Martinvl / Wikimedia Commons (CC BY-SA 4.0)"
 }

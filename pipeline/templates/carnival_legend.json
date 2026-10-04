@@ -248,6 +248,12 @@
       ],
       "skip": true,
       "note": "Arrival only — the Hawaii cruise returns this day; no bookable Seattle departure found."
+    },
+    {
+      "dates": [
+        "2027-04-20"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
     }
   ],
   "imageCredit": "Photo: Daniel Foster from Shreveport / Wikimedia Commons (CC BY-SA 2.0)"

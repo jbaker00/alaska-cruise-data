@@ -135,6 +135,361 @@
   "reviewCount": 0,
   "reviewSnippet": "Holland America's mid-size, classic-style ship with ranger-narrated Glacier Bay scenic cruising and nightly live music — a relaxed, refined choice for scenery-focused travelers.",
   "shipSize": "Large/Mega-Ship",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2026-10-03"
+      ],
+      "note": "21-night one-way Seattle → Fort Lauderdale via the Panama Canal; also sold as a 1-night to Vancouver.",
+      "durationNights": 21,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for Eurodam's 21-night voyage down the Pacific coast and through the Panama Canal to Fort Lauderdale.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "A day in Vancouver — Stanley Park and Granville Island.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Santa Barbara, CA",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Santa Barbara, CA"
+        },
+        {
+          "dayNumber": 6,
+          "description": "San Diego, CA",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "San Diego, CA"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Cabo San Lucas, Mexico",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Cabo San Lucas, Mexico"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Huatulco, Mexico",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Huatulco, Mexico"
+        },
+        {
+          "dayNumber": 12,
+          "description": "Puerto Chiapas, Mexico",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Puerto Chiapas, Mexico"
+        },
+        {
+          "dayNumber": 13,
+          "description": "Puerto Quetzal, Guatemala",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Puerto Quetzal, Guatemala"
+        },
+        {
+          "dayNumber": 14,
+          "description": "Acajutla, El Salvador",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Acajutla, El Salvador"
+        },
+        {
+          "dayNumber": 16,
+          "description": "Puerto Caldera, Costa Rica",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Puerto Caldera, Costa Rica"
+        },
+        {
+          "dayNumber": 18,
+          "description": "Full transit of the Panama Canal.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Panama Canal"
+        },
+        {
+          "dayNumber": 20,
+          "description": "Oranjestad, Aruba",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Oranjestad, Aruba"
+        },
+        {
+          "dayNumber": 22,
+          "description": "Disembarkation in Fort Lauderdale.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Fort Lauderdale, FL"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Holland America's elegantly appointed interior stateroom with signature Mariner's Dream bed and premium bath amenities.",
+          "pricePerPerson": 3039,
+          "squareFeet": 185,
+          "type": "Interior"
+        },
+        {
+          "description": "Spacious ocean-view stateroom with large picture window. Perfect for watching Alaska's stunning coastline on scenic cruising days.",
+          "pricePerPerson": 3339,
+          "squareFeet": 207,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Private verandah stateroom — essential for Glacier Bay day when the scenery demands an outdoor front-row seat.",
+          "pricePerPerson": 4639,
+          "squareFeet": 254,
+          "type": "Balcony"
+        },
+        {
+          "description": "Signature Suite with separate living area, Nespresso machine, priority disembarkation, and exclusive Neptune Lounge access.",
+          "pricePerPerson": 7039,
+          "squareFeet": 388,
+          "type": "Suite"
+        }
+      ],
+      "alsoSold": [
+        {
+          "note": "1-night Seattle → Vancouver getaway (first leg of the canal voyage).",
+          "durationNights": 1,
+          "portsOfCall": [
+            {
+              "dayNumber": 1,
+              "description": "Embarkation at Pier 91 for a one-night getaway cruise to Vancouver — the shortest cruise from Seattle.",
+              "hoursInPort": 0,
+              "isCruisingDay": false,
+              "name": "Seattle, WA"
+            },
+            {
+              "dayNumber": 2,
+              "description": "Arrive in Vancouver at 7 AM — disembarkation day.",
+              "hoursInPort": 0,
+              "isCruisingDay": false,
+              "name": "Vancouver, BC"
+            }
+          ],
+          "cabinCategories": [
+            {
+              "description": "Holland America's elegantly appointed interior stateroom with signature Mariner's Dream bed and premium bath amenities.",
+              "pricePerPerson": 179,
+              "squareFeet": 185,
+              "type": "Interior"
+            },
+            {
+              "description": "Spacious ocean-view stateroom with large picture window. Perfect for watching Alaska's stunning coastline on scenic cruising days.",
+              "pricePerPerson": 199,
+              "squareFeet": 207,
+              "type": "Ocean View"
+            },
+            {
+              "description": "Private verandah stateroom — essential for Glacier Bay day when the scenery demands an outdoor front-row seat.",
+              "pricePerPerson": 229,
+              "squareFeet": 254,
+              "type": "Balcony"
+            },
+            {
+              "description": "Signature Suite with separate living area, Nespresso machine, priority disembarkation, and exclusive Neptune Lounge access.",
+              "pricePerPerson": 359,
+              "squareFeet": 388,
+              "type": "Suite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-10-02"
+      ],
+      "note": "21-night one-way Seattle → Fort Lauderdale via the Panama Canal (cruisetimetables.com); also sold as a 1-night to Vancouver.",
+      "durationNights": 21,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for Eurodam's 21-night voyage down the Pacific coast and through the Panama Canal to Fort Lauderdale.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "A day in Vancouver — Stanley Park and Granville Island.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Santa Barbara, CA",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Santa Barbara, CA"
+        },
+        {
+          "dayNumber": 6,
+          "description": "San Diego, CA",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "San Diego, CA"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Cabo San Lucas, Mexico",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Cabo San Lucas, Mexico"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Huatulco, Mexico",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Huatulco, Mexico"
+        },
+        {
+          "dayNumber": 12,
+          "description": "Puerto Chiapas, Mexico",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Puerto Chiapas, Mexico"
+        },
+        {
+          "dayNumber": 13,
+          "description": "Puerto Quetzal, Guatemala",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Puerto Quetzal, Guatemala"
+        },
+        {
+          "dayNumber": 14,
+          "description": "Acajutla, El Salvador",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Acajutla, El Salvador"
+        },
+        {
+          "dayNumber": 16,
+          "description": "Puerto Caldera, Costa Rica",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Puerto Caldera, Costa Rica"
+        },
+        {
+          "dayNumber": 18,
+          "description": "Full transit of the Panama Canal.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Panama Canal"
+        },
+        {
+          "dayNumber": 20,
+          "description": "Oranjestad, Aruba",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Oranjestad, Aruba"
+        },
+        {
+          "dayNumber": 22,
+          "description": "Disembarkation in Fort Lauderdale.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Fort Lauderdale, FL"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Holland America's elegantly appointed interior stateroom with signature Mariner's Dream bed and premium bath amenities.",
+          "pricePerPerson": 3039,
+          "squareFeet": 185,
+          "type": "Interior"
+        },
+        {
+          "description": "Spacious ocean-view stateroom with large picture window. Perfect for watching Alaska's stunning coastline on scenic cruising days.",
+          "pricePerPerson": 3339,
+          "squareFeet": 207,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Private verandah stateroom — essential for Glacier Bay day when the scenery demands an outdoor front-row seat.",
+          "pricePerPerson": 4639,
+          "squareFeet": 254,
+          "type": "Balcony"
+        },
+        {
+          "description": "Signature Suite with separate living area, Nespresso machine, priority disembarkation, and exclusive Neptune Lounge access.",
+          "pricePerPerson": 7039,
+          "squareFeet": 388,
+          "type": "Suite"
+        }
+      ],
+      "alsoSold": [
+        {
+          "note": "1-night Seattle → Vancouver getaway (first leg of the canal voyage).",
+          "durationNights": 1,
+          "portsOfCall": [
+            {
+              "dayNumber": 1,
+              "description": "Embarkation at Pier 91 for a one-night getaway cruise to Vancouver — the shortest cruise from Seattle.",
+              "hoursInPort": 0,
+              "isCruisingDay": false,
+              "name": "Seattle, WA"
+            },
+            {
+              "dayNumber": 2,
+              "description": "Arrive in Vancouver at 7 AM — disembarkation day.",
+              "hoursInPort": 0,
+              "isCruisingDay": false,
+              "name": "Vancouver, BC"
+            }
+          ],
+          "cabinCategories": [
+            {
+              "description": "Holland America's elegantly appointed interior stateroom with signature Mariner's Dream bed and premium bath amenities.",
+              "pricePerPerson": 179,
+              "squareFeet": 185,
+              "type": "Interior"
+            },
+            {
+              "description": "Spacious ocean-view stateroom with large picture window. Perfect for watching Alaska's stunning coastline on scenic cruising days.",
+              "pricePerPerson": 199,
+              "squareFeet": 207,
+              "type": "Ocean View"
+            },
+            {
+              "description": "Private verandah stateroom — essential for Glacier Bay day when the scenery demands an outdoor front-row seat.",
+              "pricePerPerson": 229,
+              "squareFeet": 254,
+              "type": "Balcony"
+            },
+            {
+              "description": "Signature Suite with separate living area, Nespresso machine, priority disembarkation, and exclusive Neptune Lounge access.",
+              "pricePerPerson": 359,
+              "squareFeet": 388,
+              "type": "Suite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-04-24"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    }
+  ],
   "imageCredit": "Photo: P. Kemps at nl.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
 }

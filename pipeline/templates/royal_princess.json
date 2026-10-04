@@ -139,6 +139,105 @@
   "reviewCount": 0,
   "reviewSnippet": "Princess has decades of Alaska experience, and this itinerary includes Tracy Arm Fjord's narrow granite walls and glaciers — a balanced choice for couples and families alike.",
   "shipSize": "Large/Mega-Ship",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-05-01"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-09-11"
+      ],
+      "note": "10-night Alaska one-way Seattle → Vancouver with Glacier Bay (cruisetimetables.com).",
+      "durationNights": 10,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for a 10-night Alaska voyage ending in Vancouver.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Juneau, AK",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Skagway, AK",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Icy Strait Point, AK",
+          "hoursInPort": 11,
+          "isCruisingDay": false,
+          "name": "Icy Strait Point, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Sitka, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Sitka, AK"
+        },
+        {
+          "dayNumber": 8,
+          "description": "A full day of ranger-narrated scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Glacier Bay National Park"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Sailing south through the Inside Passage.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Disembarkation in Vancouver, Canada.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Princess Cruises interior stateroom with two lower beds convertible to queen, premium amenities, and MedallionClass technology.",
+          "pricePerPerson": 1084,
+          "squareFeet": 161,
+          "type": "Interior"
+        },
+        {
+          "description": "Private balcony stateroom — an ideal Alaska vantage point for Tracy Arm Fjord's dramatic scenery.",
+          "pricePerPerson": 1946,
+          "squareFeet": 222,
+          "type": "Balcony"
+        },
+        {
+          "description": "Mini-suite with separate sitting area (full suites from $7,399).",
+          "pricePerPerson": 2499,
+          "squareFeet": 323,
+          "type": "Suite"
+        }
+      ]
+    }
+  ],
   "imageCredit": "Photo: Leeturtle / Wikimedia Commons (CC BY-SA 3.0)"
 }

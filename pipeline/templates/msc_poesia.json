@@ -136,6 +136,100 @@
   "reviewCount": 0,
   "reviewSnippet": "MSC brings a European flavor and an international crowd to Alaska, often at competitive fares — worth a look for value-conscious travelers who enjoy a cosmopolitan atmosphere.",
   "shipSize": "Mid-Size",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-04-26"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-09-27"
+      ],
+      "note": "19-night one-way Seattle → Miami via the Panama Canal (cruisetimetables.com; interior fare only published).",
+      "durationNights": 19,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for a 19-night voyage through the Panama Canal to Miami.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Sailing south along the Pacific coast.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Coast"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Los Angeles, CA",
+          "hoursInPort": 14,
+          "isCruisingDay": false,
+          "name": "Los Angeles, CA"
+        },
+        {
+          "dayNumber": 6,
+          "description": "San Diego, CA",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "San Diego, CA"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Cabo San Lucas, Mexico",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Cabo San Lucas, Mexico"
+        },
+        {
+          "dayNumber": 12,
+          "description": "Huatulco, Mexico",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Huatulco, Mexico"
+        },
+        {
+          "dayNumber": 15,
+          "description": "Full transit of the Panama Canal.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Panama Canal"
+        },
+        {
+          "dayNumber": 17,
+          "description": "Colón, Panama",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Colón, Panama"
+        },
+        {
+          "dayNumber": 18,
+          "description": "Cartagena, Colombia",
+          "hoursInPort": 7,
+          "isCruisingDay": false,
+          "name": "Cartagena, Colombia"
+        },
+        {
+          "dayNumber": 21,
+          "description": "Disembarkation in Miami.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Miami, FL"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "MSC Poesia interior stateroom — European design sensibility with generous proportions and superior finishing.",
+          "pricePerPerson": 2029,
+          "squareFeet": 161,
+          "type": "Interior"
+        }
+      ]
+    }
+  ],
   "imageCredit": "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
 }

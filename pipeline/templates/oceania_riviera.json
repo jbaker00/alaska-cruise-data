@@ -156,6 +156,211 @@
   "reviewCount": 0,
   "reviewSnippet": "Oceania is known for its cuisine — Jacques and Red Ginger are highlights — on a mid-size ship with longer itineraries; best for food-focused travelers who prefer a quieter, adult atmosphere.",
   "shipSize": "Small/Boutique",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-05-24"
+      ],
+      "note": "Verified 10-night round-trip; 2027 ports per cruisetimetables.com.",
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 66 for Riviera's first 2027 Alaska voyage.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "A small, authentic Alaska town — Petroglyph Beach and the Stikine River.",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Wrangell, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Icy Strait Point, AK",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Icy Strait Point, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Juneau, AK",
+          "hoursInPort": 11,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Totem park on Prince of Wales Island.",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Klawock, AK"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Sailing south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Victoria, BC",
+          "hoursInPort": 12,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Return to Seattle — disembarkation day.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Veranda stateroom — Oceania Riviera's entry category features gorgeous teak verandas, Tranquility Beds, and the finest cuisine at sea included in every sailing.",
+          "pricePerPerson": 4240,
+          "squareFeet": 282,
+          "type": "Balcony"
+        },
+        {
+          "description": "Concierge Level Veranda stateroom — enhanced amenities, priority embarkation, upgraded welcome amenities, and access to the Concierge Lounge.",
+          "pricePerPerson": 3760,
+          "squareFeet": 282,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Penthouse Suite with butler service, Bulgari bath amenities, and access to the exclusive Privée private dining room. The finest non-world-cruise Alaska suite available.",
+          "pricePerPerson": 6040,
+          "squareFeet": 420,
+          "type": "Suite"
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-09-02"
+      ],
+      "note": "11-night Alaska one-way Seattle → Vancouver (cruisetimetables.com).",
+      "durationNights": 11,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 66 for Riviera's final Alaska voyage, ending in Vancouver.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Sitka, AK",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Sitka, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Skagway, AK",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Juneau, AK",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Klawock, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Klawock, AK"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Wrangell, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Wrangell, AK"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Sailing south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Victoria, BC",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 12,
+          "description": "Disembarkation in Vancouver, Canada.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Veranda stateroom — Oceania Riviera's entry category features gorgeous teak verandas, Tranquility Beds, and the finest cuisine at sea included in every sailing.",
+          "pricePerPerson": 5599,
+          "squareFeet": 282,
+          "type": "Balcony"
+        },
+        {
+          "description": "Concierge Level Veranda stateroom — enhanced amenities, priority embarkation, upgraded welcome amenities, and access to the Concierge Lounge.",
+          "pricePerPerson": 5349,
+          "squareFeet": 282,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Penthouse Suite with butler service, Bulgari bath amenities, and access to the exclusive Privée private dining room. The finest non-world-cruise Alaska suite available.",
+          "pricePerPerson": 8399,
+          "squareFeet": 420,
+          "type": "Suite"
+        }
+      ]
+    }
+  ],
   "imageCredit": "Photo: Christian Ferrer / Wikimedia Commons (CC BY-SA 4.0)"
 }

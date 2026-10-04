@@ -135,6 +135,494 @@
   "reviewCount": 0,
   "reviewSnippet": "A mid-size Holland America ship with a calm pace, attentive service, and Glacier Bay on the itinerary — a comfortable pick for travelers who prioritize scenery over onboard thrills.",
   "shipSize": "Mid-Size",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2026-10-11"
+      ],
+      "note": "34-night one-way Seattle → Sydney via Hawaii & South Pacific (cruisetimetables.com); fares estimated.",
+      "durationNights": 34,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for a 34-night Legendary Voyage across the Pacific to Sydney.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Five sea days to Hawaii.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Pacific Crossing"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Hilo, Hawaii Island, HI",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Hilo, Hawaii Island, HI"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Honolulu, Oahu, HI",
+          "hoursInPort": 14,
+          "isCruisingDay": false,
+          "name": "Honolulu, Oahu, HI"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Nawiliwili, Kauai, HI",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Nawiliwili, Kauai, HI"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Kailua-Kona, HI",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Kailua-Kona, HI"
+        },
+        {
+          "dayNumber": 14,
+          "description": "Kiritimati (Christmas Island), Kiribati",
+          "hoursInPort": 7,
+          "isCruisingDay": false,
+          "name": "Kiritimati (Christmas Island), Kiribati"
+        },
+        {
+          "dayNumber": 16,
+          "description": "Papeete, Tahiti",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Papeete, Tahiti"
+        },
+        {
+          "dayNumber": 18,
+          "description": "Moorea, French Polynesia",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Moorea, French Polynesia"
+        },
+        {
+          "dayNumber": 19,
+          "description": "Raiatea, French Polynesia",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Raiatea, French Polynesia"
+        },
+        {
+          "dayNumber": 21,
+          "description": "Rarotonga, Cook Islands",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Rarotonga, Cook Islands"
+        },
+        {
+          "dayNumber": 25,
+          "description": "Vava'u, Tonga",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Vava'u, Tonga"
+        },
+        {
+          "dayNumber": 26,
+          "description": "Nuku'alofa, Tonga",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Nuku'alofa, Tonga"
+        },
+        {
+          "dayNumber": 29,
+          "description": "Bay of Islands, New Zealand",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Bay of Islands, New Zealand"
+        },
+        {
+          "dayNumber": 30,
+          "description": "Auckland, New Zealand",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Auckland, New Zealand"
+        },
+        {
+          "dayNumber": 32,
+          "description": "Wellington, New Zealand",
+          "hoursInPort": 11,
+          "isCruisingDay": false,
+          "name": "Wellington, New Zealand"
+        },
+        {
+          "dayNumber": 36,
+          "description": "Disembarkation in Sydney Harbour.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Sydney, Australia"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Estimated fare for this 34-night crossing — confirm with Chantale.",
+          "pricePerPerson": 4699,
+          "squareFeet": 182,
+          "type": "Interior"
+        },
+        {
+          "description": "Estimated fare for this 34-night crossing — confirm with Chantale.",
+          "pricePerPerson": 5299,
+          "squareFeet": 204,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Estimated fare for this 34-night crossing — confirm with Chantale.",
+          "pricePerPerson": 7199,
+          "squareFeet": 249,
+          "type": "Balcony"
+        },
+        {
+          "description": "Estimated fare for this 34-night crossing — confirm with Chantale.",
+          "pricePerPerson": 10299,
+          "squareFeet": 511,
+          "type": "Suite"
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-04-25"
+      ],
+      "note": "7-night season opener on a coastal route: Ketchikan, Prince Rupert, Nanaimo, Victoria (cruisetimetables.com).",
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for Noordam's 2027 season opener along the British Columbia coast to Alaska.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising north through the Inside Passage.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage Scenic"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Creek Street, totem poles, and Misty Fjords flightseeing.",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "An overnight in northern British Columbia — grizzly-bear viewing at Khutzeymateen and First Nations culture.",
+          "hoursInPort": 21,
+          "isCruisingDay": false,
+          "name": "Prince Rupert, BC"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Vancouver Island's harbor city — seaside walkways and Nanaimo bars.",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Nanaimo, BC"
+        },
+        {
+          "dayNumber": 7,
+          "description": "A full day in Victoria — Butchart Gardens and the Inner Harbour.",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Return to Seattle — disembarkation day.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Elegant interior stateroom with Holland America's signature Mariner's Dream bed, premium linens, and thoughtful Dutch design.",
+          "pricePerPerson": 1049,
+          "squareFeet": 182,
+          "type": "Interior"
+        },
+        {
+          "description": "Classic ocean-view stateroom with large window — ideal for scenic Inside Passage days when Alaska glides past.",
+          "pricePerPerson": 1149,
+          "squareFeet": 204,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Verandah stateroom with private outdoor seating — the perfect perch for Glacier Bay's magnificent scenery.",
+          "pricePerPerson": 1499,
+          "squareFeet": 249,
+          "type": "Balcony"
+        },
+        {
+          "description": "Neptune Suite with butler service, exclusive Neptune Lounge, Nespresso machine, and priority in every aspect of the voyage.",
+          "pricePerPerson": 2749,
+          "squareFeet": 511,
+          "type": "Suite"
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-09-12"
+      ],
+      "note": "13-night one-way Seattle → Tokyo via Ketchikan (cruisetimetables.com); a 27-night extension is also sold.",
+      "durationNights": 13,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for a one-way crossing to Japan by way of Alaska.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Sailing north through the Inside Passage.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage Scenic"
+        },
+        {
+          "dayNumber": 3,
+          "description": "A last Alaska port — Creek Street and totem poles.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Eight sea days across the North Pacific, crossing the International Date Line.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – North Pacific Crossing"
+        },
+        {
+          "dayNumber": 12,
+          "description": "Hokkaido's eastern port — marshlands and red-crowned cranes.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Kushiro, Japan"
+        },
+        {
+          "dayNumber": 13,
+          "description": "Northern Honshu — the Nebuta festival museum and apple country.",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Aomori, Japan"
+        },
+        {
+          "dayNumber": 15,
+          "description": "Disembarkation in Tokyo.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Tokyo (Yokohama), Japan"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Elegant interior stateroom with Holland America's signature Mariner's Dream bed, premium linens, and thoughtful Dutch design.",
+          "pricePerPerson": 1384,
+          "squareFeet": 182,
+          "type": "Interior"
+        },
+        {
+          "description": "Classic ocean-view stateroom with large window — ideal for scenic Inside Passage days when Alaska glides past.",
+          "pricePerPerson": 1504,
+          "squareFeet": 204,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Verandah stateroom with private outdoor seating — the perfect perch for Glacier Bay's magnificent scenery.",
+          "pricePerPerson": 2004,
+          "squareFeet": 249,
+          "type": "Balcony"
+        },
+        {
+          "description": "Neptune Suite with butler service, exclusive Neptune Lounge, Nespresso machine, and priority in every aspect of the voyage.",
+          "pricePerPerson": 3054,
+          "squareFeet": 511,
+          "type": "Suite"
+        }
+      ],
+      "alsoSold": [
+        {
+          "note": "27-night Seattle → Tokyo with a Japan & South Korea circle.",
+          "durationNights": 27,
+          "portsOfCall": [
+            {
+              "dayNumber": 1,
+              "description": "Embarkation at Pier 91 for a one-way crossing to Japan by way of Alaska.",
+              "hoursInPort": 0,
+              "isCruisingDay": false,
+              "name": "Seattle, WA"
+            },
+            {
+              "dayNumber": 2,
+              "description": "Sailing north through the Inside Passage.",
+              "hoursInPort": 0,
+              "isCruisingDay": true,
+              "name": "At Sea – Inside Passage Scenic"
+            },
+            {
+              "dayNumber": 3,
+              "description": "A last Alaska port — Creek Street and totem poles.",
+              "hoursInPort": 9,
+              "isCruisingDay": false,
+              "name": "Ketchikan, AK"
+            },
+            {
+              "dayNumber": 4,
+              "description": "Eight sea days across the North Pacific, crossing the International Date Line.",
+              "hoursInPort": 0,
+              "isCruisingDay": true,
+              "name": "At Sea – North Pacific Crossing"
+            },
+            {
+              "dayNumber": 12,
+              "description": "Hokkaido's eastern port — marshlands and red-crowned cranes.",
+              "hoursInPort": 9,
+              "isCruisingDay": false,
+              "name": "Kushiro, Japan"
+            },
+            {
+              "dayNumber": 13,
+              "description": "Northern Honshu — the Nebuta festival museum and apple country.",
+              "hoursInPort": 9,
+              "isCruisingDay": false,
+              "name": "Aomori, Japan"
+            },
+            {
+              "dayNumber": 15,
+              "description": "Tokyo (Yokohama), Japan",
+              "hoursInPort": 11,
+              "isCruisingDay": false,
+              "name": "Tokyo (Yokohama), Japan"
+            },
+            {
+              "dayNumber": 16,
+              "description": "Gateway to Mount Fuji.",
+              "hoursInPort": 9,
+              "isCruisingDay": false,
+              "name": "Shimizu, Japan"
+            },
+            {
+              "dayNumber": 17,
+              "description": "Kobe (Osaka), Japan",
+              "hoursInPort": 13,
+              "isCruisingDay": false,
+              "name": "Kobe (Osaka), Japan"
+            },
+            {
+              "dayNumber": 19,
+              "description": "Hiroshima, Japan",
+              "hoursInPort": 16,
+              "isCruisingDay": false,
+              "name": "Hiroshima, Japan"
+            },
+            {
+              "dayNumber": 21,
+              "description": "Busan, South Korea",
+              "hoursInPort": 9,
+              "isCruisingDay": false,
+              "name": "Busan, South Korea"
+            },
+            {
+              "dayNumber": 22,
+              "description": "Sakaiminato, Japan",
+              "hoursInPort": 10,
+              "isCruisingDay": false,
+              "name": "Sakaiminato, Japan"
+            },
+            {
+              "dayNumber": 23,
+              "description": "Maizuru, Japan",
+              "hoursInPort": 13,
+              "isCruisingDay": false,
+              "name": "Maizuru, Japan"
+            },
+            {
+              "dayNumber": 24,
+              "description": "Kanazawa, Japan",
+              "hoursInPort": 10,
+              "isCruisingDay": false,
+              "name": "Kanazawa, Japan"
+            },
+            {
+              "dayNumber": 26,
+              "description": "Hakodate, Japan",
+              "hoursInPort": 9,
+              "isCruisingDay": false,
+              "name": "Hakodate, Japan"
+            },
+            {
+              "dayNumber": 27,
+              "description": "Miyako, Japan",
+              "hoursInPort": 9,
+              "isCruisingDay": false,
+              "name": "Miyako, Japan"
+            },
+            {
+              "dayNumber": 28,
+              "description": "Hitachinaka, Japan",
+              "hoursInPort": 9,
+              "isCruisingDay": false,
+              "name": "Hitachinaka, Japan"
+            },
+            {
+              "dayNumber": 29,
+              "description": "Disembarkation in Tokyo.",
+              "hoursInPort": 0,
+              "isCruisingDay": false,
+              "name": "Tokyo (Yokohama), Japan"
+            }
+          ],
+          "cabinCategories": [
+            {
+              "description": "Elegant interior stateroom with Holland America's signature Mariner's Dream bed, premium linens, and thoughtful Dutch design.",
+              "pricePerPerson": 4219,
+              "squareFeet": 182,
+              "type": "Interior"
+            },
+            {
+              "description": "Classic ocean-view stateroom with large window — ideal for scenic Inside Passage days when Alaska glides past.",
+              "pricePerPerson": 4449,
+              "squareFeet": 204,
+              "type": "Ocean View"
+            },
+            {
+              "description": "Verandah stateroom with private outdoor seating — the perfect perch for Glacier Bay's magnificent scenery.",
+              "pricePerPerson": 6249,
+              "squareFeet": 249,
+              "type": "Balcony"
+            },
+            {
+              "description": "Neptune Suite with butler service, exclusive Neptune Lounge, Nespresso machine, and priority in every aspect of the voyage.",
+              "pricePerPerson": 9269,
+              "squareFeet": 511,
+              "type": "Suite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2027-05-09"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    }
+  ],
   "imageCredit": "Photo: Dennis den Hamer / Wikimedia Commons (CC BY-SA 4.0)"
 }

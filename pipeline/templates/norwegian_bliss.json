@@ -142,6 +142,27 @@
   "reviewCount": 0,
   "reviewSnippet": "Built with Alaska in mind — wraparound outdoor decks and a glass-walled Observation Lounge for scenic days, plus a race track and water slides — a top family pick with Freestyle (no fixed time) dining.",
   "shipSize": "Large/Mega-Ship",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2026-10-10"
+      ],
+      "skip": true,
+      "note": "Arrival only — last 2026 Alaska cruise returns; the ship leaves empty for its Los Angeles winter season."
+    },
+    {
+      "dates": [
+        "2027-05-01"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-10-16"
+      ],
+      "skip": true,
+      "note": "Arrival only — last 2027 Alaska cruise (Oct 9) returns; no Seattle departure is sold."
+    }
+  ],
   "imageCredit": "Photo: Arno Redenius / Wikimedia Commons (CC BY-SA 4.0)"
 }

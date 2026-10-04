@@ -139,6 +139,103 @@
   "reviewCount": 0,
   "reviewSnippet": "Celebrity's design-forward ship with Infinite Veranda staterooms and the cantilevered Magic Carpet — a polished, upscale-feeling choice for couples who want modern style and strong dining.",
   "shipSize": "Mid-Size",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-05-21"
+      ],
+      "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
+    },
+    {
+      "dates": [
+        "2027-09-24"
+      ],
+      "note": "7-night Alaska one-way Seattle → Vancouver (cruisetimetables.com).",
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Embarkation at Pier 91 for Celebrity Edge's final Alaska sailing of 2027, ending in Vancouver.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising north.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage Scenic"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Morning scenic cruising to Dawes Glacier.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Endicott Arm & Dawes Glacier"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Juneau, AK",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Skagway, AK",
+          "hoursInPort": 11,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Two days sailing south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Disembarkation in Vancouver, Canada.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Celebrity Edge interior stateroom — refined design, premium linens, and spa-inspired bath amenities set Celebrity apart from the crowd.",
+          "pricePerPerson": 970,
+          "squareFeet": 183,
+          "type": "Interior"
+        },
+        {
+          "description": "Edge Stateroom with infinite veranda — Celebrity's revolutionary design blurs the line between inside and out, transforming your room into a glass-enclosed outdoor space.",
+          "pricePerPerson": 1066,
+          "squareFeet": 242,
+          "type": "Ocean View"
+        },
+        {
+          "description": "AquaClass stateroom with veranda — includes spa-focused amenities, daily access to the Persian Garden, and exclusive seating at Blu restaurant.",
+          "pricePerPerson": 1301,
+          "squareFeet": 239,
+          "type": "Balcony"
+        },
+        {
+          "description": "The Retreat Sky Suite — butler service, dedicated Retreat Host, private Retreat sundeck with pool, and exclusive Luminae restaurant reserved for suite guests.",
+          "pricePerPerson": 4304,
+          "squareFeet": 417,
+          "type": "Suite"
+        }
+      ]
+    }
+  ],
   "imageCredit": "Photo: Jjerome78 / Wikimedia Commons (CC BY-SA 4.0)"
 }

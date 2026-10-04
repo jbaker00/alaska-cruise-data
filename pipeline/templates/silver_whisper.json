@@ -135,6 +135,13 @@
   "hasCasino": true,
   "isAllInclusive": true,
   "reviewSnippet": "A one-of-a-kind 2027 departure: an intimate, all-inclusive Silversea voyage from Seattle that reaches small ports like Klawock before ending in Vancouver.",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2027-05-27"
+      ],
+      "note": "Verified: 7-night Seattle → Vancouver (Silversea)."
+    }
+  ],
   "imageCredit": "Photo: Unknown author / Wikimedia Commons (CC0)"
 }

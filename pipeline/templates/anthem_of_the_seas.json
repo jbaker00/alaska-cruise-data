@@ -143,6 +143,14 @@
   "reviewCount": 0,
   "reviewSnippet": "One of the most activity-packed ships sailing from Seattle: North Star observation capsule, RipCord by iFLY skydiving, FlowRider, and Broadway-style shows — a strong fit for families and active travelers who want plenty to do on sea days.",
   "shipSize": "Large/Mega-Ship",
-  "overrides": [],
+  "overrides": [
+    {
+      "dates": [
+        "2026-09-30"
+      ],
+      "skip": true,
+      "note": "Arrival only — port-of-call stop on a Vancouver → Honolulu cruise; US law (PVSA) doesn't allow Seattle → Honolulu, so it isn't a Seattle departure."
+    }
+  ],
   "imageCredit": "Photo: Trevor Webb / Wikimedia Commons (CC0)"
 }
