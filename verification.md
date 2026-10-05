@@ -1,6 +1,6 @@
-# Weekly sailing verification — 2026-10-04
+# Weekly sailing verification — 2026-10-05
 
-Checked 220 upcoming sailings against cruisetimetables.com: **193 match**, **17 mismatch**, 0 not listed, 10 errors.
+Checked 276 upcoming sailings against cruisetimetables.com: **244 match**, **22 mismatch**, 0 not listed, 10 errors.
 
 Mismatches need a person to research (ideally in the cruise line's agent portal) and fix the ship template in `pipeline/templates/`. Nothing here changes the app data automatically.
 
@@ -23,6 +23,11 @@ Mismatches need a person to research (ideally in the cruise line's agent portal)
 - **Norwegian Joy 2027-07-30** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235229&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-30jul2027.html)
 - **Oceania Riviera 2027-08-05** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270805) · [source](https://www.cruisetimetables.com/fromseattlewashington-05aug2027.html)
 - **Norwegian Joy 2027-08-06** — app: 9 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235230&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-06aug2027.html)
+- **Brilliant Lady 2027-08-12** — app: 7 nights → Seattle, WA; source: 12 nights → Seattle, Washington (Alaska: Inside Passage & Hubbard Glacier). [line page](https://www.virginvoyages.com/book/voyage-planner/pre-checkout?currencyCode=USD&amp;packageCode=12NKSHS&amp;voyageId=BR27081212NKSHS) · [source](https://www.cruisetimetables.com/fromseattlewashington-12aug2027.html)
+- **Oceania Riviera 2027-08-12** — app: 10 nights → Seattle, WA; source: 11 nights → Vancouver, Canada (Alaskan Dreamscapes Seattle to Vancouver). [line page](https://www.oceaniacruises.com/cruises/RVA270812) · [source](https://www.cruisetimetables.com/fromseattlewashington-12aug2027.html)
+- **Norwegian Joy 2027-08-20** — app: 9 nights → Seattle, WA; source: 10 nights → Seattle, Washington (Alaska Round-trip Seattle: Hubbard Glacier, Skagway & Juneau). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAJNUSGYSITHGCICYKTNVICSEA-NIC-JOY10SEAICYJNUKTNSITVICSEA&amp;packageId=24245720&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-20aug2027.html)
+- **Noordam 2027-08-22** — app: 7 nights → Seattle, WA; source: 14 nights → Seattle, Washington (Great Alaska Explorer). [line page](https://www.hollandamerica.com/en/us/find-a-cruise/a7l14a/n752) · [source](https://www.cruisetimetables.com/fromseattlewashington-22aug2027.html)
+- **Brilliant Lady 2027-08-24** — app: 7 nights → Seattle, WA; source: 9 nights → Seattle, Washington (Alaska: Inside Passage & Hubbard Glacier). [line page](https://www.virginvoyages.com/book/voyage-planner/pre-checkout?currencyCode=USD&amp;packageCode=9NSABC2&amp;voyageId=BR2708249NSABC2) · [source](https://www.cruisetimetables.com/fromseattlewashington-24aug2027.html)
 
 ## Fetch errors
 
