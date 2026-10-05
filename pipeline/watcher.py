@@ -148,7 +148,7 @@ def main() -> int:
         schedules = build_dataset.load_schedules(SCHED_DIR, datetime.now().year)
         templates = build_dataset.load_templates(HERE / "templates")
         cruises, missing, skipped, notes, anomalies = build_dataset.build(schedules, templates)
-        meta = build_dataset.write_outputs(REPO, schedules, cruises, missing, skipped, notes, anomalies)
+        meta = build_dataset.write_outputs(REPO, schedules, cruises, missing, skipped, notes, anomalies, templates)
         log(f"build: v{meta['version']} {meta['cruiseCount']} cruises, changed={meta['changed']}")
 
         paths = ["cruises.json", "version.json", "report.md", "port_calls.json", "pipeline/schedules",

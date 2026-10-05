@@ -192,22 +192,26 @@ def build(schedules: list[dict], templates: dict[str, dict]):
 PIERS = {66: "Pier 66 · Bell Street", 91: "Pier 91 · Smith Cove"}
 
 
-def write_port_calls(out: Path, schedules: list[dict]) -> None:
+def write_port_calls(out: Path, schedules: list[dict], templates: dict[str, dict] | None = None) -> None:
     """port_calls.json — every ship call at Seattle (turnarounds + in-transit) for the app's
     "Today at the Port" screen. Separate file so older app versions are unaffected."""
     calls = []
     for s in schedules:
         for c in s["calls"]:
+            kind, note = ("passing" if c["inTransit"] else "turnaround"), None
+            t = (templates or {}).get(norm(c["vessel"]))
+            ov = next((o for o in (t or {}).get("overrides", []) if c["date"] in o["dates"]), None)
+            if ov and ov.get("skip") and not c["inTransit"]:
+                kind, note = "arrivalOnly", ov.get("note")  # season-end arrival / port stop, no Seattle departure
             calls.append({"date": c["date"], "vessel": c["vessel"], "cruiseLine": c["cruiseLine"],
                           "pier": c["pier"], "pierName": PIERS.get(c["pier"], f"Pier {c['pier']}"),
-                          "kind": "passing" if c["inTransit"] else "turnaround",
-                          "preliminary": s["preliminary"]})
+                          "kind": kind, "preliminary": s["preliminary"], **({"note": note} if note else {})})
     calls.sort(key=lambda c: (c["date"], c["pier"], c["vessel"]))
     (out / "port_calls.json").write_text(json.dumps(
         {"schema": 1, "source": "Port of Seattle cruise schedule", "calls": calls}, separators=(",", ":")) + "\n")
 
 
-def write_outputs(out: Path, schedules, cruises, missing, skipped, notes, anomalies) -> dict:
+def write_outputs(out: Path, schedules, cruises, missing, skipped, notes, anomalies, templates=None) -> dict:
     out.mkdir(parents=True, exist_ok=True)
     payload = json.dumps(cruises, sort_keys=True, separators=(",", ":"), ensure_ascii=False).encode()
     digest = hashlib.sha256(payload).hexdigest()
@@ -227,7 +231,7 @@ def write_outputs(out: Path, schedules, cruises, missing, skipped, notes, anomal
         "seasons": [{k: s[k] for k in ("year", "published", "preliminary", "source")} for s in schedules],
     }
     (out / "cruises.json").write_bytes(payload)
-    write_port_calls(out, schedules)
+    write_port_calls(out, schedules, templates)
     version_path.write_text(json.dumps(meta, indent=2) + "\n")
 
     lines = [f"# Cruise dataset v{version}", "",
@@ -263,7 +267,7 @@ def main(argv=None) -> int:
         return 1
     templates = load_templates(args.templates)
     cruises, missing, skipped, notes, anomalies = build(schedules, templates)
-    meta = write_outputs(args.out, schedules, cruises, missing, skipped, notes, anomalies)
+    meta = write_outputs(args.out, schedules, cruises, missing, skipped, notes, anomalies, templates)
 
     print(f"{'NEW' if meta['changed'] else 'unchanged'} v{meta['version']}: {meta['cruiseCount']} cruises, "
           f"{len(missing)} ships missing templates, {len(anomalies)} anomalies → {args.out}")
