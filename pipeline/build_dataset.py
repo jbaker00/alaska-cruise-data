@@ -189,6 +189,24 @@ def build(schedules: list[dict], templates: dict[str, dict]):
     return cruises, missing, skipped, notes, anomalies + [f"VERIFY {v}" for v in verify]
 
 
+PIERS = {66: "Pier 66 · Bell Street", 91: "Pier 91 · Smith Cove"}
+
+
+def write_port_calls(out: Path, schedules: list[dict]) -> None:
+    """port_calls.json — every ship call at Seattle (turnarounds + in-transit) for the app's
+    "Today at the Port" screen. Separate file so older app versions are unaffected."""
+    calls = []
+    for s in schedules:
+        for c in s["calls"]:
+            calls.append({"date": c["date"], "vessel": c["vessel"], "cruiseLine": c["cruiseLine"],
+                          "pier": c["pier"], "pierName": PIERS.get(c["pier"], f"Pier {c['pier']}"),
+                          "kind": "passing" if c["inTransit"] else "turnaround",
+                          "preliminary": s["preliminary"]})
+    calls.sort(key=lambda c: (c["date"], c["pier"], c["vessel"]))
+    (out / "port_calls.json").write_text(json.dumps(
+        {"schema": 1, "source": "Port of Seattle cruise schedule", "calls": calls}, separators=(",", ":")) + "\n")
+
+
 def write_outputs(out: Path, schedules, cruises, missing, skipped, notes, anomalies) -> dict:
     out.mkdir(parents=True, exist_ok=True)
     payload = json.dumps(cruises, sort_keys=True, separators=(",", ":"), ensure_ascii=False).encode()
@@ -209,6 +227,7 @@ def write_outputs(out: Path, schedules, cruises, missing, skipped, notes, anomal
         "seasons": [{k: s[k] for k in ("year", "published", "preliminary", "source")} for s in schedules],
     }
     (out / "cruises.json").write_bytes(payload)
+    write_port_calls(out, schedules)
     version_path.write_text(json.dumps(meta, indent=2) + "\n")
 
     lines = [f"# Cruise dataset v{version}", "",

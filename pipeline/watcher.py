@@ -151,7 +151,7 @@ def main() -> int:
         meta = build_dataset.write_outputs(REPO, schedules, cruises, missing, skipped, notes, anomalies)
         log(f"build: v{meta['version']} {meta['cruiseCount']} cruises, changed={meta['changed']}")
 
-        paths = ["cruises.json", "version.json", "report.md", "pipeline/schedules",
+        paths = ["cruises.json", "version.json", "report.md", "port_calls.json", "pipeline/schedules",
                  "pipeline/verification.json", "verification.md"]
         paths = [p for p in paths if (REPO / p).exists()]
         status = git("status", "--porcelain", "--", *paths)
