@@ -1,0 +1,14 @@
+[Unit]
+Description=Live AIS positions for the Seattle cruise fleet → public positions.json (Alaska Cruise Finder)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=@REPO_DIR@
+ExecStart=%h/.local/share/cruise-watcher/venv/bin/python @PIPELINE_DIR@/ship_tracker.py
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=default.target

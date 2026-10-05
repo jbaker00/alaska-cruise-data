@@ -33,9 +33,16 @@ done
 sudo loginctl enable-linger "$USER" || echo "  (could not enable linger — timer only runs while logged in)"
 systemctl --user daemon-reload
 systemctl --user enable --now cruise-watcher.timer cruise-verify.timer
+# Long-running live-position proxy (aisstream.io → gs://globalvibes-ship-positions/positions.json).
+sed -e "s#@PIPELINE_DIR@#$PIPELINE_DIR#g" -e "s#@REPO_DIR@#$(dirname "$PIPELINE_DIR")#g" \
+  "$PIPELINE_DIR/pi5/cruise-tracker.service" > "$UNIT_DIR/cruise-tracker.service"
+systemctl --user daemon-reload
+systemctl --user enable cruise-tracker.service
+systemctl --user restart cruise-tracker.service
 
 echo "✓ Installed. Useful commands:"
 echo "    systemctl --user start cruise-watcher      # run now"
 echo "    journalctl --user -u cruise-watcher -n 50  # logs"
-echo "    systemctl --user start cruise-verify       # weekly sailing check, now"
+echo "    systemctl --user start cruise-verify       # sailing check slice, now"
+echo "    journalctl --user -u cruise-tracker -f     # live ship tracker"
 echo "    systemctl --user list-timers 'cruise-*'"
