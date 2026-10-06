@@ -1,6 +1,6 @@
-# Cruise dataset v202610050958
+# Cruise dataset v202610060248
 
-630 cruises from 2026 published 2026-04-20, 2027 (preliminary) published 2026-09-18
+669 cruises from 2026 published 2026-04-20, 2027 (preliminary) published 2026-09-18
 
 ## ⚠️ Schedule anomalies (check itinerary/duration)
 
@@ -83,3 +83,42 @@
 - Voyager of the Seas 2027-10-01: 25-night one-way Seattle → Brisbane via Hawaii & the South Pacific (cruisetimetables.com).
 - Eurodam 2027-10-02: 21-night one-way Seattle → Fort Lauderdale via the Panama Canal (cruisetimetables.com); also sold as a 1-night to Vancouver.
 - Eurodam 2027-10-02 (also sold): 1-night Seattle → Vancouver getaway (first leg of the canal voyage).
+- American Constellation 2027-04-20 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-04-27 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-05-04 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-05-11 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-05-18 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-09-13 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-09-20 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-09-27 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-10-04 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-10-11 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-10-18 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Constellation 2027-10-25 (extra sailing): 7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-05-21 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-05-28 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-06-04 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-06-11 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-06-18 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-06-25 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-07-02 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-07-09 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-07-16 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-07-23 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-07-30 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-08-06 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-08-13 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-08-20 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-08-27 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-09-03 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-09-10 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- American Spirit 2027-09-17 (extra sailing): 8-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify).
+- Brilliant Lady 2027-05-11 (extra sailing): 9-night Alaska, Vancouver → Seattle (adults only).
+- Celebrity Edge 2027-05-14 (extra sailing): 7-night Alaska Dawes Glacier, Vancouver → Seattle (season opener).
+- Eurodam 2027-04-23 (extra sailing): 1-night Vancouver → Seattle (season opener).
+- Oceania Riviera 2027-05-13 (extra sailing): 11-night 'Worlds of Wonder', Vancouver → Seattle.
+- Oceania Riviera 2027-08-23 (extra sailing): 10-night 'Gold Rush & Glaciers', Vancouver → Seattle.
+- Star Princess 2027-04-30 (extra sailing): 9-night Inside Passage, Vancouver → Seattle.
+- Westerdam 2027-09-12 (extra sailing): 7-night Alaska with Glacier Bay, Vancouver → Seattle.
+- Wilderness Explorer 2027-06-13 (extra sailing): 12-night Seattle → Juneau via the San Juans, Misty Fjords and Glacier Bay (UnCruise).
+- Wilderness Explorer 2027-09-15 (extra sailing): 12-night Juneau → Seattle (ends at Fishermen's Terminal).
