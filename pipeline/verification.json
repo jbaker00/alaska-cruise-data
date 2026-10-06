@@ -1,8 +1,8 @@
 {
- "checkedAt": "2026-10-05T09:48:13+00:00",
+ "checkedAt": "2026-10-06T09:41:52+00:00",
  "results": {
   "001E1712-3E32-5276-9675-5AA875DA70D5": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-14",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-experience-from-seattle-on-voyager/VY07SEA-3937395707?sail-date=2027-05-14&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -17,7 +17,7 @@
    "verifiedOn": "2026-10-04"
   },
   "008BF279-8E78-59B8-8435-2098CD3D9723": {
-   "checkedAt": "2026-10-05T09:48:13+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-20",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-08-20&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -238,7 +238,7 @@
    "theirPrices": {}
   },
   "0E91101D-6B23-5CCB-88E0-2C2B865387AD": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-25",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-06-25&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -296,7 +296,7 @@
    "verifiedOn": "2026-10-04"
   },
   "0FF6D41A-CA55-53A2-9684-5FA5C18E4183": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-13",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/spirit/7-days/ga2/?sailDate=05132027",
    "ourEnd": "Seattle, WA",
@@ -316,7 +316,7 @@
    "verifiedOn": "2026-10-04"
   },
   "11E830CE-A0DF-57A0-A7AE-D7BE81C2D0A0": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-09",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-09&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -369,6 +369,15 @@
    "theirNights": 7,
    "theirPrices": {},
    "verifiedOn": "2026-10-05"
+  },
+  "12C91203-CC83-5C8C-B99F-731D14F94DAE": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-05-04",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 7,
+   "ship": "American Constellation",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-04may2027.html",
+   "status": "not_listed"
   },
   "13866F78-6E60-5BD4-9831-7F85C23F9657": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -494,8 +503,17 @@
    },
    "verifiedOn": "2026-10-04"
   },
+  "19199845-F6D5-517E-BF3C-BBB30450FB36": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-06-11",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-11jun2027.html",
+   "status": "not_listed"
+  },
   "1A2D6554-C069-54F2-8047-9682DD8CC8F0": {
-   "checkedAt": "2026-10-05T09:48:13+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-13",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235231&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -604,6 +622,15 @@
    "theirPrices": {},
    "verifiedOn": "2026-10-04"
   },
+  "242A474A-AE17-59B5-885B-DDF077B70F16": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-05-11",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 7,
+   "ship": "American Constellation",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-11may2027.html",
+   "status": "not_listed"
+  },
   "24806F2C-7537-5D26-9152-E7A4C2E9C24D": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
    "date": "2027-05-19",
@@ -643,6 +670,15 @@
     "Suite": 3028
    },
    "verifiedOn": "2026-10-04"
+  },
+  "25215882-39DA-52A5-9A72-C5656BB26E26": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-05-28",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-28may2027.html",
+   "status": "not_listed"
   },
   "262FA67C-3626-5AC7-854D-3F07B43B55A3": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -760,7 +796,7 @@
    "verifiedOn": "2026-10-05"
   },
   "2C055B1B-AA91-553E-B5CE-EB92B5118096": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-04",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/legend/7-days/ga2/?sailDate=05042027",
    "ourEnd": "Seattle, WA",
@@ -772,10 +808,10 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1314,
-    "Interior": 794,
-    "Oceanview": 994,
-    "Suite": 2374
+    "Balcony": 1194,
+    "Interior": 754,
+    "Oceanview": 974,
+    "Suite": 2234
    },
    "verifiedOn": "2026-10-04"
   },
@@ -855,14 +891,14 @@
    "verifiedOn": "2026-10-05"
   },
   "3446434A-450F-5A55-A80F-6BB23D46716F": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-25",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAJNUICYKTNVICSEA-NIC-JOY7SEAICYJNUKTNVICSEA&amp;packageId=24235224&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
-   "ourNights": 9,
+   "ourNights": 7,
    "ship": "Norwegian Joy",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-25jun2027.html",
-   "status": "mismatch",
+   "status": "match",
    "theirEnd": "Seattle, Washington",
    "theirName": "Alaska Round-trip Seattle: Juneau, Ketchikan & Victoria",
    "theirNights": 7,
@@ -871,7 +907,8 @@
     "Inside": 1269,
     "Oceanview": 1819,
     "Suite": 2959
-   }
+   },
+   "verifiedOn": "2026-10-06"
   },
   "346A0AA1-F339-5D92-9EE8-3A9B279FC27C": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -904,7 +941,7 @@
    "verifiedOn": "2026-10-04"
   },
   "35E38318-7A11-506C-ADFA-41FDA6205B26": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-11",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-06-11&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -944,7 +981,7 @@
    "verifiedOn": "2026-10-04"
   },
   "373A7A8C-C3ED-5D6B-85B0-3BCDA6A61064": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-18",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/legend/7-days/ga2/?sailDate=05182027",
    "ourEnd": "Seattle, WA",
@@ -956,10 +993,10 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1354,
-    "Interior": 824,
-    "Oceanview": 1044,
-    "Suite": 2537
+    "Balcony": 1214,
+    "Interior": 794,
+    "Oceanview": 1014,
+    "Suite": 2437
    },
    "verifiedOn": "2026-10-04"
   },
@@ -1188,7 +1225,7 @@
    "verifiedOn": "2026-10-04"
   },
   "3DB4CB8D-4E63-5BC1-9C93-22380C8CF9D3": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-18",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-06-18&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -1372,7 +1409,7 @@
    "verifiedOn": "2026-10-04"
   },
   "4902A085-3121-57F3-878B-F0BFFC5055D3": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-06",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-08-06&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -1392,7 +1429,7 @@
    "verifiedOn": "2026-10-04"
   },
   "4967D265-F7EF-5E16-AD28-B9971BE9F628": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-02",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-02&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -1432,14 +1469,14 @@
    "verifiedOn": "2026-10-04"
   },
   "4AEADBE3-CBEF-5BFF-B6FC-4AC151936302": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-23",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235228&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
-   "ourNights": 9,
+   "ourNights": 7,
    "ship": "Norwegian Joy",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-23jul2027.html",
-   "status": "mismatch",
+   "status": "match",
    "theirEnd": "Seattle, Washington",
    "theirName": "Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria",
    "theirNights": 7,
@@ -1448,7 +1485,8 @@
     "Inside": 1299,
     "Oceanview": 1869,
     "Suite": 3039
-   }
+   },
+   "verifiedOn": "2026-10-06"
   },
   "4B8A4771-8A98-56BF-A95C-E956D390E846": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -1484,6 +1522,15 @@
    "theirNights": 7,
    "theirPrices": {},
    "verifiedOn": "2026-10-04"
+  },
+  "51B9B3C3-9C65-5BCD-A213-61E3B35E2A21": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-07-23",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-23jul2027.html",
+   "status": "not_listed"
   },
   "520DB091-8C0B-5789-90DA-30982795F7C9": {
    "checkedAt": "2026-10-05T09:48:13+00:00",
@@ -1560,7 +1607,7 @@
    "verifiedOn": "2026-10-04"
   },
   "55DB429E-B377-5E07-9FDC-7F97C09CF606": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-13",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203316&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -1714,7 +1761,7 @@
    "verifiedOn": "2026-10-05"
   },
   "5A7DF02B-5380-58F6-82D7-288841A11F76": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-28",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-05-28&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -1753,6 +1800,15 @@
    },
    "verifiedOn": "2026-10-04"
   },
+  "5BB6BAA1-D4F2-5295-9141-EC94AD0A006A": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-07-09",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-09jul2027.html",
+   "status": "not_listed"
+  },
   "5CC73BDD-77BE-5F22-9A04-F9C51E16450A": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
    "date": "2027-06-22",
@@ -1787,6 +1843,15 @@
    "theirNights": 7,
    "theirPrices": {},
    "verifiedOn": "2026-10-04"
+  },
+  "5E28FF67-55D4-59B2-8AF6-68BEEEA25CE8": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-06-25",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-25jun2027.html",
+   "status": "not_listed"
   },
   "5E70983F-06DF-5D8C-955A-7D102A3E4708": {
    "checkedAt": "2026-10-05T09:48:13+00:00",
@@ -1829,7 +1894,7 @@
    "verifiedOn": "2026-10-04"
   },
   "611FAB61-52E6-5AC4-8615-4F7574107206": {
-   "checkedAt": "2026-10-05T09:48:13+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-23",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-quantum/QN07SEA-2909514434?sail-date=2027-08-23&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -1924,7 +1989,7 @@
    "verifiedOn": "2026-10-04"
   },
   "62F21E2C-E7E8-574B-9957-B0C7F9523EE6": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-16",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-16&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -2003,7 +2068,7 @@
    "verifiedOn": "2026-10-04"
   },
   "659B8761-812F-5931-8C17-DFE4FB20F84E": {
-   "checkedAt": "2026-10-05T09:48:13+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-23",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270823SEASEA&amp;itineraryCode=UY3G",
    "ourEnd": "Seattle, WA",
@@ -2031,6 +2096,24 @@
    "theirNights": 7,
    "theirPrices": {},
    "verifiedOn": "2026-10-04"
+  },
+  "66CC8489-848A-539B-919A-1E958253D0F8": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-07-30",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-30jul2027.html",
+   "status": "not_listed"
+  },
+  "68B686E7-4B39-5D67-8993-839F951E09F7": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-08-06",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-06aug2027.html",
+   "status": "not_listed"
   },
   "693E9557-44E9-5012-9E81-DDC20D1EE263": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -2128,7 +2211,7 @@
    "verifiedOn": "2026-10-04"
   },
   "72E57419-F7ED-5B49-A60F-E1EE21ED1AF7": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-13",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=4724",
    "ourEnd": "Seattle, WA",
@@ -2143,14 +2226,14 @@
    "verifiedOn": "2026-10-04"
   },
   "73AA71BE-E16F-59B2-8368-450BABC8FBE3": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-06",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235230&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
-   "ourNights": 9,
+   "ourNights": 7,
    "ship": "Norwegian Joy",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-06aug2027.html",
-   "status": "mismatch",
+   "status": "match",
    "theirEnd": "Seattle, Washington",
    "theirName": "Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria",
    "theirNights": 7,
@@ -2159,7 +2242,8 @@
     "Inside": 1269,
     "Oceanview": 1849,
     "Suite": 3039
-   }
+   },
+   "verifiedOn": "2026-10-06"
   },
   "73E46D41-7B50-5A3A-9272-6484009DC38A": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -2170,6 +2254,15 @@
    "ship": "Royal Princess",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html",
    "status": "error"
+  },
+  "7472A709-C30A-5C8A-BB91-477EC0D93941": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-04-27",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 7,
+   "ship": "American Constellation",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-27apr2027.html",
+   "status": "not_listed"
   },
   "75393E0F-56DC-57D5-8120-B31E3DE2D960": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -2216,7 +2309,7 @@
    "verifiedOn": "2026-10-04"
   },
   "789FE6DD-9477-51C8-84F4-5916081B7A6D": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-16",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-16&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -2256,7 +2349,7 @@
    "verifiedOn": "2026-10-04"
   },
   "7AD9291F-7523-5E36-AF56-04CB44583C7C": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-04-20",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/legend/7-days/ga2/?sailDate=04202027",
    "ourEnd": "Seattle, WA",
@@ -2268,9 +2361,10 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1304,
+    "Balcony": 1184,
     "Interior": 769,
-    "Oceanview": 984
+    "Oceanview": 984,
+    "Suite": 2754
    },
    "verifiedOn": "2026-10-04"
   },
@@ -2318,6 +2412,15 @@
     "Vancouver, Canada"
    ],
    "theirPrices": {}
+  },
+  "7C2E32DB-EACB-5F32-BD91-6AEC893C52E9": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-07-02",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-02jul2027.html",
+   "status": "not_listed"
   },
   "7D928539-20A9-5DAD-B56A-18EF0BAF4E4C": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -2375,7 +2478,7 @@
    "verifiedOn": "2026-10-04"
   },
   "7F28DCEC-F875-57BD-85A3-0CCEB03024F7": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-21",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-experience-from-seattle-on-voyager/VY07SEA-2105097221?sail-date=2027-05-21&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -2415,7 +2518,7 @@
    "verifiedOn": "2026-10-05"
   },
   "805B3A2C-11A5-5A8C-A606-999A0876C18E": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-11",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/legend/7-days/ga2/?sailDate=05112027",
    "ourEnd": "Seattle, WA",
@@ -2427,10 +2530,10 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1314,
-    "Interior": 794,
-    "Oceanview": 1014,
-    "Suite": 2407
+    "Balcony": 1184,
+    "Interior": 759,
+    "Oceanview": 994,
+    "Suite": 2237
    },
    "verifiedOn": "2026-10-04"
   },
@@ -2493,6 +2596,15 @@
     "Verandah": 1499
    },
    "verifiedOn": "2026-10-04"
+  },
+  "83FC071F-3D3B-5A5C-B1B7-CEF6E80A372D": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-05-13",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 11,
+   "ship": "Oceania Riviera",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-13may2027.html",
+   "status": "not_listed"
   },
   "8540856A-A436-5921-BC54-E6D48326BFF8": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -2584,7 +2696,7 @@
    }
   },
   "8785FC67-6B24-52DB-BCA1-671428FF9548": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-04-27",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/legend/7-days/ga2/?sailDate=04272027",
    "ourEnd": "Seattle, WA",
@@ -2596,10 +2708,10 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1294,
-    "Interior": 764,
-    "Oceanview": 974,
-    "Suite": 2504
+    "Balcony": 1154,
+    "Interior": 724,
+    "Oceanview": 944,
+    "Suite": 2444
    },
    "verifiedOn": "2026-10-04"
   },
@@ -2639,7 +2751,7 @@
    "verifiedOn": "2026-10-05"
   },
   "8A83E136-8EDB-525D-BDA3-F0E9163E4C4F": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-09",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-09&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -2659,7 +2771,7 @@
    "verifiedOn": "2026-10-04"
   },
   "8ADC740C-A906-5451-B288-D339E97FFF1E": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-30",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-30&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -2750,6 +2862,25 @@
    "theirNights": 7,
    "theirPrices": {},
    "verifiedOn": "2026-10-04"
+  },
+  "92EA0C5C-4ADA-5F61-83F2-245E0F7F8E61": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-04-30",
+   "error": "no listings parsed (throttled or page changed)",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 9,
+   "ship": "Star Princess",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-30apr2027.html",
+   "status": "error"
+  },
+  "931B54B8-203C-5B3E-B353-10AA6CB29109": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-05-18",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 7,
+   "ship": "American Constellation",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-18may2027.html",
+   "status": "not_listed"
   },
   "941A6006-F786-577A-86EF-49F5E01BB1C1": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -2850,6 +2981,15 @@
    "theirPrices": {},
    "verifiedOn": "2026-10-04"
   },
+  "99953EEC-742A-514F-8E92-A0D897D6CE64": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-06-13",
+   "ourEnd": "Juneau, AK",
+   "ourNights": 12,
+   "ship": "Wilderness Explorer",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-13jun2027.html",
+   "status": "not_listed"
+  },
   "9A0EF209-E899-5224-9751-A78619B85649": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
    "date": "2027-06-07",
@@ -2890,8 +3030,17 @@
    },
    "verifiedOn": "2026-10-04"
   },
+  "9AF3FD76-171A-5F1C-8FA6-C8B2E6666A00": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-04-20",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 7,
+   "ship": "American Constellation",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-20apr2027.html",
+   "status": "not_listed"
+  },
   "9DA3A27B-3786-5479-AEF4-0CF1E5AE9142": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-06",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-08-06&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -2911,7 +3060,7 @@
    "verifiedOn": "2026-10-04"
   },
   "9E8CEC57-D4CA-549F-A296-06DF2BAD8803": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-02",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-02&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -3005,6 +3154,15 @@
    },
    "verifiedOn": "2026-10-04"
   },
+  "A08A0F82-2F2A-519A-9848-11FB0D1AA611": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-08-13",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-13aug2027.html",
+   "status": "not_listed"
+  },
   "A32F5E86-8A39-568F-BC33-4A93A1729703": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
    "date": "2027-10-02",
@@ -3014,6 +3172,15 @@
    "ship": "Norwegian Bliss",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html",
    "status": "error"
+  },
+  "A333FF73-26F6-53BE-9BEE-73A1010B88CB": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-08-20",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-20aug2027.html",
+   "status": "not_listed"
   },
   "A38C9BF4-2A98-5DD0-926E-ACCA208DEE1B": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -3166,7 +3333,7 @@
    "verifiedOn": "2026-10-05"
   },
   "A7FF97C9-41C2-5FF4-9255-9242E45C306C": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-04",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-06-04&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -3236,7 +3403,7 @@
    "verifiedOn": "2026-10-04"
   },
   "AABFAD3A-D5A1-542A-9ADC-A3CCFAA80D99": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-28",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-05-28&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -3304,8 +3471,18 @@
    },
    "verifiedOn": "2026-10-04"
   },
+  "AE6EBC9F-CE13-58F2-A824-265F4061CF66": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-04-23",
+   "error": "no listings parsed (throttled or page changed)",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 1,
+   "ship": "Eurodam",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-23apr2027.html",
+   "status": "error"
+  },
   "B344459B-247A-5064-87C0-2A6031F59951": {
-   "checkedAt": "2026-10-05T09:48:13+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-13",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-08-13&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -3573,7 +3750,7 @@
    "verifiedOn": "2026-10-04"
   },
   "C26D719A-3BE0-584B-911C-B1177FC482EB": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-18",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-06-18&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -3688,7 +3865,7 @@
    "verifiedOn": "2026-10-04"
   },
   "C6520DA7-F3FF-5843-973B-C318131E03B6": {
-   "checkedAt": "2026-10-05T09:48:13+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-20",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAJNUSGYSITHGCICYKTNVICSEA-NIC-JOY10SEAICYJNUKTNSITVICSEA&amp;packageId=24245720&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -3718,7 +3895,7 @@
    }
   },
   "C6B8EB0E-B02D-51ED-8F3B-C7E8AF9D8D59": {
-   "checkedAt": "2026-10-05T09:48:13+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-20",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-08-20&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -3776,6 +3953,15 @@
     "Outside": 1604
    },
    "verifiedOn": "2026-10-04"
+  },
+  "C77CDC23-E3EE-5360-B71A-E84088047881": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-06-04",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-04jun2027.html",
+   "status": "not_listed"
   },
   "C8E6B93F-239A-5D92-9DCA-1891CA11669B": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -3906,14 +4092,14 @@
    "theirPrices": {}
   },
   "CE94FF78-2394-5430-A6E9-14F22E474424": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-09",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAJNUICYKTNVICSEA-NIC-JOY7SEAICYJNUKTNVICSEA&amp;packageId=24235226&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
-   "ourNights": 9,
+   "ourNights": 7,
    "ship": "Norwegian Joy",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-09jul2027.html",
-   "status": "mismatch",
+   "status": "match",
    "theirEnd": "Seattle, Washington",
    "theirName": "Alaska Round-trip Seattle: Juneau, Ketchikan & Victoria",
    "theirNights": 7,
@@ -3922,17 +4108,18 @@
     "Inside": 1419,
     "Oceanview": 1919,
     "Suite": 3469
-   }
+   },
+   "verifiedOn": "2026-10-06"
   },
   "CF5CA345-F83B-5BFA-9CBA-17A85733E8ED": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-30",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235229&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
-   "ourNights": 9,
+   "ourNights": 7,
    "ship": "Norwegian Joy",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-30jul2027.html",
-   "status": "mismatch",
+   "status": "match",
    "theirEnd": "Seattle, Washington",
    "theirName": "Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria",
    "theirNights": 7,
@@ -3941,10 +4128,11 @@
     "Inside": 1299,
     "Oceanview": 1879,
     "Suite": 3039
-   }
+   },
+   "verifiedOn": "2026-10-06"
   },
   "CFBB8DF4-7E5C-516A-85FF-563132ABAF74": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-11",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-06-11&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -4004,7 +4192,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D04EC1A6-3A82-5084-AC29-A11DCD01223C": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-23",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-23&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -4084,7 +4272,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D31C16F9-1D10-5CAC-B7E7-7645DC64A005": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-04",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-06-04&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -4122,6 +4310,15 @@
     "Verandah": 2899
    },
    "verifiedOn": "2026-10-04"
+  },
+  "D62C9806-8168-5429-AF93-C1F83CC459A5": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-07-16",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-16jul2027.html",
+   "status": "not_listed"
   },
   "D64F5AAD-1B4D-5FEF-AC80-6B88B63DAE5F": {
    "checkedAt": "2026-10-05T09:48:13+00:00",
@@ -4204,7 +4401,7 @@
    "verifiedOn": "2026-10-04"
   },
   "DAA11D24-7CE7-554E-A84B-788BBF963FA5": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-06-25",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-06-25&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -4237,6 +4434,15 @@
    "theirNights": 7,
    "theirPrices": {},
    "verifiedOn": "2026-10-04"
+  },
+  "DAD32F4E-1FEF-52D0-833C-EFFD979804F6": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-08-23",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 10,
+   "ship": "Oceania Riviera",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-23aug2027.html",
+   "status": "not_listed"
   },
   "DB7E5831-884F-56AE-9A5B-C6BC335A2DD8": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -4281,7 +4487,7 @@
    "theirPrices": {}
   },
   "DC0D5061-9481-564F-B4A0-C67E1C8B7E0B": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-23",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-23&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -4316,7 +4522,7 @@
    "verifiedOn": "2026-10-04"
   },
   "DD7DE9BF-0F07-53F6-8227-5A57E874C5ED": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-30",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-30&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -4505,14 +4711,14 @@
    "verifiedOn": "2026-10-04"
   },
   "E6AE35C8-5A38-55C0-B731-0296C94149AE": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-16",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235227&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
-   "ourNights": 9,
+   "ourNights": 7,
    "ship": "Norwegian Joy",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-16jul2027.html",
-   "status": "mismatch",
+   "status": "match",
    "theirEnd": "Seattle, Washington",
    "theirName": "Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria",
    "theirNights": 7,
@@ -4521,7 +4727,8 @@
     "Inside": 1299,
     "Oceanview": 1869,
     "Suite": 3039
-   }
+   },
+   "verifiedOn": "2026-10-06"
   },
   "E6BB94BD-DAEE-5830-817B-130C9216FE1E": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -4542,6 +4749,15 @@
     "Verandah": 2064
    },
    "verifiedOn": "2026-10-04"
+  },
+  "E7AA5FE7-565B-5A0C-AF8F-5A451B041DB5": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-06-18",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-18jun2027.html",
+   "status": "not_listed"
   },
   "E979456C-A023-5DA0-A7AE-5DB24BFE4426": {
    "checkedAt": "2026-10-05T09:48:13+00:00",
@@ -4678,6 +4894,15 @@
    },
    "verifiedOn": "2026-10-05"
   },
+  "F1E169BD-A923-5703-9CE4-769BF71331CC": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-05-14",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 7,
+   "ship": "Celebrity Edge",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-14may2027.html",
+   "status": "not_listed"
+  },
   "F1FBAFD8-BC83-539F-919B-2802EFD3248D": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
    "date": "2027-05-27",
@@ -4729,14 +4954,14 @@
    "verifiedOn": "2026-10-04"
   },
   "F4E8B4D9-A5CE-5974-BE69-539DEC06FB63": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-07-02",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235225&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
-   "ourNights": 9,
+   "ourNights": 7,
    "ship": "Norwegian Joy",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-02jul2027.html",
-   "status": "mismatch",
+   "status": "match",
    "theirEnd": "Seattle, Washington",
    "theirName": "Alaska Round-trip Seattle: Icy Strait Point, Ketchikan & Victoria",
    "theirNights": 7,
@@ -4745,7 +4970,8 @@
     "Inside": 1339,
     "Oceanview": 1799,
     "Suite": 2999
-   }
+   },
+   "verifiedOn": "2026-10-06"
   },
   "F590D53C-B02F-5571-A756-D86A61CED480": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
@@ -4896,6 +5122,24 @@
    },
    "verifiedOn": "2026-10-04"
   },
+  "F97489A8-15CE-5ACE-8CBC-FAC0A088BCB5": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-05-21",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 8,
+   "ship": "American Spirit",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-21may2027.html",
+   "status": "not_listed"
+  },
+  "F996A2F6-9A5D-5490-BCA7-B81C23E778B1": {
+   "checkedAt": "2026-10-06T09:41:52+00:00",
+   "date": "2027-05-11",
+   "ourEnd": "Seattle, WA",
+   "ourNights": 9,
+   "ship": "Brilliant Lady",
+   "source": "https://www.cruisetimetables.com/fromseattlewashington-11may2027.html",
+   "status": "not_listed"
+  },
   "F9E9EEC0-657C-5945-BB9F-98A7AF7B1855": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
    "date": "2027-06-19",
@@ -4937,7 +5181,7 @@
    "verifiedOn": "2026-10-04"
   },
   "FA5941FB-13F3-5173-B40B-BF619E5BC92B": {
-   "checkedAt": "2026-10-05T09:48:13+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-08-13",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-08-13&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -4957,7 +5201,7 @@
    "verifiedOn": "2026-10-05"
   },
   "FA91D59C-FC84-5892-A3A7-3B26C53BC757": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-21",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-05-21&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -4997,14 +5241,14 @@
    "verifiedOn": "2026-10-04"
   },
   "FF076306-9DBC-5FA5-AB56-D8B44DEDE89D": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-06T09:41:52+00:00",
    "date": "2027-05-28",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAICYSITJNUKTNVICSEA-NIC-JOY10SEAICYJNUKTNSITVICSEA&amp;packageId=24235220&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
-   "ourNights": 9,
+   "ourNights": 10,
    "ship": "Norwegian Joy",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-28may2027.html",
-   "status": "mismatch",
+   "status": "match",
    "theirEnd": "Seattle, Washington",
    "theirName": "Alaska Round-trip Seattle: Skagway, Juneau, Sitka & Victoria",
    "theirNights": 10,
@@ -5013,7 +5257,8 @@
     "Inside": 1699,
     "Oceanview": 2169,
     "Suite": 3569
-   }
+   },
+   "verifiedOn": "2026-10-06"
   },
   "FF0EAD2D-40B4-52F2-9A3C-FDD3FC8CDD59": {
    "checkedAt": "2026-10-04T07:08:37+00:00",
