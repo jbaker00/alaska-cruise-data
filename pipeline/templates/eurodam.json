@@ -491,5 +491,54 @@
       "note": "Verified: standard Alaska round-trip (cruisetimetables.com)."
     }
   ],
-  "imageCredit": "Photo: P. Kemps at nl.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
+  "imageCredit": "Photo: P. Kemps at nl.wikipedia / Wikimedia Commons (CC BY-SA 3.0)",
+  "extraSailings": [
+    {
+      "date": "2027-04-23",
+      "note": "1-night Vancouver → Seattle (season opener).",
+      "durationNights": 1,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Board in Vancouver at 4 PM for an overnight sail to Seattle — the shortest cruise that ends in Seattle. Seattle tip: get to Vancouver by one-way rental car (several agencies take returns near Canada Place), Amtrak Cascades or bus — bring your passport — then sail home and ride straight back from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Disembark in Seattle — you're home. Rideshare or light rail from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Estimated fare for the 1-night Vancouver → Seattle sailing.",
+          "pricePerPerson": 139,
+          "squareFeet": 185,
+          "type": "Interior"
+        },
+        {
+          "description": "Estimated fare for the 1-night Vancouver → Seattle sailing.",
+          "pricePerPerson": 159,
+          "squareFeet": 207,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Estimated fare for the 1-night Vancouver → Seattle sailing.",
+          "pricePerPerson": 189,
+          "squareFeet": 254,
+          "type": "Balcony"
+        },
+        {
+          "description": "Estimated fare for the 1-night Vancouver → Seattle sailing.",
+          "pricePerPerson": 299,
+          "squareFeet": 388,
+          "type": "Suite"
+        }
+      ]
+    }
+  ]
 }

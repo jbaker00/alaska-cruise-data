@@ -460,5 +460,201 @@
       "durationNights": 11
     }
   ],
-  "imageCredit": "Photo: Christian Ferrer / Wikimedia Commons (CC BY-SA 4.0)"
+  "imageCredit": "Photo: Christian Ferrer / Wikimedia Commons (CC BY-SA 4.0)",
+  "extraSailings": [
+    {
+      "date": "2027-05-13",
+      "note": "11-night 'Worlds of Wonder', Vancouver → Seattle.",
+      "durationNights": 11,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Board Riviera in Vancouver for 11 nights through the Inside Passage, ending in Seattle. Seattle tip: get to Vancouver by one-way rental car (several agencies take returns near Canada Place), Amtrak Cascades or bus — bring your passport — then sail home and ride straight back from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Sitka, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Sitka, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Haines, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Haines, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Juneau, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Wrangell, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Wrangell, AK"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Klawock, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Klawock, AK"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Victoria, BC",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 12,
+          "description": "Disembark in Seattle — you're home. Rideshare or light rail from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Veranda stateroom — Oceania Riviera's entry category features gorgeous teak verandas, Tranquility Beds, and the finest cuisine at sea included in every sailing.",
+          "pricePerPerson": 4099,
+          "squareFeet": 282,
+          "type": "Balcony"
+        },
+        {
+          "description": "Concierge Level Veranda stateroom — enhanced amenities, priority embarkation, upgraded welcome amenities, and access to the Concierge Lounge.",
+          "pricePerPerson": 3699,
+          "squareFeet": 282,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Penthouse Suite with butler service, Bulgari bath amenities, and access to the exclusive Privée private dining room. The finest non-world-cruise Alaska suite available.",
+          "pricePerPerson": 5899,
+          "squareFeet": 420,
+          "type": "Suite"
+        }
+      ]
+    },
+    {
+      "date": "2027-08-23",
+      "note": "10-night 'Gold Rush & Glaciers', Vancouver → Seattle.",
+      "durationNights": 10,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Board Riviera in Vancouver for 10 nights of Alaska ports, ending in Seattle. Seattle tip: get to Vancouver by one-way rental car (several agencies take returns near Canada Place), Amtrak Cascades or bus — bring your passport — then sail home and ride straight back from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Sitka, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Sitka, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Skagway, AK",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Juneau, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Wrangell, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Wrangell, AK"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Sailing south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Victoria, BC",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Victoria, BC"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Disembark in Seattle — you're home. Rideshare or light rail from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Veranda stateroom — Oceania Riviera's entry category features gorgeous teak verandas, Tranquility Beds, and the finest cuisine at sea included in every sailing.",
+          "pricePerPerson": 4499,
+          "squareFeet": 282,
+          "type": "Balcony"
+        },
+        {
+          "description": "Concierge Level Veranda stateroom — enhanced amenities, priority embarkation, upgraded welcome amenities, and access to the Concierge Lounge.",
+          "pricePerPerson": 4099,
+          "squareFeet": 282,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Penthouse Suite with butler service, Bulgari bath amenities, and access to the exclusive Privée private dining room. The finest non-world-cruise Alaska suite available.",
+          "pricePerPerson": 6299,
+          "squareFeet": 420,
+          "type": "Suite"
+        }
+      ]
+    }
+  ]
 }

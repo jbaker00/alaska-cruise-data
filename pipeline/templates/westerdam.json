@@ -306,5 +306,96 @@
       ]
     }
   ],
-  "imageCredit": "Photo: PhilipRJ 89 / Wikimedia Commons (CC BY-SA 4.0)"
+  "imageCredit": "Photo: PhilipRJ 89 / Wikimedia Commons (CC BY-SA 4.0)",
+  "extraSailings": [
+    {
+      "date": "2027-09-12",
+      "note": "7-night Alaska with Glacier Bay, Vancouver → Seattle.",
+      "durationNights": 7,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Board Westerdam in Vancouver for a week in Alaska that ends in Seattle. Seattle tip: get to Vancouver by one-way rental car (several agencies take returns near Canada Place), Amtrak Cascades or bus — bring your passport — then sail home and ride straight back from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Juneau, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Skagway, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Ranger-narrated scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Glacier Bay National Park"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 7,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Sailing south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Disembark in Seattle — you're home. Rideshare or light rail from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Holland America interior stateroom with Mariner's Dream bed and premium bath amenities.",
+          "pricePerPerson": 1019,
+          "squareFeet": 151,
+          "type": "Interior"
+        },
+        {
+          "description": "Ocean view stateroom with large picture window for Inside Passage scenery.",
+          "pricePerPerson": 1199,
+          "squareFeet": 185,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Verandah stateroom — a private outdoor seat for Glacier Bay.",
+          "pricePerPerson": 1599,
+          "squareFeet": 254,
+          "type": "Balcony"
+        },
+        {
+          "description": "Neptune Suite with separate living area, oversized verandah, and Neptune Lounge concierge access.",
+          "pricePerPerson": 3299,
+          "squareFeet": 506,
+          "type": "Suite"
+        }
+      ]
+    }
+  ]
 }

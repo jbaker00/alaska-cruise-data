@@ -168,6 +168,21 @@ def build(schedules: list[dict], templates: dict[str, dict]):
                 cruises.append(make_cruise(variant, dep, s["preliminary"], variant=i))
                 notes.append(f"{t['shipName']} {call['date']} (also sold): {extra.get('note', '')}")
 
+    # Hand-added sailings that never appear as a Seattle departure in the Port schedule:
+    # one-ways that START elsewhere and END in Seattle (Vancouver → Seattle), and small ships
+    # that use other docks. Template key `extraSailings`: [{date, note, ...template overrides}].
+    years = {s["year"] for s in schedules}
+    prelim_years = {s["year"] for s in schedules if s["preliminary"]}
+    for t in {id(v): v for v in templates.values()}.values():
+        for i, extra in enumerate(t.get("extraSailings", []), start=1):
+            dep = date.fromisoformat(extra["date"])
+            if dep.year not in years:
+                continue
+            v = {**t, **{k: val for k, val in extra.items() if k in TEMPLATE_FIELDS | OPTIONAL_FIELDS}}
+            cruises.append(make_cruise(v, dep, dep.year in prelim_years and extra.get("fromPortSchedule", False),
+                                       variant=100 + i))
+            notes.append(f"{t['shipName']} {extra['date']} (extra sailing): {extra.get('note', '')}")
+
     # Anomalies: a ship can't depart again before its previous voyage returns.
     anomalies = []
     for ship, deps in by_ship.items():

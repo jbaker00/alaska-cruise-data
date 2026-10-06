@@ -237,5 +237,96 @@
       ]
     }
   ],
-  "imageCredit": "Photo: Jjerome78 / Wikimedia Commons (CC BY-SA 4.0)"
+  "imageCredit": "Photo: Jjerome78 / Wikimedia Commons (CC BY-SA 4.0)",
+  "extraSailings": [
+    {
+      "date": "2027-05-14",
+      "note": "7-night Alaska Dawes Glacier, Vancouver → Seattle (season opener).",
+      "durationNights": 7,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Board Celebrity Edge in Vancouver for its first Alaska week of 2027, ending in Seattle. Seattle tip: get to Vancouver by one-way rental car (several agencies take returns near Canada Place), Amtrak Cascades or bus — bring your passport — then sail home and ride straight back from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Fjord cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Endicott Arm & Dawes Glacier"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Juneau, AK",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Skagway, AK",
+          "hoursInPort": 11,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Two sea days south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Disembark in Seattle — you're home. Rideshare or light rail from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Celebrity Edge interior stateroom — refined design, premium linens, and spa-inspired bath amenities set Celebrity apart from the crowd.",
+          "pricePerPerson": 708,
+          "squareFeet": 183,
+          "type": "Interior"
+        },
+        {
+          "description": "Edge Stateroom with infinite veranda — Celebrity's revolutionary design blurs the line between inside and out, transforming your room into a glass-enclosed outdoor space.",
+          "pricePerPerson": 878,
+          "squareFeet": 242,
+          "type": "Ocean View"
+        },
+        {
+          "description": "AquaClass stateroom with veranda — includes spa-focused amenities, daily access to the Persian Garden, and exclusive seating at Blu restaurant.",
+          "pricePerPerson": 1338,
+          "squareFeet": 239,
+          "type": "Balcony"
+        },
+        {
+          "description": "The Retreat Sky Suite — butler service, dedicated Retreat Host, private Retreat sundeck with pool, and exclusive Luminae restaurant reserved for suite guests.",
+          "pricePerPerson": 3155,
+          "squareFeet": 417,
+          "type": "Suite"
+        }
+      ]
+    }
+  ]
 }

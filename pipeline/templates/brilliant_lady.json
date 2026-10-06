@@ -222,5 +222,97 @@
       ]
     }
   ],
-  "imageCredit": "Photo: Aztec246 / Wikimedia Commons (CC BY-SA 4.0)"
+  "imageCredit": "Photo: Aztec246 / Wikimedia Commons (CC BY-SA 4.0)",
+  "extraSailings": [
+    {
+      "date": "2027-05-11",
+      "note": "9-night Alaska, Vancouver → Seattle (adults only).",
+      "durationNights": 9,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Board Brilliant Lady in Vancouver for 9 adults-only nights that end in Seattle. Seattle tip: get to Vancouver by one-way rental car (several agencies take returns near Canada Place), Amtrak Cascades or bus — bring your passport — then sail home and ride straight back from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Juneau, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Skagway, AK",
+          "hoursInPort": 11,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Scenic cruising at Hubbard Glacier.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Hubbard Glacier"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Icy Strait Point, AK",
+          "hoursInPort": 10,
+          "isCruisingDay": false,
+          "name": "Icy Strait Point, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 8,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Two sea days south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Disembark in Seattle — you're home. Rideshare or light rail from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Sea View cabin — Virgin Voyages' entry-level category features designer interiors and a hammock in every cabin. All dining and gratuities included.",
+          "pricePerPerson": 1252,
+          "squareFeet": 185,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Sea Terrace cabin — private terrace with hammock for Alaska scenery watching. All 20+ restaurants and gratuities included in every fare.",
+          "pricePerPerson": 1999,
+          "squareFeet": 225,
+          "type": "Balcony"
+        },
+        {
+          "description": "Massive Brilliant Suite with enormous private terrace, in-suite bar stocked daily, and RockStar Agent handling every need before and during the voyage.",
+          "pricePerPerson": 4999,
+          "squareFeet": 1380,
+          "type": "Suite"
+        }
+      ]
+    }
+  ]
 }

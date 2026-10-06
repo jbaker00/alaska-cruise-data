@@ -1,0 +1,219 @@
+{
+  "shipName": "Wilderness Explorer",
+  "aliases": [],
+  "cruiseLine": "UnCruise Adventures",
+  "durationNights": 12,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Board UnCruise's 76-guest Wilderness Explorer at Fishermen's Terminal and sail through the Ballard Locks.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle (Fishermen's Terminal)"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Boat-only island of sandstone formations, tidepools and forest trails.",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Sucia Island, San Juan Islands"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Two days cruising the BC coast.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "At Sea – Inside Passage"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Kayak and skiff among granite cliffs and waterfalls.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Misty Fjords National Monument"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Ketchikan, AK",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Ketchikan, AK"
+    },
+    {
+      "dayNumber": 7,
+      "description": "Wilderness day — hike, kayak, paddleboard.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Thomas Bay"
+    },
+    {
+      "dayNumber": 8,
+      "description": "Brown-bear country and quiet coves.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Chichagof Island"
+    },
+    {
+      "dayNumber": 9,
+      "description": "Icy Strait Point, AK",
+      "hoursInPort": 6,
+      "isCruisingDay": false,
+      "name": "Icy Strait Point, AK"
+    },
+    {
+      "dayNumber": 10,
+      "description": "Ranger-led day among tidewater glaciers.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "Glacier Bay National Park"
+    },
+    {
+      "dayNumber": 13,
+      "description": "Disembark in Juneau — this voyage ends in Alaska.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Juneau, AK"
+    }
+  ],
+  "cabinCategories": [
+    {
+      "description": "Navigator cabin with window — every cabin on this 76-guest ship has a view.",
+      "pricePerPerson": 10800,
+      "squareFeet": 120,
+      "type": "Ocean View"
+    },
+    {
+      "description": "Commander suite with larger windows and sitting area.",
+      "pricePerPerson": 12900,
+      "squareFeet": 190,
+      "type": "Suite"
+    }
+  ],
+  "amenityCategories": [
+    "Outdoor Activities",
+    "All Inclusive"
+  ],
+  "amenityHighlights": [
+    "76 guests",
+    "Kayaks, paddleboards & skiffs included",
+    "Naturalist guides",
+    "Glacier Bay with NPS rangers",
+    "Boards at Seattle's Fishermen's Terminal"
+  ],
+  "rating": 4.8,
+  "reviewCount": 0,
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Wilderness_Explorer_in_Alaska.jpg?width=800"
+  ],
+  "imageCredit": "Photo: Un-Cruise Adventures / Wikimedia Commons (CC BY-SA 3.0)",
+  "shipSize": "Small/Boutique",
+  "inclusions": [
+    "All meals, wine, beer & spirits",
+    "Kayaks, skiffs, paddleboards and guided hikes",
+    "Naturalist programs",
+    "Port taxes and fees"
+  ],
+  "exclusions": [
+    "Gratuities",
+    "Flights to/from Juneau",
+    "Spa treatments"
+  ],
+  "diningOptions": [
+    "Single dining room with locally sourced menus"
+  ],
+  "entertainmentOptions": [
+    "Naturalist talks",
+    "Wildlife watching from the bow"
+  ],
+  "hasKidsClub": false,
+  "hasAdultsOnly": false,
+  "hasSpa": false,
+  "hasCasino": false,
+  "isAllInclusive": true,
+  "reviewSnippet": "Expedition-style Alaska for active travelers: a 76-guest ship that leaves from Seattle's Fishermen's Terminal, with kayaking, hiking and Glacier Bay instead of big-ship ports. — Editor's note",
+  "overrides": [],
+  "extraSailings": [
+    {
+      "date": "2027-06-13",
+      "note": "12-night Seattle → Juneau via the San Juans, Misty Fjords and Glacier Bay (UnCruise).",
+      "durationNights": 12
+    },
+    {
+      "date": "2027-09-15",
+      "note": "12-night Juneau → Seattle (ends at Fishermen's Terminal).",
+      "durationNights": 12,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Board in Juneau for a 12-night small-ship voyage that ends in Seattle.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Ranger-led day among tidewater glaciers.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Glacier Bay National Park"
+        },
+        {
+          "dayNumber": 3,
+          "description": "Icy Strait Point, AK",
+          "hoursInPort": 6,
+          "isCruisingDay": false,
+          "name": "Icy Strait Point, AK"
+        },
+        {
+          "dayNumber": 4,
+          "description": "Brown-bear country and quiet coves.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Chichagof Island"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Wilderness day — hike, kayak, paddleboard.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Thomas Bay"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 6,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Kayak and skiff among granite cliffs.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Misty Fjords National Monument"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Two days cruising the BC coast.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 11,
+          "description": "Sucia Island, San Juan Islands",
+          "hoursInPort": 6,
+          "isCruisingDay": false,
+          "name": "Sucia Island, San Juan Islands"
+        },
+        {
+          "dayNumber": 13,
+          "description": "Arrive through the Ballard Locks at Fishermen's Terminal — you're home.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle (Fishermen's Terminal)"
+        }
+      ]
+    }
+  ]
+}

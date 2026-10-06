@@ -1,0 +1,176 @@
+{
+  "shipName": "American Constellation",
+  "aliases": [],
+  "cruiseLine": "American Cruise Lines",
+  "durationNights": 7,
+  "portsOfCall": [
+    {
+      "dayNumber": 1,
+      "description": "Board American Constellation in Seattle (some sailings use Tacoma) — a small American-flagged ship of about 100–175 guests.",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    },
+    {
+      "dayNumber": 2,
+      "description": "Gateway to the San Juans — Washington Park and Cap Sante views.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Anacortes, WA"
+    },
+    {
+      "dayNumber": 3,
+      "description": "Whale Museum, Lime Kiln Point orca viewing, and lavender farms.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Friday Harbor, San Juan Island"
+    },
+    {
+      "dayNumber": 4,
+      "description": "Narrow passages among the islands — watch for orcas, porpoises and bald eagles.",
+      "hoursInPort": 0,
+      "isCruisingDay": true,
+      "name": "San Juan Islands scenic cruising"
+    },
+    {
+      "dayNumber": 5,
+      "description": "Hurricane Ridge in Olympic National Park; optional ferry day to Victoria, BC.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Port Angeles, WA"
+    },
+    {
+      "dayNumber": 6,
+      "description": "Victorian seaport, Fort Worden and maritime history.",
+      "hoursInPort": 9,
+      "isCruisingDay": false,
+      "name": "Port Townsend, WA"
+    },
+    {
+      "dayNumber": 7,
+      "description": "'Little Norway' — Scandinavian bakeries and a waterfront boardwalk.",
+      "hoursInPort": 8,
+      "isCruisingDay": false,
+      "name": "Poulsbo, WA"
+    },
+    {
+      "dayNumber": 8,
+      "description": "Return to the Seattle area (some sailings end in Tacoma).",
+      "hoursInPort": 0,
+      "isCruisingDay": false,
+      "name": "Seattle, WA"
+    }
+  ],
+  "cabinCategories": [
+    {
+      "description": "Spacious stateroom with private balcony — the most common category on American's small ships.",
+      "pricePerPerson": 5390,
+      "squareFeet": 300,
+      "type": "Balcony"
+    },
+    {
+      "description": "Suite with separate sitting area and large balcony.",
+      "pricePerPerson": 8450,
+      "squareFeet": 450,
+      "type": "Suite"
+    }
+  ],
+  "imageURLs": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/2025-10-06_01_AMERICAN_CONSTELLATION_-_IMO_9838333_–_Port_Townsend_WA_USA.jpg?width=800"
+  ],
+  "amenityCategories": [
+    "Specialty Dining",
+    "Outdoor Activities",
+    "All Inclusive"
+  ],
+  "amenityHighlights": [
+    "Small American ship (~100–175 guests)",
+    "Every stateroom with a view",
+    "Shore excursions included in each port",
+    "Onboard naturalists & historians",
+    "Nightly cocktail hour",
+    "Docks right in town — no tenders"
+  ],
+  "rating": 4.7,
+  "reviewCount": 0,
+  "shipSize": "Small/Boutique",
+  "inclusions": [
+    "All meals and beverages including wine & beer",
+    "Guided shore excursion in every port",
+    "Wi-Fi",
+    "Nightly entertainment & lectures",
+    "Port taxes and fees"
+  ],
+  "exclusions": [
+    "Gratuities",
+    "Optional premium excursions",
+    "Airfare"
+  ],
+  "diningOptions": [
+    "Single open-seating dining room with regional Pacific Northwest menus",
+    "Afternoon tea & cocktail hour"
+  ],
+  "entertainmentOptions": [
+    "Naturalist & historian talks",
+    "Local musicians",
+    "Lounge with panoramic windows"
+  ],
+  "hasKidsClub": false,
+  "hasAdultsOnly": false,
+  "hasSpa": false,
+  "hasCasino": false,
+  "isAllInclusive": true,
+  "reviewSnippet": "Puget Sound & San Juan Islands without leaving Washington: a small, all-inclusive American Constellation voyage with orca country, Friday Harbor and Olympic National Park — a cruise for Seattle locals who want something closer to home. — Editor's note",
+  "overrides": [],
+  "extraSailings": [
+    {
+      "date": "2027-04-20",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-04-27",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-05-04",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-05-11",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-05-18",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-09-13",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-09-20",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-09-27",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-10-04",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-10-11",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-10-18",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    },
+    {
+      "date": "2027-10-25",
+      "note": "7-night Puget Sound & San Juan Islands (American Cruise Lines; dates from agency listings — verify)."
+    }
+  ],
+  "imageCredit": "Photo: Gordon Leggett / Wikimedia Commons (CC BY 4.0)"
+}

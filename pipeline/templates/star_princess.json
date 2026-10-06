@@ -204,5 +204,103 @@
       ]
     }
   ],
-  "imageCredit": "Photo: Shiphistory62 / Wikimedia Commons (CC BY-SA 4.0)"
+  "imageCredit": "Photo: Shiphistory62 / Wikimedia Commons (CC BY-SA 4.0)",
+  "extraSailings": [
+    {
+      "date": "2027-04-30",
+      "note": "9-night Inside Passage, Vancouver → Seattle.",
+      "durationNights": 9,
+      "portsOfCall": [
+        {
+          "dayNumber": 1,
+          "description": "Board in Vancouver for a 9-night Inside Passage voyage that ends in Seattle. Seattle tip: get to Vancouver by one-way rental car (several agencies take returns near Canada Place), Amtrak Cascades or bus — bring your passport — then sail home and ride straight back from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Vancouver, BC"
+        },
+        {
+          "dayNumber": 2,
+          "description": "Scenic cruising north.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 4,
+          "description": "North America's largest tidewater glacier.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Hubbard Glacier"
+        },
+        {
+          "dayNumber": 5,
+          "description": "Juneau, AK",
+          "hoursInPort": 13,
+          "isCruisingDay": false,
+          "name": "Juneau, AK"
+        },
+        {
+          "dayNumber": 6,
+          "description": "Skagway, AK",
+          "hoursInPort": 13,
+          "isCruisingDay": false,
+          "name": "Skagway, AK"
+        },
+        {
+          "dayNumber": 7,
+          "description": "Morning fjord cruising.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "Endicott Arm & Dawes Glacier"
+        },
+        {
+          "dayNumber": 8,
+          "description": "Ketchikan, AK",
+          "hoursInPort": 9,
+          "isCruisingDay": false,
+          "name": "Ketchikan, AK"
+        },
+        {
+          "dayNumber": 9,
+          "description": "Sailing south.",
+          "hoursInPort": 0,
+          "isCruisingDay": true,
+          "name": "At Sea – Inside Passage"
+        },
+        {
+          "dayNumber": 10,
+          "description": "Disembark in Seattle — you're home. Rideshare or light rail from the pier.",
+          "hoursInPort": 0,
+          "isCruisingDay": false,
+          "name": "Seattle, WA"
+        }
+      ],
+      "cabinCategories": [
+        {
+          "description": "Star Princess interior stateroom — Princess's newest ship features fresh design and the latest MedallionClass technology throughout.",
+          "pricePerPerson": 1550,
+          "squareFeet": 165,
+          "type": "Interior"
+        },
+        {
+          "description": "Bright ocean view stateroom on Princess's newest vessel. Large picture window and premium amenities.",
+          "pricePerPerson": 2000,
+          "squareFeet": 200,
+          "type": "Ocean View"
+        },
+        {
+          "description": "Private balcony stateroom on Star Princess — the newest and most modern in the Princess fleet. Glacier Bay views are extraordinary.",
+          "pricePerPerson": 2125,
+          "squareFeet": 229,
+          "type": "Balcony"
+        },
+        {
+          "description": "Sky Suite with floor-to-ceiling windows, private balcony, butler service, and exclusive access to the Reserve Collection restaurant and amenities.",
+          "pricePerPerson": 2650,
+          "squareFeet": 401,
+          "type": "Suite"
+        }
+      ]
+    }
+  ]
 }
