@@ -1,6 +1,6 @@
-# Weekly sailing verification — 2026-10-06
+# Weekly sailing verification — 2026-10-07
 
-Checked 302 upcoming sailings against cruisetimetables.com: **252 match**, **14 mismatch**, 24 not listed, 12 errors.
+Checked 351 upcoming sailings against cruisetimetables.com: **284 match**, **17 mismatch**, 35 not listed, 15 errors.
 
 Mismatches need a person to research (ideally in the cruise line's agent portal) and fix the ship template in `pipeline/templates/`. Nothing here changes the app data automatically.
 
@@ -20,6 +20,9 @@ Mismatches need a person to research (ideally in the cruise line's agent portal)
 - **Norwegian Joy 2027-08-20** — app: 9 nights → Seattle, WA; source: 10 nights → Seattle, Washington (Alaska Round-trip Seattle: Hubbard Glacier, Skagway & Juneau). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAJNUSGYSITHGCICYKTNVICSEA-NIC-JOY10SEAICYJNUKTNSITVICSEA&amp;packageId=24245720&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-20aug2027.html)
 - **Noordam 2027-08-22** — app: 7 nights → Seattle, WA; source: 14 nights → Seattle, Washington (Great Alaska Explorer). [line page](https://www.hollandamerica.com/en/us/find-a-cruise/a7l14a/n752) · [source](https://www.cruisetimetables.com/fromseattlewashington-22aug2027.html)
 - **Brilliant Lady 2027-08-24** — app: 7 nights → Seattle, WA; source: 9 nights → Seattle, Washington (Alaska: Inside Passage & Hubbard Glacier). [line page](https://www.virginvoyages.com/book/voyage-planner/pre-checkout?currencyCode=USD&amp;packageCode=9NSABC2&amp;voyageId=BR2708249NSABC2) · [source](https://www.cruisetimetables.com/fromseattlewashington-24aug2027.html)
+- **Carnival Spirit 2027-09-16** — app: 7 nights → Seattle, WA; source: 9 nights → Seattle, Washington (Alaska Inside Passage & Glacier). [line page](https://www.carnival.com/itinerary/9-day-alaska-inside-passage-and-glacier-cruise/seattle/spirit/9-days/ja3/?sailDate=09162027) · [source](https://www.cruisetimetables.com/fromseattlewashington-16sep2027.html)
+- **Norwegian Joy 2027-09-17** — app: 9 nights → Seattle, WA; source: 10 nights → Seattle, Washington (Alaska Round-trip Seattle: Skagway, Ketchikan & Sitka). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAKTNSITSGYICYJNUVICSEA-NIC-JOY10SEAICYJNUKTNSGYSITVICSEA&amp;packageId=24235222&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-17sep2027.html)
+- **Quantum of the Seas 2027-09-27** — app: 14 nights → Tokyo (Yokohama), Japan; source: 14 nights → Yokohama, Japan (Seattle To Tokyo Cruise). [line page](https://www.royalcaribbean.com/cruises/itinerary/14-night-seattle-to-tokyo-from-seattle-on-quantum/QN15SEA-2932669845?sail-date=2027-09-27&amp;currency=USD) · [source](https://www.cruisetimetables.com/fromseattlewashington-27sep2027.html)
 
 ## Not listed on the source site
 
@@ -47,6 +50,17 @@ Mismatches need a person to research (ideally in the cruise line's agent portal)
 - American Spirit 2027-08-13 (8 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-13aug2027.html)
 - American Spirit 2027-08-20 (8 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-20aug2027.html)
 - Oceania Riviera 2027-08-23 (10 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-23aug2027.html)
+- American Spirit 2027-08-27 (8 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-27aug2027.html)
+- American Spirit 2027-09-03 (8 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-03sep2027.html)
+- American Spirit 2027-09-10 (8 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-10sep2027.html)
+- Westerdam 2027-09-12 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-12sep2027.html)
+- American Constellation 2027-09-13 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-13sep2027.html)
+- Norwegian Jade 2027-09-14 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-14sep2027.html)
+- American Spirit 2027-09-17 (8 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-17sep2027.html)
+- Eurodam 2027-09-18 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-18sep2027.html)
+- American Constellation 2027-09-20 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-20sep2027.html)
+- American Constellation 2027-09-27 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-27sep2027.html)
+- Norwegian Joy 2027-09-27 (9 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-27sep2027.html)
 
 ## Fetch errors
 
@@ -59,6 +73,9 @@ Mismatches need a person to research (ideally in the cruise line's agent portal)
 - Eurodam 2027-09-11 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html)
 - Norwegian Bliss 2027-09-11 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html)
 - Royal Princess 2027-09-11 (10 nights → Vancouver, BC) — [source](https://www.cruisetimetables.com/fromseattlewashington-11sep2027.html)
+- Wilderness Explorer 2027-09-15 (12 nights → Seattle (Fishermen's Terminal)) — [source](https://www.cruisetimetables.com/fromseattlewashington-15sep2027.html)
+- Norwegian Jade 2027-09-28 (15 nights → Tokyo (Yokohama), Japan) — [source](https://www.cruisetimetables.com/fromseattlewashington-28sep2027.html)
 - Eurodam 2027-10-02 (21 nights → Fort Lauderdale, FL) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)
 - Eurodam 2027-10-02 (1 nights → Vancouver, BC) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)
 - Norwegian Bliss 2027-10-02 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-02oct2027.html)
+- American Constellation 2027-10-04 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-04oct2027.html)
