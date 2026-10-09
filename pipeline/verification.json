@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-10-08T09:46:40+00:00",
+ "checkedAt": "2026-10-09T09:37:18+00:00",
  "results": {
   "001E1712-3E32-5276-9675-5AA875DA70D5": {
    "checkedAt": "2026-10-06T09:41:52+00:00",
@@ -472,7 +472,7 @@
    "theirPrices": {}
   },
   "1506312A-F50D-5F85-95AF-18C16C478D3B": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-27",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/spirit/7-days/ga2/?sailDate=05272027",
    "ourEnd": "Seattle, WA",
@@ -484,10 +484,10 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1584,
-    "Interior": 974,
+    "Balcony": 1524,
+    "Interior": 944,
     "Oceanview": 1224,
-    "Suite": 2864
+    "Suite": 2954
    },
    "verifiedOn": "2026-10-04"
   },
@@ -511,23 +511,8 @@
    },
    "verifiedOn": "2026-10-04"
   },
-  "17D59F68-E866-5099-896C-FB9F516804EA": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
-   "date": "2026-10-08",
-   "lineUrl": "https://www.carnival.com/itinerary/16-day-panama-canal-cruise/seattle/spirit/16-days/jp9/?sailDate=10082026",
-   "ourEnd": "Mobile, AL",
-   "ourNights": 16,
-   "ship": "Carnival Spirit",
-   "source": "https://www.cruisetimetables.com/fromseattlewashington-08oct2026.html",
-   "status": "match",
-   "theirEnd": "Mobile, Alabama",
-   "theirName": "Panama Canal",
-   "theirNights": 16,
-   "theirPrices": {},
-   "verifiedOn": "2026-10-08"
-  },
   "17DB3296-774B-521E-974C-13224EA169C6": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-09-15",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle (Fishermen's Terminal)",
@@ -601,7 +586,7 @@
    "verifiedOn": "2026-10-05"
   },
   "1AA4196E-F3DA-59A6-88E0-F5C9620C1978": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-06-05",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=BLISS7SEASITJNUICYKTNVICSEA-NIC-BLISS7SEAICYJNUKTNSITVICSEA&amp;packageId=24218431&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -774,7 +759,7 @@
    "status": "not_listed"
   },
   "24806F2C-7537-5D26-9152-E7A4C2E9C24D": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-19",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY9SEASITSGYICYKTNVICSEA-NIC-JOY9SEAICYKTNSGYSITVICSEA&amp;packageId=24235204&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -838,7 +823,7 @@
    "verifiedOn": "2026-10-04"
   },
   "26E33F9F-BC03-5C32-8180-4162BA1BA3BD": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-22",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=BLISS7SEASITJNUICYKTNVICSEA-NIC-BLISS7SEAICYJNUKTNSITVICSEA&amp;packageId=24218429&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -858,7 +843,7 @@
    "verifiedOn": "2026-10-04"
   },
   "276B2A6E-B900-5807-A9E8-4684BE795E2C": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-23",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07c/n731",
    "ourEnd": "Seattle, WA",
@@ -872,7 +857,7 @@
    "theirPrices": {
     "Inside": 874,
     "Ocean View": 974,
-    "Suite": 2579,
+    "Suite": 2679,
     "Verandah": 1374
    },
    "verifiedOn": "2026-10-04"
@@ -1188,7 +1173,7 @@
    "verifiedOn": "2026-10-04"
   },
   "383123C8-AE56-5C2D-A451-1492EB8F1587": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-17",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-experience-from-seattle-on-quantum/QN07SEA-2105096757?sail-date=2027-05-17&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -1200,10 +1185,10 @@
    "theirName": "Alaska Experience Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1332,
-    "Deluxe": 2457,
+    "Balcony": 1392,
+    "Deluxe": 2483,
     "Interior": 829,
-    "Outside": 1000
+    "Outside": 990
    },
    "verifiedOn": "2026-10-04"
   },
@@ -1228,7 +1213,7 @@
    "verifiedOn": "2026-10-04"
   },
   "38DADE4A-B451-513D-8B02-74E7C9BC4F2F": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-10",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270510SEASEA&amp;itineraryCode=UY3G",
    "ourEnd": "Seattle, WA",
@@ -1476,7 +1461,7 @@
    "verifiedOn": "2026-10-04"
   },
   "42CD50C9-5049-5D2F-888E-49733438D6A2": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-10-18",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -1755,7 +1740,7 @@
    "verifiedOn": "2026-10-07"
   },
   "514A48F5-C141-5766-B2CE-CFAB5E568595": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-20",
    "lineUrl": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?currencyCode=USD&amp;packageCode=7NKJEV&amp;voyageId=BR2705207NKJEV",
    "ourEnd": "Seattle, WA",
@@ -1814,7 +1799,7 @@
    "verifiedOn": "2026-10-04"
   },
   "5368A93E-131F-51B9-B01D-22700A43E289": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-06-05",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07b/d742",
    "ourEnd": "Seattle, WA",
@@ -1873,7 +1858,7 @@
    "verifiedOn": "2026-10-04"
   },
   "56C92319-0F6F-55F4-B3D3-699DD80B78ED": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-15",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07d/d737",
    "ourEnd": "Seattle, WA",
@@ -2160,7 +2145,7 @@
    "verifiedOn": "2026-10-05"
   },
   "61EB7256-DDF0-5151-897C-58E7305A040E": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-16",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07c/n730",
    "ourEnd": "Seattle, WA",
@@ -2175,7 +2160,7 @@
     "Inside": 884,
     "Ocean View": 984,
     "Suite": 2589,
-    "Verandah": 1384
+    "Verandah": 1324
    },
    "verifiedOn": "2026-10-04"
   },
@@ -2220,7 +2205,7 @@
    "verifiedOn": "2026-10-05"
   },
   "62994EAA-2320-50EC-B612-FF9F8AE6B82E": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-24",
    "lineUrl": "https://www.oceaniacruises.com/cruises/RVA270524",
    "ourEnd": "Seattle, WA",
@@ -2295,7 +2280,7 @@
    "verifiedOn": "2026-10-08"
   },
   "63D26483-3155-5F07-99DC-E79D327A1E48": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-30",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07c/n734",
    "ourEnd": "Seattle, WA",
@@ -2315,7 +2300,7 @@
    "verifiedOn": "2026-10-04"
   },
   "65329B3E-F372-5885-8AEC-40F4D13562AF": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-16",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=4720",
    "ourEnd": "Seattle, WA",
@@ -2326,11 +2311,7 @@
    "theirEnd": "Seattle, Washington",
    "theirName": "Inside Passage (Roundtrip Seattle)",
    "theirNights": 7,
-   "theirPrices": {
-    "Balcony": 1674,
-    "Interior": 939,
-    "Suite": 3834
-   },
+   "theirPrices": {},
    "verifiedOn": "2026-10-04"
   },
   "659B8761-812F-5931-8C17-DFE4FB20F84E": {
@@ -2349,7 +2330,7 @@
    "verifiedOn": "2026-10-05"
   },
   "65C9729F-43AD-5460-9FC8-A4C3092355EF": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-06-05",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=1718",
    "ourEnd": "Seattle, WA",
@@ -2794,7 +2775,7 @@
    "status": "not_listed"
   },
   "7D928539-20A9-5DAD-B56A-18EF0BAF4E4C": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-06-01",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/legend/7-days/ga2/?sailDate=06012027",
    "ourEnd": "Seattle, WA",
@@ -2806,7 +2787,7 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1694,
+    "Balcony": 1634,
     "Interior": 1054,
     "Oceanview": 1284,
     "Suite": 2924
@@ -2909,7 +2890,7 @@
    "verifiedOn": "2026-10-04"
   },
   "81B4911D-E823-5C2A-A56F-50413095563B": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-16",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203312&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -3364,7 +3345,7 @@
    "verifiedOn": "2026-10-07"
   },
   "92EA0C5C-4ADA-5F61-83F2-245E0F7F8E61": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-04-30",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -3468,18 +3449,19 @@
    "verifiedOn": "2026-10-04"
   },
   "975A22E1-1FA9-5DEE-BD4E-401351E41D05": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-06-03",
    "lineUrl": "https://www.oceaniacruises.com/cruises/RVA270603",
    "ourEnd": "Seattle, WA",
-   "ourNights": 10,
+   "ourNights": 11,
    "ship": "Oceania Riviera",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-03jun2027.html",
-   "status": "mismatch",
+   "status": "match",
    "theirEnd": "Seattle, Washington",
    "theirName": "Dramatic Alaska Seattle to Seattle",
    "theirNights": 11,
-   "theirPrices": {}
+   "theirPrices": {},
+   "verifiedOn": "2026-10-09"
   },
   "9992DD52-73CB-5A6C-A1FF-627CA0B51908": {
    "checkedAt": "2026-10-08T09:46:40+00:00",
@@ -3837,7 +3819,7 @@
    "verifiedOn": "2026-10-04"
   },
   "A777A0CE-90B1-55D9-BD2C-0B264132DCE1": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-30",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203314&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -3992,7 +3974,7 @@
    "verifiedOn": "2026-10-07"
   },
   "AA397914-F28E-5FA1-A0A4-947A78C06251": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-17",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270517SEASEA&amp;itineraryCode=UY3G",
    "ourEnd": "Seattle, WA",
@@ -4082,7 +4064,7 @@
    "verifiedOn": "2026-10-04"
   },
   "ADEB49D4-2193-5996-8323-363D2A86380E": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-30",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=4722",
    "ourEnd": "Seattle, WA",
@@ -4093,15 +4075,11 @@
    "theirEnd": "Seattle, Washington",
    "theirName": "Inside Passage (Roundtrip Seattle)",
    "theirNights": 7,
-   "theirPrices": {
-    "Balcony": 1874,
-    "Interior": 979,
-    "Suite": 4214
-   },
+   "theirPrices": {},
    "verifiedOn": "2026-10-04"
   },
   "AE5B2755-15B6-5C79-B87A-D35FDD68C5F6": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-09-28",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Tokyo (Yokohama), Japan",
@@ -4111,9 +4089,9 @@
    "status": "error"
   },
   "AE6EBC9F-CE13-58F2-A824-265F4061CF66": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-04-23",
-   "error": "HTTP Error 500: Internal Server Error",
+   "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
    "ourNights": 1,
    "ship": "Eurodam",
@@ -4165,7 +4143,7 @@
    "verifiedOn": "2026-10-07"
   },
   "B298907B-F3F3-565D-8CD8-E139E7508D47": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-10-04",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -4334,7 +4312,7 @@
    "verifiedOn": "2026-10-04"
   },
   "BE145AB5-A897-5E71-9BF5-26B1571DD42F": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-27",
    "lineUrl": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?currencyCode=USD&amp;packageCode=7NKSEV&amp;voyageId=BR2705277NKSEV",
    "ourEnd": "Seattle, WA",
@@ -4449,7 +4427,7 @@
    "verifiedOn": "2026-10-08"
   },
   "C0378982-C32F-51E5-8503-DF07D135CB39": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-23",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=4721",
    "ourEnd": "Seattle, WA",
@@ -4460,11 +4438,7 @@
    "theirEnd": "Seattle, Washington",
    "theirName": "Inside Passage (Roundtrip Seattle)",
    "theirNights": 7,
-   "theirPrices": {
-    "Balcony": 1744,
-    "Interior": 899,
-    "Suite": 4334
-   },
+   "theirPrices": {},
    "verifiedOn": "2026-10-04"
   },
   "C09BD38D-C334-5B03-B49F-13F7879D497E": {
@@ -4522,7 +4496,7 @@
    "verifiedOn": "2026-10-04"
   },
   "C2D5C8C3-F4CE-52F7-8CFB-E4F865DDE22C": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-06-03",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/spirit/7-days/ga2/?sailDate=06032027",
    "ourEnd": "Seattle, WA",
@@ -4534,10 +4508,10 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1674,
+    "Balcony": 1614,
     "Interior": 1054,
     "Oceanview": 1304,
-    "Suite": 3014
+    "Suite": 2864
    },
    "verifiedOn": "2026-10-04"
   },
@@ -4800,7 +4774,7 @@
    "verifiedOn": "2026-10-05"
   },
   "CBD6C870-50F6-568B-B921-4C83954B1334": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-29",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07b/d741",
    "ourEnd": "Seattle, WA",
@@ -4820,7 +4794,7 @@
    "verifiedOn": "2026-10-04"
   },
   "CCD18E21-C717-566C-9047-A8766DBF51A3": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-29",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=1717",
    "ourEnd": "Seattle, WA",
@@ -4831,11 +4805,7 @@
    "theirEnd": "Seattle, Washington",
    "theirName": "Inside Passage (with Glacier Bay National Park)",
    "theirNights": 7,
-   "theirPrices": {
-    "Balcony": 1833,
-    "Interior": 1179,
-    "Suite": 4909
-   },
+   "theirPrices": {},
    "verifiedOn": "2026-10-04"
   },
   "CE0E8BF6-2C2A-56F5-A90B-7E725594D095": {
@@ -5001,7 +4971,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D0F553AF-8867-59BE-B567-F4A703981E6A": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-31",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-quantum/QN07SEA-2909514434?sail-date=2027-05-31&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -5013,15 +4983,15 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1666,
-    "Deluxe": 3963,
-    "Interior": 1214,
-    "Outside": 1403
+    "Balcony": 1586,
+    "Deluxe": 3931,
+    "Interior": 1364,
+    "Outside": 1424
    },
    "verifiedOn": "2026-10-04"
   },
   "D1314C82-BEBE-57CE-AE7C-2861425F514A": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-10",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-experience-from-seattle-on-quantum/QN07SEA-2105096757?sail-date=2027-05-10&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -5033,15 +5003,15 @@
    "theirName": "Alaska Experience Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1251,
-    "Deluxe": 2435,
-    "Interior": 819,
-    "Outside": 942
+    "Balcony": 1322,
+    "Deluxe": 2533,
+    "Interior": 842,
+    "Outside": 909
    },
    "verifiedOn": "2026-10-04"
   },
   "D1C204D9-8115-5399-9680-B635C9006ED4": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-29",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=BLISS7SEASITJNUICYKTNVICSEA-NIC-BLISS7SEAICYJNUKTNSITVICSEA&amp;packageId=24218430&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -5061,7 +5031,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D27DA062-18E4-5F8C-B888-C4774CA6CEA0": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-10-11",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -5160,7 +5130,7 @@
    "verifiedOn": "2026-10-05"
   },
   "D6B70047-445C-5FC6-ACD3-E16D19D28FE2": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-15",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=BLISS7SEASITJNUICYKTNVICSEA-NIC-BLISS7SEAICYJNUKTNSITVICSEA&amp;packageId=24218428&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -5180,7 +5150,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D718C5AE-7CBF-59F9-BC72-F779FF84B0FF": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-10-25",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -5270,7 +5240,7 @@
    "verifiedOn": "2026-10-04"
   },
   "DABAE688-5DF5-5B47-903E-A4F0CF438702": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-06-03",
    "lineUrl": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?currencyCode=USD&amp;packageCode=7NKSEV&amp;voyageId=BR2706037NKSEV",
    "ourEnd": "Seattle, WA",
@@ -5411,7 +5381,7 @@
    "verifiedOn": "2026-10-04"
   },
   "DEC2ACBF-51BD-5B26-A291-125206883DF0": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-31",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270531SEASEA&amp;itineraryCode=UY3H",
    "ourEnd": "Seattle, WA",
@@ -5615,7 +5585,7 @@
    "verifiedOn": "2026-10-06"
   },
   "E6BB94BD-DAEE-5830-817B-130C9216FE1E": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-22",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07b/d738",
    "ourEnd": "Seattle, WA",
@@ -5724,7 +5694,7 @@
    "verifiedOn": "2026-10-04"
   },
   "EFE4E716-6786-530F-906E-2DF65C9EE574": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-24",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270524SEASEA&amp;itineraryCode=UY3G",
    "ourEnd": "Seattle, WA",
@@ -5797,7 +5767,7 @@
    "status": "not_listed"
   },
   "F1FBAFD8-BC83-539F-919B-2802EFD3248D": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-27",
    "lineUrl": "https://www.silversea.com/destinations/alaska-cruise/seattle-washington-to-vancouver-wh270527007.html",
    "ourEnd": "Vancouver, BC",
@@ -5812,7 +5782,7 @@
    "verifiedOn": "2026-10-04"
   },
   "F2ABDFFA-1CD6-5EB3-B34A-F9D6550A8D64": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-22",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=1716",
    "ourEnd": "Seattle, WA",
@@ -5827,7 +5797,7 @@
    "verifiedOn": "2026-10-04"
   },
   "F2FF720C-23B6-5C7B-BF78-D13D35E1ED12": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-23",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203313&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -5948,7 +5918,7 @@
    "verifiedOn": "2026-10-05"
   },
   "F66FBF58-8467-5145-BF7D-48D5D2893BCA": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-24",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-experience-from-seattle-on-quantum/QN07SEA-2105096757?sail-date=2027-05-24&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -5960,15 +5930,15 @@
    "theirName": "Alaska Experience Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1321,
-    "Deluxe": 2562,
-    "Interior": 1029,
-    "Outside": 1069
+    "Balcony": 1221,
+    "Deluxe": 2677,
+    "Interior": 990,
+    "Outside": 1090
    },
    "verifiedOn": "2026-10-04"
   },
   "F675EB5B-E1E3-5816-9C09-827C96B57988": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-25",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/legend/7-days/ga2/?sailDate=05252027",
    "ourEnd": "Seattle, WA",
@@ -5980,9 +5950,9 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1594,
-    "Interior": 974,
-    "Oceanview": 1194,
+    "Balcony": 1464,
+    "Interior": 944,
+    "Oceanview": 1164,
     "Suite": 2757
    },
    "verifiedOn": "2026-10-04"
@@ -6031,7 +6001,7 @@
    "status": "not_listed"
   },
   "F8CF6900-53B0-5FF2-AB86-EA5E52D7F1C4": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-20",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/spirit/7-days/ga2/?sailDate=05202027",
    "ourEnd": "Seattle, WA",
@@ -6043,9 +6013,9 @@
    "theirName": "Alaska Inside Passage & Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1344,
+    "Balcony": 1264,
     "Interior": 834,
-    "Oceanview": 1044,
+    "Oceanview": 1014,
     "Suite": 2784
    },
    "verifiedOn": "2026-10-04"
@@ -6224,7 +6194,7 @@
    "verifiedOn": "2026-10-04"
   },
   "FF301146-A00D-5E0C-A8E4-EF875D59373D": {
-   "checkedAt": "2026-10-04T07:08:37+00:00",
+   "checkedAt": "2026-10-09T09:37:18+00:00",
    "date": "2027-05-15",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=1715",
    "ourEnd": "Seattle, WA",
