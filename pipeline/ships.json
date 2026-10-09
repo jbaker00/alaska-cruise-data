@@ -1,10 +1,10 @@
 {
-  "_note": "AIS identities for live tracking. mmsi null = learned at runtime from ShipStaticData name broadcasts (ship_tracker.py). Sources: Wikipedia infoboxes, marinelink/tradlinx (2026-10-04).",
+  "_note": "AIS identities for live tracking. The IMO is the key that matters: ship_tracker.py's discovery stream matches broadcast IMOs and learns new MMSIs when a ship is reflagged (stored in learned_mmsi.json, which wins over this file). mmsi null = learned at runtime (IMO, or name when imo is null). Sources: Wikipedia infoboxes, marinelink/tradlinx/vesselfinder (2026-10-04; Carnival Spirit + Star Princess MMSIs fixed 2026-10-09).",
   "Anthem of the Seas":  {"mmsi": "311000274", "imo": "9656101"},
   "Brilliant Lady":      {"mmsi": "311001167", "imo": "9870654"},
   "Carnival Legend":     {"mmsi": "229857000", "imo": "9224726"},
   "Carnival Miracle":    {"mmsi": "354277000", "imo": "9237357"},
-  "Carnival Spirit":     {"mmsi": "229136000", "imo": "9188647"},
+  "Carnival Spirit":     {"mmsi": "311001095", "imo": "9188647"},
   "Celebrity Edge":      {"mmsi": "248325000", "imo": "9812705"},
   "Eurodam":             {"mmsi": "245206000", "imo": "9378448"},
   "MSC Poesia":          {"mmsi": "355931000", "imo": "9387073"},
@@ -20,7 +20,7 @@
   "Seven Seas Explorer": {"mmsi": "538006712", "imo": "9703150"},
   "Silver Nova":         {"mmsi": null,        "imo": "9886213"},
   "Silver Whisper":      {"mmsi": "308322000", "imo": "9192179"},
-  "Star Princess":       {"mmsi": "247502300", "imo": "9863120"},
+  "Star Princess":       {"mmsi": "310869000", "imo": "9863120"},
   "Star Seeker":         {"mmsi": null,        "imo": null},
   "Voyager of the Seas": {"mmsi": "311317000", "imo": "9161716"},
   "Westerdam":           {"mmsi": "244128000", "imo": "9226891"}
