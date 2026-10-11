@@ -1,15 +1,11 @@
-# Weekly sailing verification — 2026-10-10
+# Weekly sailing verification — 2026-10-11
 
-Checked 354 upcoming sailings against cruisetimetables.com: **297 match**, **14 mismatch**, 35 not listed, 8 errors.
+Checked 354 upcoming sailings against cruisetimetables.com: **301 match**, **10 mismatch**, 35 not listed, 8 errors.
 
 Mismatches need a person to research (ideally in the cruise line's agent portal) and fix the ship template in `pipeline/templates/`. Nothing here changes the app data automatically.
 
 ## ⚠️ Mismatches
 
-- **Oceania Riviera 2027-07-01** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270701) · [source](https://www.cruisetimetables.com/fromseattlewashington-01jul2027.html)
-- **Oceania Riviera 2027-07-08** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270708) · [source](https://www.cruisetimetables.com/fromseattlewashington-08jul2027.html)
-- **Oceania Riviera 2027-07-15** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270715) · [source](https://www.cruisetimetables.com/fromseattlewashington-15jul2027.html)
-- **Oceania Riviera 2027-07-22** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270722) · [source](https://www.cruisetimetables.com/fromseattlewashington-22jul2027.html)
 - **Oceania Riviera 2027-07-29** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270729) · [source](https://www.cruisetimetables.com/fromseattlewashington-29jul2027.html)
 - **Oceania Riviera 2027-08-05** — app: 10 nights → Seattle, WA; source: 7 nights → Seattle, Washington (Visions of Alaska Seattle to Seattle). [line page](https://www.oceaniacruises.com/cruises/RVA270805) · [source](https://www.cruisetimetables.com/fromseattlewashington-05aug2027.html)
 - **Brilliant Lady 2027-08-12** — app: 7 nights → Seattle, WA; source: 12 nights → Seattle, Washington (Alaska: Inside Passage & Hubbard Glacier). [line page](https://www.virginvoyages.com/book/voyage-planner/pre-checkout?currencyCode=USD&amp;packageCode=12NKSHS&amp;voyageId=BR27081212NKSHS) · [source](https://www.cruisetimetables.com/fromseattlewashington-12aug2027.html)

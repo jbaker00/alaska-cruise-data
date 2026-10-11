@@ -1,9 +1,9 @@
 {
-  "version": 202610101000,
+  "version": 202610110951,
   "schema": 1,
-  "generatedAt": "2026-10-10T10:00:23+00:00",
+  "generatedAt": "2026-10-11T09:51:34+00:00",
   "cruiseCount": 669,
-  "sha256": "cc7dd685b1e8d5e504cbd0ff304c9340b69b19ef1feecf06910aabc427c2f7f6",
+  "sha256": "92ba348d70f570531782c54a2402ab9c1795d0c84ced5f4ba738aa1577d0ca8e",
   "seasons": [
     {
       "year": 2026,
