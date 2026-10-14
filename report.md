@@ -1,6 +1,10 @@
 # Cruise dataset v202610120944
 
-669 cruises from 2026 published 2026-04-20, 2027 (preliminary) published 2026-09-18
+669 cruises from 2026 published 2026-04-20, 2027 (preliminary) published 2026-10-02
+
+## ⚠️ Ships with no template (sailings omitted)
+
+- **Greg Mortimer (Aurora Expeditions)** — 4 departures: 2027-05-03, 2027-05-04, 2027-05-05, 2027-05-06
 
 ## ⚠️ Schedule anomalies (check itinerary/duration)
 
@@ -14,6 +18,8 @@
 - Oceania Riviera: 2026-07-21 is 10 nights but next departure is 2026-07-28 (7 days later)
 - Oceania Riviera: 2026-07-28 is 10 nights but next departure is 2026-08-06 (9 days later)
 - Oceania Riviera: 2026-08-06 is 10 nights but next departure is 2026-08-13 (7 days later)
+- VERIFY greg mortimer 2027-05-03: first sailing of season
+- VERIFY greg mortimer 2027-05-06: last sailing of season
 
 ## Skipped by override
 

@@ -1,8 +1,8 @@
 {
   "year": 2027,
-  "published": "2026-09-18",
+  "published": "2026-10-02",
   "preliminary": true,
-  "source": "2027 Preliminary Cruise Schedule 9.18.26.pdf",
+  "source": "2027 Preliminary Cruise Schedule 10.2.26.pdf",
   "calls": [
     {
       "date": "2027-03-27",
@@ -36,7 +36,7 @@
       "date": "2027-04-21",
       "vessel": "Ruby Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": true
     },
     {
@@ -57,7 +57,7 @@
       "date": "2027-04-25",
       "vessel": "Crown Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": true
     },
     {
@@ -85,7 +85,7 @@
       "date": "2027-04-28",
       "vessel": "Ruby Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": true
     },
     {
@@ -113,7 +113,7 @@
       "date": "2027-05-01",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -132,6 +132,13 @@
     },
     {
       "date": "2027-05-03",
+      "vessel": "Greg Mortimer",
+      "pier": 66,
+      "cruiseLine": "Aurora Expeditions",
+      "inTransit": false
+    },
+    {
+      "date": "2027-05-03",
       "vessel": "MSC Poesia",
       "pier": 91,
       "cruiseLine": "MSC Cruises",
@@ -139,9 +146,16 @@
     },
     {
       "date": "2027-05-03",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
+      "inTransit": false
+    },
+    {
+      "date": "2027-05-04",
+      "vessel": "Greg Mortimer",
+      "pier": 66,
+      "cruiseLine": "Aurora Expeditions",
       "inTransit": false
     },
     {
@@ -149,6 +163,20 @@
       "vessel": "Carnival Legend",
       "pier": 91,
       "cruiseLine": "Carnival Cruise Line",
+      "inTransit": false
+    },
+    {
+      "date": "2027-05-05",
+      "vessel": "Greg Mortimer",
+      "pier": 66,
+      "cruiseLine": "Aurora Expeditions",
+      "inTransit": false
+    },
+    {
+      "date": "2027-05-06",
+      "vessel": "Greg Mortimer",
+      "pier": 66,
+      "cruiseLine": "Aurora Expeditions",
       "inTransit": false
     },
     {
@@ -167,14 +195,14 @@
     },
     {
       "date": "2027-05-07",
-      "vessel": "Serenade Of The Seas",
+      "vessel": "Serenade of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": true
     },
     {
       "date": "2027-05-07",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -197,7 +225,7 @@
       "date": "2027-05-08",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -218,7 +246,7 @@
       "date": "2027-05-09",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -230,7 +258,7 @@
     },
     {
       "date": "2027-05-10",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -258,7 +286,7 @@
     },
     {
       "date": "2027-05-14",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -281,7 +309,7 @@
       "date": "2027-05-15",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -302,7 +330,7 @@
       "date": "2027-05-16",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -314,7 +342,7 @@
     },
     {
       "date": "2027-05-17",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -323,7 +351,7 @@
       "date": "2027-05-18",
       "vessel": "Azamara Quest",
       "pier": 66,
-      "cruiseLine": "Azamara",
+      "cruiseLine": "Azamara Cruises",
       "inTransit": true
     },
     {
@@ -344,7 +372,7 @@
       "date": "2027-05-20",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -363,7 +391,7 @@
     },
     {
       "date": "2027-05-21",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -386,7 +414,7 @@
       "date": "2027-05-22",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -407,7 +435,7 @@
       "date": "2027-05-23",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -426,7 +454,7 @@
     },
     {
       "date": "2027-05-24",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -449,7 +477,7 @@
       "date": "2027-05-27",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -475,7 +503,7 @@
     },
     {
       "date": "2027-05-28",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -498,7 +526,7 @@
       "date": "2027-05-29",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -519,7 +547,7 @@
       "date": "2027-05-30",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -531,7 +559,7 @@
     },
     {
       "date": "2027-05-31",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -554,7 +582,7 @@
       "date": "2027-06-03",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -573,7 +601,7 @@
     },
     {
       "date": "2027-06-04",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -596,7 +624,7 @@
       "date": "2027-06-05",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -617,7 +645,7 @@
       "date": "2027-06-06",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -636,7 +664,7 @@
     },
     {
       "date": "2027-06-07",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -652,7 +680,7 @@
       "date": "2027-06-10",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -671,7 +699,7 @@
     },
     {
       "date": "2027-06-11",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -694,7 +722,7 @@
       "date": "2027-06-12",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -708,7 +736,7 @@
       "date": "2027-06-13",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -727,7 +755,7 @@
     },
     {
       "date": "2027-06-14",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -750,7 +778,7 @@
       "date": "2027-06-17",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -769,7 +797,7 @@
     },
     {
       "date": "2027-06-18",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -792,7 +820,7 @@
       "date": "2027-06-19",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -806,7 +834,7 @@
       "date": "2027-06-20",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -818,7 +846,7 @@
     },
     {
       "date": "2027-06-21",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -841,7 +869,7 @@
       "date": "2027-06-24",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -867,7 +895,7 @@
     },
     {
       "date": "2027-06-25",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -890,7 +918,7 @@
       "date": "2027-06-26",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -904,7 +932,7 @@
       "date": "2027-06-27",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -916,7 +944,7 @@
     },
     {
       "date": "2027-06-28",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -939,7 +967,7 @@
       "date": "2027-07-01",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -965,7 +993,7 @@
     },
     {
       "date": "2027-07-02",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -988,7 +1016,7 @@
       "date": "2027-07-03",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1009,7 +1037,7 @@
       "date": "2027-07-04",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1021,7 +1049,7 @@
     },
     {
       "date": "2027-07-05",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1044,7 +1072,7 @@
       "date": "2027-07-08",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -1070,7 +1098,7 @@
     },
     {
       "date": "2027-07-09",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1093,7 +1121,7 @@
       "date": "2027-07-10",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1114,7 +1142,7 @@
       "date": "2027-07-11",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1126,7 +1154,7 @@
     },
     {
       "date": "2027-07-12",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1149,7 +1177,7 @@
       "date": "2027-07-15",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -1175,7 +1203,7 @@
     },
     {
       "date": "2027-07-16",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1198,7 +1226,7 @@
       "date": "2027-07-17",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1219,7 +1247,7 @@
       "date": "2027-07-18",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1231,7 +1259,7 @@
     },
     {
       "date": "2027-07-19",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1254,7 +1282,7 @@
       "date": "2027-07-22",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -1280,7 +1308,7 @@
     },
     {
       "date": "2027-07-23",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1303,7 +1331,7 @@
       "date": "2027-07-24",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1324,7 +1352,7 @@
       "date": "2027-07-25",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1336,7 +1364,7 @@
     },
     {
       "date": "2027-07-26",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1359,7 +1387,7 @@
       "date": "2027-07-29",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -1385,7 +1413,7 @@
     },
     {
       "date": "2027-07-30",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1408,7 +1436,7 @@
       "date": "2027-07-31",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1429,7 +1457,7 @@
       "date": "2027-08-01",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1441,7 +1469,7 @@
     },
     {
       "date": "2027-08-02",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1464,7 +1492,7 @@
       "date": "2027-08-05",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -1490,7 +1518,7 @@
     },
     {
       "date": "2027-08-06",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1513,7 +1541,7 @@
       "date": "2027-08-07",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1534,7 +1562,7 @@
       "date": "2027-08-08",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1546,7 +1574,7 @@
     },
     {
       "date": "2027-08-09",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1569,7 +1597,7 @@
       "date": "2027-08-12",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -1595,7 +1623,7 @@
     },
     {
       "date": "2027-08-13",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1618,7 +1646,7 @@
       "date": "2027-08-14",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1639,7 +1667,7 @@
       "date": "2027-08-15",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1651,7 +1679,7 @@
     },
     {
       "date": "2027-08-16",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1686,7 +1714,7 @@
     },
     {
       "date": "2027-08-20",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1709,7 +1737,7 @@
       "date": "2027-08-21",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1730,7 +1758,7 @@
       "date": "2027-08-22",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1742,7 +1770,7 @@
     },
     {
       "date": "2027-08-23",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1751,7 +1779,7 @@
       "date": "2027-08-24",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -1777,7 +1805,7 @@
     },
     {
       "date": "2027-08-27",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1800,7 +1828,7 @@
       "date": "2027-08-28",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1814,7 +1842,7 @@
       "date": "2027-08-29",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1833,7 +1861,7 @@
     },
     {
       "date": "2027-08-30",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1856,7 +1884,7 @@
       "date": "2027-09-02",
       "vessel": "Brilliant Lady",
       "pier": 91,
-      "cruiseLine": "Virgin Cruise Line",
+      "cruiseLine": "Virgin Voyages",
       "inTransit": false
     },
     {
@@ -1875,7 +1903,7 @@
     },
     {
       "date": "2027-09-03",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1898,7 +1926,7 @@
       "date": "2027-09-04",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1919,7 +1947,7 @@
       "date": "2027-09-05",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -1931,7 +1959,7 @@
     },
     {
       "date": "2027-09-06",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1966,7 +1994,7 @@
     },
     {
       "date": "2027-09-10",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -1989,7 +2017,7 @@
       "date": "2027-09-11",
       "vessel": "Royal Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -2010,7 +2038,7 @@
       "date": "2027-09-12",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -2022,7 +2050,7 @@
     },
     {
       "date": "2027-09-13",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -2064,7 +2092,7 @@
     },
     {
       "date": "2027-09-17",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -2094,7 +2122,7 @@
       "date": "2027-09-19",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -2113,7 +2141,7 @@
     },
     {
       "date": "2027-09-20",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -2136,7 +2164,7 @@
       "date": "2027-09-22",
       "vessel": "Ruby Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": true
     },
     {
@@ -2148,7 +2176,7 @@
     },
     {
       "date": "2027-09-24",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -2185,7 +2213,7 @@
       "date": "2027-09-26",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": false
     },
     {
@@ -2204,7 +2232,7 @@
     },
     {
       "date": "2027-09-27",
-      "vessel": "Quantum Of The Seas",
+      "vessel": "Quantum of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -2218,7 +2246,7 @@
     },
     {
       "date": "2027-10-01",
-      "vessel": "Voyager Of The Seas",
+      "vessel": "Voyager of the Seas",
       "pier": 91,
       "cruiseLine": "Royal Caribbean",
       "inTransit": false
@@ -2255,7 +2283,7 @@
       "date": "2027-10-04",
       "vessel": "Star Princess",
       "pier": 91,
-      "cruiseLine": "Princess Cruise Line",
+      "cruiseLine": "Princess Cruises",
       "inTransit": true
     },
     {
