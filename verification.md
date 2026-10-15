@@ -1,4 +1,4 @@
-# Weekly sailing verification — 2026-10-14
+# Weekly sailing verification — 2026-10-15
 
 Checked 353 upcoming sailings against cruisetimetables.com: **302 match**, **8 mismatch**, 35 not listed, 8 errors.
 
@@ -12,7 +12,7 @@ Mismatches need a person to research (ideally in the cruise line's agent portal)
 - **Noordam 2027-08-22** — app: 7 nights → Seattle, WA; source: 14 nights → Seattle, Washington (Great Alaska Explorer). [line page](https://www.hollandamerica.com/en/us/find-a-cruise/a7l14a/n752) · [source](https://www.cruisetimetables.com/fromseattlewashington-22aug2027.html)
 - **Brilliant Lady 2027-08-24** — app: 7 nights → Seattle, WA; source: 9 nights → Seattle, Washington (Alaska: Inside Passage & Hubbard Glacier). [line page](https://www.virginvoyages.com/book/voyage-planner/pre-checkout?currencyCode=USD&amp;packageCode=9NSABC2&amp;voyageId=BR2708249NSABC2) · [source](https://www.cruisetimetables.com/fromseattlewashington-24aug2027.html)
 - **Carnival Spirit 2027-09-16** — app: 7 nights → Seattle, WA; source: 9 nights → Seattle, Washington (Alaska Inside Passage & Glacier). [line page](https://www.carnival.com/itinerary/9-day-alaska-inside-passage-and-glacier-cruise/seattle/spirit/9-days/ja3/?sailDate=09162027) · [source](https://www.cruisetimetables.com/fromseattlewashington-16sep2027.html)
-- **Norwegian Joy 2027-09-17** — app: 9 nights → Seattle, WA; source: 10 nights → Seattle, Washington (Alaska Round-trip Seattle: Skagway, Ketchikan & Sitka). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAKTNSITSGYICYJNUVICSEA-NIC-JOY10SEAICYJNUKTNSGYSITVICSEA&amp;packageId=24235222&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-17sep2027.html)
+- **Norwegian Joy 2027-09-17** — app: 9 nights → Seattle, WA; source: 10 nights → Seattle, Washington (Alaska Round-trip Seattle: Skagway, Juneau, Sitka & Ketchikan). [line page](https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAJNUSGYSITICYKTNVICSEA-NIC-JOY10SEAICYJNUKTNSGYSITVICSEA&amp;packageId=24235222&amp;stateroomTypeCode=INSIDE&amp;) · [source](https://www.cruisetimetables.com/fromseattlewashington-17sep2027.html)
 - **Quantum of the Seas 2027-09-27** — app: 14 nights → Tokyo (Yokohama), Japan; source: 14 nights → Yokohama, Japan (Seattle To Tokyo Cruise). [line page](https://www.royalcaribbean.com/cruises/itinerary/14-night-seattle-to-tokyo-from-seattle-on-quantum/QN15SEA-2932669845?sail-date=2027-09-27&amp;currency=USD) · [source](https://www.cruisetimetables.com/fromseattlewashington-27sep2027.html)
 
 ## Not listed on the source site
