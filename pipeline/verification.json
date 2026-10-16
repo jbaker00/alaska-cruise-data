@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-10-15T09:32:56+00:00",
+ "checkedAt": "2026-10-16T09:39:23+00:00",
  "results": {
   "001E1712-3E32-5276-9675-5AA875DA70D5": {
    "checkedAt": "2026-10-14T09:46:20+00:00",
@@ -57,7 +57,7 @@
    "verifiedOn": "2026-10-04"
   },
   "012CAAE2-D08E-598D-81C2-4CEDA0A37EBB": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-04-26",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270426SEASEA&amp;itineraryCode=UY3G",
    "ourEnd": "Seattle, WA",
@@ -503,7 +503,7 @@
    "verifiedOn": "2026-10-04"
   },
   "17DB3296-774B-521E-974C-13224EA169C6": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-15",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle (Fishermen's Terminal)",
@@ -542,7 +542,7 @@
    "status": "not_listed"
   },
   "19FB4A0D-CB10-57A2-A20D-6D72776258E7": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-26",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=4739",
    "ourEnd": "Vancouver, BC",
@@ -626,7 +626,7 @@
    "verifiedOn": "2026-10-04"
   },
   "1FE02E22-E264-51B0-ABAE-EC8864C68403": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-05-03",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270503SEASEA&amp;itineraryCode=UY3G",
    "ourEnd": "Seattle, WA",
@@ -706,7 +706,7 @@
    "verifiedOn": "2026-10-04"
   },
   "222A4E75-32C3-5E30-A720-275D87B08F3E": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-21",
    "lineUrl": "https://www.chefsmakingwaves.com/",
    "ourEnd": "Seattle, WA",
@@ -854,7 +854,7 @@
    "verifiedOn": "2026-10-04"
   },
   "28BE21B8-86D0-510A-92E0-6ED2BFA2027B": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-20",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270920SEASEA&amp;itineraryCode=UY3G",
    "ourEnd": "Seattle, WA",
@@ -1104,7 +1104,7 @@
    "verifiedOn": "2026-10-04"
   },
   "36B8DF3C-4048-50AF-A5F1-FBE6DB2BF58D": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-04-24",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07b/d733",
    "ourEnd": "Seattle, WA",
@@ -1453,7 +1453,7 @@
    "verifiedOn": "2026-10-04"
   },
   "42CD50C9-5049-5D2F-888E-49733438D6A2": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-10-18",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -1518,7 +1518,7 @@
    "verifiedOn": "2026-10-07"
   },
   "478A9DAD-81BB-526C-B30E-D074FD039216": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-04-25",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203309&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -2082,7 +2082,7 @@
    "verifiedOn": "2026-10-05"
   },
   "5FC043DA-A41F-5B29-B404-6D42F0F47A94": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-05-01",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=BLISS7SEASITJNUICYKTNVICSEA-NIC-BLISS7SEAICYJNUKTNSITVICSEA&amp;packageId=24218426&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -2500,7 +2500,7 @@
    "verifiedOn": "2026-10-04"
   },
   "72F2CAA2-12D2-55CC-8B2C-79CFDD64AD1E": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-24",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-experience-from-seattle-on-voyager/VY07SEA-2105097221?sail-date=2027-09-24&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -2509,13 +2509,13 @@
    "source": "https://www.cruisetimetables.com/fromseattlewashington-24sep2027.html",
    "status": "match",
    "theirEnd": "Seattle, Washington",
-   "theirName": "Alaska Adventure Cruise",
+   "theirName": "Alaska Experience Cruise",
    "theirNights": 7,
    "theirPrices": {
     "Balcony": 1479,
-    "Deluxe": 2160,
-    "Interior": 769,
-    "Outside": 989
+    "Deluxe": 2154,
+    "Interior": 739,
+    "Outside": 928
    },
    "verifiedOn": "2026-10-07"
   },
@@ -2603,7 +2603,7 @@
    "verifiedOn": "2026-10-08"
   },
   "785482BC-84CF-5FDF-9BAB-CE3B0EBFC654": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-05-01",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=1713",
    "ourEnd": "Seattle, WA",
@@ -2907,7 +2907,7 @@
    "verifiedOn": "2026-10-05"
   },
   "83AC6B2A-7B6E-55E2-9C08-79F98D28514D": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-04-25",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/l7p07a/n723",
    "ourEnd": "Seattle, WA",
@@ -3079,14 +3079,15 @@
    "verifiedOn": "2026-10-05"
   },
   "8A19A403-423C-5637-AE21-DABB69DA3A30": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-10-01",
+   "error": "HTTP Error 500: Internal Server Error",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/25-night-transpacific-from-seattle-on-voyager/VY25SEA-4056050622?sail-date=2027-10-01&amp;currency=USD",
    "ourEnd": "Brisbane, Australia",
    "ourNights": 25,
    "ship": "Voyager of the Seas",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-01oct2027.html",
-   "status": "match",
+   "status": "error",
    "theirEnd": "Brisbane, Australia",
    "theirName": "Transpacific Cruise",
    "theirNights": 25,
@@ -3239,7 +3240,7 @@
    "verifiedOn": "2026-10-04"
   },
   "8D25C395-E7FC-51E1-BA94-95FCEF918F0D": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-19",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203330&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -3251,10 +3252,10 @@
    "theirName": "Alaska Round-Trip Seattle: Skagway, Juneau, Ketchikan & Victoria",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2079,
-    "Inside": 1229,
-    "Oceanview": 1879,
-    "Suite": 2209
+    "Balcony": 2100,
+    "Inside": 1250,
+    "Oceanview": 1900,
+    "Suite": 2230
    },
    "verifiedOn": "2026-10-07"
   },
@@ -3268,7 +3269,7 @@
    "status": "not_listed"
   },
   "8EAA818C-1B50-5518-8622-3C88568B59E9": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-26",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203331&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -3280,10 +3281,10 @@
    "theirName": "Alaska Round-Trip Seattle: Skagway, Juneau, Ketchikan & Victoria",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1989,
-    "Inside": 1239,
-    "Oceanview": 1589,
-    "Suite": 2089
+    "Balcony": 2000,
+    "Inside": 1210,
+    "Oceanview": 1600,
+    "Suite": 2100
    },
    "verifiedOn": "2026-10-07"
   },
@@ -3303,7 +3304,7 @@
    "verifiedOn": "2026-10-04"
   },
   "92D77A7C-885F-5CB8-B647-657430C25E6C": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-10-09",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=BLISS7SEASITJNUICYKTNVICSEA-NIC-BLISS7SEAICYJNUKTNSITVICSEA&amp;packageId=24840096&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -3323,7 +3324,7 @@
    "verifiedOn": "2026-10-07"
   },
   "92EA0C5C-4ADA-5F61-83F2-245E0F7F8E61": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-04-30",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -3362,7 +3363,7 @@
    "verifiedOn": "2026-10-04"
   },
   "9424DE61-BFA2-5ECC-BE77-A7F8C73F4BD7": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-19",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=4738",
    "ourEnd": "Seattle, WA",
@@ -3530,7 +3531,7 @@
    "status": "not_listed"
   },
   "9DA0F320-B7DF-564F-9EA7-F1AA3E09B148": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-27",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270927SEAMIA&amp;itineraryCode=UYSM",
    "ourEnd": "Miami, FL",
@@ -3565,7 +3566,7 @@
    "verifiedOn": "2026-10-04"
   },
   "9DAB4344-FDC2-5A28-91CD-518946B105DE": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-10-03",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203332&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -3577,10 +3578,10 @@
    "theirName": "Alaska Round-Trip Seattle: Skagway, Juneau, Ketchikan & Victoria",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1889,
-    "Inside": 1179,
-    "Oceanview": 1589,
-    "Suite": 2019
+    "Balcony": 1900,
+    "Inside": 1150,
+    "Oceanview": 1600,
+    "Suite": 2030
    },
    "verifiedOn": "2026-10-07"
   },
@@ -3620,7 +3621,7 @@
    "verifiedOn": "2026-10-04"
   },
   "9FFB368B-F4E0-5984-ABA4-41259E3BB9E4": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-05-03",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-experience-from-seattle-on-quantum/QN07SEA-2105096757?sail-date=2027-05-03&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -3640,7 +3641,7 @@
    "verifiedOn": "2026-10-04"
   },
   "A01F67F6-A04D-511F-BA85-3A6B57186B68": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-04-14",
    "lineUrl": "https://www.carnival.com/itinerary/15-day-hawaii-cruise/seattle/spirit/15-days/jh3/?sailDate=04142027",
    "ourEnd": "Seattle, WA",
@@ -3660,7 +3661,7 @@
    "verifiedOn": "2026-10-04"
   },
   "A0853C77-7637-5016-B31C-BE16C4D79BBD": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-05-01",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07b/d734",
    "ourEnd": "Seattle, WA",
@@ -3689,7 +3690,7 @@
    "status": "not_listed"
   },
   "A1EBBC81-6EB4-5DAF-AEAC-A04C604C10F9": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-20",
    "ourEnd": "Seattle, WA",
    "ourNights": 7,
@@ -4057,7 +4058,7 @@
    "verifiedOn": "2026-10-04"
   },
   "AE5B2755-15B6-5C79-B87A-D35FDD68C5F6": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-28",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Tokyo (Yokohama), Japan",
@@ -4067,7 +4068,7 @@
    "status": "error"
   },
   "AE6EBC9F-CE13-58F2-A824-265F4061CF66": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-04-23",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -4121,7 +4122,7 @@
    "verifiedOn": "2026-10-07"
   },
   "B298907B-F3F3-565D-8CD8-E139E7508D47": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-10-04",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -4270,7 +4271,7 @@
    "verifiedOn": "2026-10-04"
   },
   "BA49FD11-27FD-503D-90F8-45B2F0755604": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-05-02",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203310&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -4549,7 +4550,7 @@
    "verifiedOn": "2026-10-05"
   },
   "C5229664-5222-535F-9009-C3E9958FD601": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-27",
    "ourEnd": "Seattle, WA",
    "ourNights": 7,
@@ -4697,7 +4698,7 @@
    "verifiedOn": "2026-10-04"
   },
   "C9A80A17-D020-578D-8489-262BF6222FFE": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-05-02",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/a7e07c/n726",
    "ourEnd": "Seattle, WA",
@@ -5011,7 +5012,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D27DA062-18E4-5F8C-B888-C4774CA6CEA0": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-10-11",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -5061,7 +5062,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D448E498-316C-5B31-B198-21144B76D833": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-20",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-experience-from-seattle-on-quantum/QN07SEA-2105096757?sail-date=2027-09-20&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -5073,10 +5074,10 @@
    "theirName": "Alaska Experience Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1512,
-    "Deluxe": 3501,
-    "Interior": 1199,
-    "Outside": 1469
+    "Balcony": 1418,
+    "Deluxe": 3526,
+    "Interior": 1175,
+    "Outside": 1439
    },
    "verifiedOn": "2026-10-07"
   },
@@ -5130,7 +5131,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D718C5AE-7CBF-59F9-BC72-F779FF84B0FF": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-10-25",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -5160,7 +5161,7 @@
    "verifiedOn": "2026-10-04"
   },
   "DA03E271-9A80-53FD-A72C-60394F84F7DC": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-19",
    "lineUrl": "https://www.hollandamerica.com/en/us/find-a-cruise/p7s34a/w765",
    "ourEnd": "Sydney, Australia",
@@ -5376,7 +5377,7 @@
    "verifiedOn": "2026-10-04"
   },
   "DFE96F84-52C4-57E4-A719-34F292D0186C": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-21",
    "lineUrl": "https://www.carnival.com/itinerary/16-day-hawaii-cruise/seattle/legend/16-days/jh1/?sailDate=09212027",
    "ourEnd": "Seattle, WA",
@@ -5654,7 +5655,7 @@
    "verifiedOn": "2026-10-05"
   },
   "EB2DA100-8182-5682-9F2C-989CF05AE95F": {
-   "checkedAt": "2026-10-08T09:46:40+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-04-29",
    "lineUrl": "https://www.carnival.com/itinerary/7-day-alaska-inside-passage-and-glacier-cruise/seattle/spirit/7-days/ga2/?sailDate=04292027",
    "ourEnd": "Seattle, WA",
@@ -5729,7 +5730,7 @@
    "verifiedOn": "2026-10-05"
   },
   "F0E1A71E-BC2A-57A5-B984-AB5B149F2EE4": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-27",
    "ourEnd": "Seattle, WA",
    "ourNights": 9,
@@ -5797,7 +5798,7 @@
    "verifiedOn": "2026-10-04"
   },
   "F4CCE1EC-8289-5CC1-AE50-66EFFCA37EAC": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-27",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/14-night-seattle-to-tokyo-from-seattle-on-quantum/QN15SEA-2932669845?sail-date=2027-09-27&amp;currency=USD",
    "ourEnd": "Tokyo (Yokohama), Japan",
@@ -6100,7 +6101,7 @@
    "verifiedOn": "2026-10-04"
   },
   "FAC49EB5-11EF-5B7D-A7BC-D9DA8AA55739": {
-   "checkedAt": "2026-10-07T09:31:23+00:00",
+   "checkedAt": "2026-10-16T09:39:23+00:00",
    "date": "2027-09-24",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A440?sailDate=2027-09-24&amp;packageCode=EG07A440",
    "ourEnd": "Vancouver, BC",
