@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-10-22T09:45:25+00:00",
+ "checkedAt": "2026-10-23T09:40:34+00:00",
  "results": {
   "001E1712-3E32-5276-9675-5AA875DA70D5": {
    "checkedAt": "2026-10-22T09:45:25+00:00",
@@ -17,7 +17,7 @@
    "verifiedOn": "2026-10-04"
   },
   "008BF279-8E78-59B8-8435-2098CD3D9723": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-20",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-08-20&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -29,10 +29,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1659,
+    "Balcony": 1580,
     "Deluxe": 2170,
-    "Interior": 790,
-    "Outside": 1139
+    "Interior": 727,
+    "Outside": 1098
    },
    "verifiedOn": "2026-10-05"
   },
@@ -273,7 +273,7 @@
    "status": "not_listed"
   },
   "0E91101D-6B23-5CCB-88E0-2C2B865387AD": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-25",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-06-25&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -285,10 +285,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1911,
-    "Deluxe": 2575,
+    "Balcony": 1830,
+    "Deluxe": 2576,
     "Interior": 929,
-    "Outside": 1159
+    "Outside": 1128
    },
    "verifiedOn": "2026-10-04"
   },
@@ -343,7 +343,7 @@
    "verifiedOn": "2026-10-04"
   },
   "11E830CE-A0DF-57A0-A7AE-D7BE81C2D0A0": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-09",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-09&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -355,10 +355,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2034,
+    "Balcony": 1801,
     "Deluxe": 2866,
-    "Interior": 1019,
-    "Outside": 1411
+    "Interior": 949,
+    "Outside": 1409
    },
    "verifiedOn": "2026-10-04"
   },
@@ -502,7 +502,7 @@
    "verifiedOn": "2026-10-20"
   },
   "17DB3296-774B-521E-974C-13224EA169C6": {
-   "checkedAt": "2026-10-22T09:45:25+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-09-15",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle (Fishermen's Terminal)",
@@ -532,7 +532,7 @@
    "verifiedOn": "2026-10-04"
   },
   "19199845-F6D5-517E-BF3C-BBB30450FB36": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-11",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -556,7 +556,7 @@
    "verifiedOn": "2026-10-07"
   },
   "1A2D6554-C069-54F2-8047-9682DD8CC8F0": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-13",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235231&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -596,7 +596,7 @@
    "verifiedOn": "2026-10-04"
   },
   "1F06D29D-2F0A-5A4E-8637-1236EDF55603": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-27",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -793,7 +793,7 @@
    "verifiedOn": "2026-10-20"
   },
   "25215882-39DA-52A5-9A72-C5656BB26E26": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-05-28",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -1041,7 +1041,7 @@
    "verifiedOn": "2026-10-05"
   },
   "3446434A-450F-5A55-A80F-6BB23D46716F": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-25",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAJNUICYKTNVICSEA-NIC-JOY7SEAICYJNUKTNVICSEA&amp;packageId=24235224&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -1053,10 +1053,10 @@
    "theirName": "Alaska Round-trip Seattle: Juneau, Ketchikan & Victoria",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2119,
-    "Inside": 1269,
-    "Oceanview": 1819,
-    "Suite": 2959
+    "Balcony": 2039,
+    "Inside": 1079,
+    "Oceanview": 1569,
+    "Suite": 2819
    },
    "verifiedOn": "2026-10-06"
   },
@@ -1091,7 +1091,7 @@
    "verifiedOn": "2026-10-04"
   },
   "35E38318-7A11-506C-ADFA-41FDA6205B26": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-11",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-06-11&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -1103,10 +1103,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1687,
-    "Deluxe": 2774,
-    "Interior": 949,
-    "Outside": 1179
+    "Balcony": 1749,
+    "Deluxe": 2844,
+    "Interior": 880,
+    "Outside": 1137
    },
    "verifiedOn": "2026-10-04"
   },
@@ -1385,7 +1385,7 @@
    "verifiedOn": "2026-10-04"
   },
   "3DB4CB8D-4E63-5BC1-9C93-22380C8CF9D3": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-18",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-06-18&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -1397,10 +1397,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1779,
-    "Deluxe": 4108,
-    "Interior": 889,
-    "Outside": 1239
+    "Balcony": 1730,
+    "Deluxe": 3176,
+    "Interior": 880,
+    "Outside": 1198
    },
    "verifiedOn": "2026-10-04"
   },
@@ -1460,7 +1460,7 @@
    "verifiedOn": "2026-10-04"
   },
   "42CD50C9-5049-5D2F-888E-49733438D6A2": {
-   "checkedAt": "2026-10-22T09:45:25+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-10-18",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -1619,7 +1619,7 @@
    "verifiedOn": "2026-10-04"
   },
   "4902A085-3121-57F3-878B-F0BFFC5055D3": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-06",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-08-06&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -1631,15 +1631,15 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1964,
-    "Deluxe": 4927,
-    "Interior": 1255,
-    "Outside": 1559
+    "Balcony": 1937,
+    "Deluxe": 3844,
+    "Interior": 1119,
+    "Outside": 1257
    },
    "verifiedOn": "2026-10-04"
   },
   "4967D265-F7EF-5E16-AD28-B9971BE9F628": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-02",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-02&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -1651,10 +1651,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2327,
-    "Deluxe": 5049,
-    "Interior": 1303,
-    "Outside": 1592
+    "Balcony": 2140,
+    "Deluxe": 4222,
+    "Interior": 1080,
+    "Outside": 1613
    },
    "verifiedOn": "2026-10-04"
   },
@@ -1679,7 +1679,7 @@
    "verifiedOn": "2026-10-04"
   },
   "4AEADBE3-CBEF-5BFF-B6FC-4AC151936302": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-23",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235228&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -1754,7 +1754,7 @@
    "verifiedOn": "2026-10-04"
   },
   "51B9B3C3-9C65-5BCD-A213-61E3B35E2A21": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-23",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -1837,7 +1837,7 @@
    "verifiedOn": "2026-10-04"
   },
   "55DB429E-B377-5E07-9FDC-7F97C09CF606": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-13",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=ENCORE7SEAJNUSGYKTNVICSEA-NIC-ENCORE7SEAJNUKTNSGYVICSEA&amp;packageId=24203316&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -1849,10 +1849,10 @@
    "theirName": "Alaska Round-Trip Seattle: Skagway, Juneau, Ketchikan & Victoria",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2729,
-    "Inside": 1679,
-    "Oceanview": 2279,
-    "Suite": 2979
+    "Balcony": 2750,
+    "Inside": 1730,
+    "Oceanview": 2300,
+    "Suite": 3050
    },
    "verifiedOn": "2026-10-04"
   },
@@ -1976,7 +1976,7 @@
    "verifiedOn": "2026-10-05"
   },
   "5A7DF02B-5380-58F6-82D7-288841A11F76": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-05-28",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-05-28&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -1988,10 +1988,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2044,
-    "Deluxe": 5167,
-    "Interior": 1300,
-    "Outside": 1550
+    "Balcony": 1992,
+    "Deluxe": 4050,
+    "Interior": 1234,
+    "Outside": 1345
    },
    "verifiedOn": "2026-10-04"
   },
@@ -2016,7 +2016,7 @@
    "verifiedOn": "2026-10-20"
   },
   "5BB6BAA1-D4F2-5295-9141-EC94AD0A006A": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-09",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -2060,7 +2060,7 @@
    "verifiedOn": "2026-10-04"
   },
   "5E28FF67-55D4-59B2-8AF6-68BEEEA25CE8": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-25",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -2109,7 +2109,7 @@
    "verifiedOn": "2026-10-04"
   },
   "611FAB61-52E6-5AC4-8615-4F7574107206": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-23",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-quantum/QN07SEA-2909514434?sail-date=2027-08-23&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -2204,7 +2204,7 @@
    "verifiedOn": "2026-10-04"
   },
   "62F21E2C-E7E8-574B-9957-B0C7F9523EE6": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-16",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-16&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -2216,10 +2216,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1899,
-    "Deluxe": 3207,
-    "Interior": 949,
-    "Outside": 1248
+    "Balcony": 1811,
+    "Deluxe": 3223,
+    "Interior": 909,
+    "Outside": 1488
    },
    "verifiedOn": "2026-10-04"
   },
@@ -2299,7 +2299,7 @@
    "verifiedOn": "2026-10-04"
   },
   "659B8761-812F-5931-8C17-DFE4FB20F84E": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-23",
    "lineUrl": "https://www.msccruisesusa.com/search/itinerary?sort=relevance&amp;cruiseId=PO20270823SEASEA&amp;itineraryCode=UY3G",
    "ourEnd": "Seattle, WA",
@@ -2329,7 +2329,7 @@
    "verifiedOn": "2026-10-04"
   },
   "66CC8489-848A-539B-919A-1E958253D0F8": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-30",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -2338,7 +2338,7 @@
    "status": "not_listed"
   },
   "68B686E7-4B39-5D67-8993-839F951E09F7": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-06",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -2496,7 +2496,7 @@
    "verifiedOn": "2026-10-07"
   },
   "72E57419-F7ED-5B49-A60F-E1EE21ED1AF7": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-13",
    "lineUrl": "https://www.princess.com/itinerary-details/?voyageCode=4724",
    "ourEnd": "Seattle, WA",
@@ -2531,7 +2531,7 @@
    "verifiedOn": "2026-10-07"
   },
   "73AA71BE-E16F-59B2-8368-450BABC8FBE3": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-06",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235230&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -2629,7 +2629,7 @@
    "verifiedOn": "2026-10-04"
   },
   "789FE6DD-9477-51C8-84F4-5916081B7A6D": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-16",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-16&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -2641,10 +2641,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2137,
-    "Deluxe": 4950,
-    "Interior": 1379,
-    "Outside": 1856
+    "Balcony": 2136,
+    "Deluxe": 4002,
+    "Interior": 1108,
+    "Outside": 1588
    },
    "verifiedOn": "2026-10-04"
   },
@@ -2754,7 +2754,7 @@
    "theirPrices": {}
   },
   "7C2E32DB-EACB-5F32-BD91-6AEC893C52E9": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-02",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -2822,7 +2822,7 @@
    "verifiedOn": "2026-10-04"
   },
   "7F28DCEC-F875-57BD-85A3-0CCEB03024F7": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-05-21",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-experience-from-seattle-on-voyager/VY07SEA-2105097221?sail-date=2027-05-21&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -2831,13 +2831,13 @@
    "source": "https://www.cruisetimetables.com/fromseattlewashington-21may2027.html",
    "status": "match",
    "theirEnd": "Seattle, Washington",
-   "theirName": "Alaska Adventure Cruise",
+   "theirName": "Alaska Experience Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1366,
-    "Deluxe": 2262,
-    "Interior": 729,
-    "Outside": 909
+    "Balcony": 1247,
+    "Deluxe": 2344,
+    "Interior": 677,
+    "Outside": 938
    },
    "verifiedOn": "2026-10-04"
   },
@@ -2902,7 +2902,7 @@
    "verifiedOn": "2026-10-04"
   },
   "8339B420-F754-556F-8C05-170A32C4C2A5": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-27",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-08-27&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -2914,10 +2914,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1705,
-    "Deluxe": 4887,
-    "Interior": 1143,
-    "Outside": 1251
+    "Balcony": 1608,
+    "Deluxe": 5127,
+    "Interior": 1066,
+    "Outside": 1169
    },
    "verifiedOn": "2026-10-05"
   },
@@ -3114,7 +3114,7 @@
    "verifiedOn": "2026-10-17"
   },
   "8A83E136-8EDB-525D-BDA3-F0E9163E4C4F": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-09",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-09&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -3126,15 +3126,15 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2067,
-    "Deluxe": 5332,
-    "Interior": 1332,
-    "Outside": 1703
+    "Balcony": 2132,
+    "Deluxe": 4320,
+    "Interior": 1312,
+    "Outside": 1380
    },
    "verifiedOn": "2026-10-04"
   },
   "8ADC740C-A906-5451-B288-D339E97FFF1E": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-30",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-30&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -3147,9 +3147,9 @@
    "theirNights": 7,
    "theirPrices": {
     "Balcony": 2266,
-    "Deluxe": 2754,
-    "Interior": 939,
-    "Outside": 1411
+    "Deluxe": 2787,
+    "Interior": 909,
+    "Outside": 1339
    },
    "verifiedOn": "2026-10-04"
   },
@@ -3338,7 +3338,7 @@
    "verifiedOn": "2026-10-07"
   },
   "92EA0C5C-4ADA-5F61-83F2-245E0F7F8E61": {
-   "checkedAt": "2026-10-22T09:45:25+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-04-30",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -3472,7 +3472,7 @@
    "verifiedOn": "2026-10-04"
   },
   "99953EEC-742A-514F-8E92-A0D897D6CE64": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-13",
    "ourEnd": "Juneau, AK",
    "ourNights": 12,
@@ -3560,7 +3560,7 @@
    "verifiedOn": "2026-10-07"
   },
   "9DA3A27B-3786-5479-AEF4-0CF1E5AE9142": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-06",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-08-06&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -3572,10 +3572,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1729,
+    "Balcony": 1768,
     "Deluxe": 2585,
-    "Interior": 808,
-    "Outside": 1158
+    "Interior": 768,
+    "Outside": 1098
    },
    "verifiedOn": "2026-10-04"
   },
@@ -3600,7 +3600,7 @@
    "verifiedOn": "2026-10-07"
   },
   "9E8CEC57-D4CA-549F-A296-06DF2BAD8803": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-02",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-02&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -3612,10 +3612,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1834,
-    "Deluxe": 3049,
-    "Interior": 989,
-    "Outside": 1289
+    "Balcony": 1980,
+    "Deluxe": 3050,
+    "Interior": 910,
+    "Outside": 1190
    },
    "verifiedOn": "2026-10-04"
   },
@@ -3695,7 +3695,7 @@
    "verifiedOn": "2026-10-04"
   },
   "A08A0F82-2F2A-519A-9848-11FB0D1AA611": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-13",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -3733,7 +3733,7 @@
    "verifiedOn": "2026-10-08"
   },
   "A333FF73-26F6-53BE-9BEE-73A1010B88CB": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-20",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -3892,7 +3892,7 @@
    "verifiedOn": "2026-10-05"
   },
   "A7FF97C9-41C2-5FF4-9255-9242E45C306C": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-04",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-06-04&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -3904,10 +3904,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2207,
-    "Deluxe": 4433,
-    "Interior": 1145,
-    "Outside": 1638
+    "Balcony": 2008,
+    "Deluxe": 3468,
+    "Interior": 1096,
+    "Outside": 1554
    },
    "verifiedOn": "2026-10-04"
   },
@@ -3982,7 +3982,7 @@
    "verifiedOn": "2026-10-04"
   },
   "AABFAD3A-D5A1-542A-9ADC-A3CCFAA80D99": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-05-28",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-05-28&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -3994,10 +3994,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1556,
-    "Deluxe": 2666,
-    "Interior": 806,
-    "Outside": 1010
+    "Balcony": 1661,
+    "Deluxe": 2550,
+    "Interior": 820,
+    "Outside": 1028
    },
    "verifiedOn": "2026-10-04"
   },
@@ -4071,7 +4071,7 @@
    "verifiedOn": "2026-10-04"
   },
   "AE5B2755-15B6-5C79-B87A-D35FDD68C5F6": {
-   "checkedAt": "2026-10-22T09:45:25+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-09-28",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Tokyo (Yokohama), Japan",
@@ -4081,7 +4081,7 @@
    "status": "error"
   },
   "AE6EBC9F-CE13-58F2-A824-265F4061CF66": {
-   "checkedAt": "2026-10-22T09:45:25+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-04-23",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -4135,7 +4135,7 @@
    "verifiedOn": "2026-10-07"
   },
   "B298907B-F3F3-565D-8CD8-E139E7508D47": {
-   "checkedAt": "2026-10-22T09:45:25+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-10-04",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -4145,7 +4145,7 @@
    "status": "error"
   },
   "B344459B-247A-5064-87C0-2A6031F59951": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-13",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-08-13&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -4157,10 +4157,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1842,
-    "Deluxe": 4855,
-    "Interior": 1093,
-    "Outside": 1317
+    "Balcony": 1798,
+    "Deluxe": 3861,
+    "Interior": 997,
+    "Outside": 1122
    },
    "verifiedOn": "2026-10-05"
   },
@@ -4229,7 +4229,7 @@
    "status": "not_listed"
   },
   "B7F34768-BE59-5C8D-985B-7756F9BEAADD": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-27",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-08-27&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -4241,10 +4241,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1649,
-    "Deluxe": 2049,
-    "Interior": 899,
-    "Outside": 1308
+    "Balcony": 1486,
+    "Deluxe": 2065,
+    "Interior": 774,
+    "Outside": 1191
    },
    "verifiedOn": "2026-10-05"
   },
@@ -4468,7 +4468,7 @@
    "verifiedOn": "2026-10-04"
   },
   "C26D719A-3BE0-584B-911C-B1177FC482EB": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-18",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-06-18&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -4480,10 +4480,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2162,
-    "Deluxe": 4997,
-    "Interior": 1208,
-    "Outside": 1710
+    "Balcony": 2057,
+    "Deluxe": 4025,
+    "Interior": 1057,
+    "Outside": 1588
    },
    "verifiedOn": "2026-10-04"
   },
@@ -4592,7 +4592,7 @@
    "verifiedOn": "2026-10-04"
   },
   "C6520DA7-F3FF-5843-973B-C318131E03B6": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-20",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAJNUSGYSITHGCICYKTNVICSEA-NIC-JOY10SEAICYJNUKTNSITVICSEA&amp;packageId=24245720&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -4616,13 +4616,13 @@
    ],
    "theirPrices": {
     "Balcony": 3249,
-    "Inside": 1919,
-    "Oceanview": 2599,
-    "Suite": 4269
+    "Inside": 1949,
+    "Oceanview": 2619,
+    "Suite": 4219
    }
   },
   "C6B8EB0E-B02D-51ED-8F3B-C7E8AF9D8D59": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-20",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-08-20&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -4634,10 +4634,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1740,
-    "Deluxe": 4783,
-    "Interior": 1119,
-    "Outside": 1470
+    "Balcony": 1515,
+    "Deluxe": 3975,
+    "Interior": 957,
+    "Outside": 1180
    },
    "verifiedOn": "2026-10-05"
   },
@@ -4682,7 +4682,7 @@
    "verifiedOn": "2026-10-04"
   },
   "C77CDC23-E3EE-5360-B71A-E84088047881": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-04",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -4816,7 +4816,7 @@
    "verifiedOn": "2026-10-12"
   },
   "CE94FF78-2394-5430-A6E9-14F22E474424": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-09",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAJNUICYKTNVICSEA-NIC-JOY7SEAICYJNUKTNVICSEA&amp;packageId=24235226&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -4828,10 +4828,10 @@
    "theirName": "Alaska Round-trip Seattle: Juneau, Ketchikan & Victoria",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2249,
-    "Inside": 1419,
-    "Oceanview": 1919,
-    "Suite": 3469
+    "Balcony": 2119,
+    "Inside": 1269,
+    "Oceanview": 1869,
+    "Suite": 3419
    },
    "verifiedOn": "2026-10-06"
   },
@@ -4865,7 +4865,7 @@
    }
   },
   "CF5CA345-F83B-5BFA-9CBA-17A85733E8ED": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-30",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235229&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -4885,7 +4885,7 @@
    "verifiedOn": "2026-10-06"
   },
   "CFBB8DF4-7E5C-516A-85FF-563132ABAF74": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-11",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-06-11&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -4897,10 +4897,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2347,
-    "Deluxe": 4743,
-    "Interior": 1221,
-    "Outside": 1817
+    "Balcony": 2344,
+    "Deluxe": 4057,
+    "Interior": 1014,
+    "Outside": 1578
    },
    "verifiedOn": "2026-10-04"
   },
@@ -4945,7 +4945,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D04EC1A6-3A82-5084-AC29-A11DCD01223C": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-23",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-07-23&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -4957,10 +4957,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1851,
-    "Deluxe": 2999,
-    "Interior": 959,
-    "Outside": 1229
+    "Balcony": 1751,
+    "Deluxe": 3026,
+    "Interior": 869,
+    "Outside": 1169
    },
    "verifiedOn": "2026-10-04"
   },
@@ -5025,7 +5025,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D27DA062-18E4-5F8C-B888-C4774CA6CEA0": {
-   "checkedAt": "2026-10-22T09:45:25+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-10-11",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -5035,7 +5035,7 @@
    "status": "error"
   },
   "D31C16F9-1D10-5CAC-B7E7-7645DC64A005": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-04",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-06-04&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -5047,10 +5047,10 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1799,
-    "Deluxe": 2712,
-    "Interior": 823,
-    "Outside": 1229
+    "Balcony": 1800,
+    "Deluxe": 2715,
+    "Interior": 827,
+    "Outside": 1188
    },
    "verifiedOn": "2026-10-04"
   },
@@ -5095,7 +5095,7 @@
    "verifiedOn": "2026-10-07"
   },
   "D62C9806-8168-5429-AF93-C1F83CC459A5": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-16",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -5144,7 +5144,7 @@
    "verifiedOn": "2026-10-04"
   },
   "D718C5AE-7CBF-59F9-BC72-F779FF84B0FF": {
-   "checkedAt": "2026-10-22T09:45:25+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-10-25",
    "error": "no listings parsed (throttled or page changed)",
    "ourEnd": "Seattle, WA",
@@ -5214,7 +5214,7 @@
    "verifiedOn": "2026-10-04"
   },
   "DAA11D24-7CE7-554E-A84B-788BBF963FA5": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-25",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-06-25&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -5226,10 +5226,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2172,
-    "Deluxe": 5154,
-    "Interior": 1283,
-    "Outside": 1625
+    "Balcony": 1947,
+    "Deluxe": 4039,
+    "Interior": 1138,
+    "Outside": 1719
    },
    "verifiedOn": "2026-10-04"
   },
@@ -5249,7 +5249,7 @@
    "verifiedOn": "2026-10-04"
   },
   "DAD32F4E-1FEF-52D0-833C-EFFD979804F6": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-23",
    "ourEnd": "Seattle, WA",
    "ourNights": 10,
@@ -5300,7 +5300,7 @@
    "theirPrices": {}
   },
   "DC0D5061-9481-564F-B4A0-C67E1C8B7E0B": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-23",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-23&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -5312,10 +5312,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2360,
-    "Deluxe": 5216,
-    "Interior": 1292,
-    "Outside": 1880
+    "Balcony": 2135,
+    "Deluxe": 4100,
+    "Interior": 1045,
+    "Outside": 1620
    },
    "verifiedOn": "2026-10-04"
   },
@@ -5335,7 +5335,7 @@
    "verifiedOn": "2026-10-04"
   },
   "DD7DE9BF-0F07-53F6-8227-5A57E874C5ED": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-30",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-07-30&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -5347,10 +5347,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 2069,
-    "Deluxe": 4805,
-    "Interior": 1501,
-    "Outside": 1947
+    "Balcony": 1844,
+    "Deluxe": 4204,
+    "Interior": 1256,
+    "Outside": 1789
    },
    "verifiedOn": "2026-10-04"
   },
@@ -5559,7 +5559,7 @@
    "verifiedOn": "2026-10-04"
   },
   "E6AE35C8-5A38-55C0-B731-0296C94149AE": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-16",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235227&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -5599,7 +5599,7 @@
    "verifiedOn": "2026-10-04"
   },
   "E7AA5FE7-565B-5A0C-AF8F-5A451B041DB5": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-06-18",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -5837,7 +5837,7 @@
    }
   },
   "F4E8B4D9-A5CE-5974-BE69-539DEC06FB63": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-07-02",
    "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY7SEAICYSITKTNVICSEA-NIC-JOY7SEAICYKTNSITVICSEA&amp;packageId=24235225&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
@@ -6016,7 +6016,7 @@
    "verifiedOn": "2026-10-04"
   },
   "F97489A8-15CE-5ACE-8CBC-FAC0A088BCB5": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-05-21",
    "ourEnd": "Seattle, WA",
    "ourNights": 8,
@@ -6074,7 +6074,7 @@
    "verifiedOn": "2026-10-04"
   },
   "FA5941FB-13F3-5173-B40B-BF619E5BC92B": {
-   "checkedAt": "2026-10-15T09:32:56+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-08-13",
    "lineUrl": "https://www.royalcaribbean.com/cruises/itinerary/7-night-alaska-adventure-from-seattle-on-voyager/VY07SEA-2189415139?sail-date=2027-08-13&amp;currency=USD",
    "ourEnd": "Seattle, WA",
@@ -6086,15 +6086,15 @@
    "theirName": "Alaska Adventure Cruise",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1703,
-    "Deluxe": 2438,
-    "Interior": 764,
-    "Outside": 1069
+    "Balcony": 1704,
+    "Deluxe": 2435,
+    "Interior": 716,
+    "Outside": 1020
    },
    "verifiedOn": "2026-10-05"
   },
   "FA91D59C-FC84-5892-A3A7-3B26C53BC757": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-05-21",
    "lineUrl": "https://www.celebritycruises.com/itinerary/7-night-alaska-dawes-glacier-cruise-from-seattle-on-edge-EG07A439?sailDate=2027-05-21&amp;packageCode=EG07A439",
    "ourEnd": "Seattle, WA",
@@ -6106,10 +6106,10 @@
    "theirName": "Alaska Dawes Glacier",
    "theirNights": 7,
    "theirPrices": {
-    "Balcony": 1887,
-    "Deluxe": 4977,
-    "Interior": 1084,
-    "Outside": 1392
+    "Balcony": 1881,
+    "Deluxe": 3887,
+    "Interior": 961,
+    "Outside": 1492
    },
    "verifiedOn": "2026-10-04"
   },
@@ -6154,22 +6154,22 @@
    "verifiedOn": "2026-10-04"
   },
   "FF076306-9DBC-5FA5-AB56-D8B44DEDE89D": {
-   "checkedAt": "2026-10-14T09:46:20+00:00",
+   "checkedAt": "2026-10-23T09:40:34+00:00",
    "date": "2027-05-28",
-   "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAICYSITJNUKTNVICSEA-NIC-JOY10SEAICYJNUKTNSITVICSEA&amp;packageId=24235220&amp;stateroomTypeCode=INSIDE&amp;",
+   "lineUrl": "https://www.ncl.com/vacation-builder?itineraryCode=JOY10SEAKTNICYJNUSITVICSEA-NIC-JOY10SEAICYJNUKTNSITVICSEA&amp;packageId=24235220&amp;stateroomTypeCode=INSIDE&amp;",
    "ourEnd": "Seattle, WA",
    "ourNights": 10,
    "ship": "Norwegian Joy",
    "source": "https://www.cruisetimetables.com/fromseattlewashington-28may2027.html",
    "status": "match",
    "theirEnd": "Seattle, Washington",
-   "theirName": "Alaska Round-trip Seattle: Skagway, Juneau, Sitka & Victoria",
+   "theirName": "Alaska from Seattle to Victoria: Skagway, Sitka, Juneau & Victoria",
    "theirNights": 10,
    "theirPrices": {
-    "Balcony": 2949,
-    "Inside": 1699,
-    "Oceanview": 2169,
-    "Suite": 3569
+    "Balcony": 2739,
+    "Inside": 1389,
+    "Oceanview": 1869,
+    "Suite": 3469
    },
    "verifiedOn": "2026-10-06"
   },
