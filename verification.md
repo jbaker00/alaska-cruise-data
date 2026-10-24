@@ -1,4 +1,4 @@
-# Weekly sailing verification — 2026-10-23
+# Weekly sailing verification — 2026-10-24
 
 Checked 353 upcoming sailings against cruisetimetables.com: **302 match**, **8 mismatch**, 35 not listed, 8 errors.
 
