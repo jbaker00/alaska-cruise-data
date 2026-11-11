@@ -1,6 +1,6 @@
-# Weekly sailing verification — 2026-11-10
+# Weekly sailing verification — 2026-11-11
 
-Checked 353 upcoming sailings against cruisetimetables.com: **298 match**, **8 mismatch**, 35 not listed, 12 errors.
+Checked 353 upcoming sailings against cruisetimetables.com: **302 match**, **8 mismatch**, 35 not listed, 8 errors.
 
 Mismatches need a person to research (ideally in the cruise line's agent portal) and fix the ship template in `pipeline/templates/`. Nothing here changes the app data automatically.
 
@@ -56,11 +56,7 @@ Mismatches need a person to research (ideally in the cruise line's agent portal)
 ## Fetch errors
 
 - Eurodam 2027-04-23 (1 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-23apr2027.html)
-- MSC Poesia 2027-04-26 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-26apr2027.html)
 - Star Princess 2027-04-30 (9 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-30apr2027.html)
-- Eurodam 2027-09-04 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-04sep2027.html)
-- Norwegian Bliss 2027-09-04 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-04sep2027.html)
-- Royal Princess 2027-09-04 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-04sep2027.html)
 - Wilderness Explorer 2027-09-15 (12 nights → Seattle (Fishermen's Terminal)) — [source](https://www.cruisetimetables.com/fromseattlewashington-15sep2027.html)
 - Norwegian Jade 2027-09-28 (15 nights → Tokyo (Yokohama), Japan) — [source](https://www.cruisetimetables.com/fromseattlewashington-28sep2027.html)
 - American Constellation 2027-10-04 (7 nights → Seattle, WA) — [source](https://www.cruisetimetables.com/fromseattlewashington-04oct2027.html)
